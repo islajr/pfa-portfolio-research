@@ -1,0 +1,1972 @@
+[
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report states commercial residential housing in premium neighborhoods (Ikoyi, Victoria Island, Banana Island) was flat in 2020.",
+    "year": 2020,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Octo5",
+    "source_file": "2020-Economic-Review-Outlook-for-2021.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report expects grade A office sub sectors to remain largely flat for 2021.",
+    "year": 2021,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Octo5",
+    "source_file": "2020-Economic-Review-Outlook-for-2021.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Ikeja City Mall is a retail asset in Ikeja, Lagos. Mapped to LG_RET_ISL as the closest Lagos retail index.",
+    "year": 2020,
+    "capital_apprc": -0.184,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Estate Intel",
+    "source_file": "Ikeja-City-Mall-2020-Sale-Report.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos prime residential rents in H1 2020, noting a 38% increase from Q4 2019.",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Africa-Residential-Dashboard-H1-2020.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Abuja Prime Office Yield in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Knight Frank, Northcourt",
+    "source_file": "Nigerian RE Market Review H1 2020.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Abuja Prime Office Yield in 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank, Northcourt",
+    "source_file": "Nigerian RE Market Review H1 2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos Prime Office Yield in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank, Northcourt",
+    "source_file": "Nigerian RE Market Review H1 2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos Prime Office Yield in 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank, Northcourt",
+    "source_file": "Nigerian RE Market Review H1 2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos Island (Ikoyi and Victoria Island) office market rents and vacancy rates for H1 2020.",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Broll",
+    "source_file": "Office-Market-Viewpoint-Nigeria-H1-2020.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report mentions Abuja office market average asking rents for B-grade properties in H1 2020.",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Broll",
+    "source_file": "Office-Market-Viewpoint-Nigeria-H1-2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses the Ikoyi and Victoria Island Grade A and B office markets in H1 2020.",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Troloppe",
+    "source_file": "Lagos-Office-Market-Report-H1-2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report notes that the office market prices stabilized in 2019 amidst increased office absorption.",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Troloppe",
+    "source_file": "Lagos-Office-Market-Report-H1-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Victoria Island house price decline of 8.7% in 2019",
+    "year": 2019,
+    "capital_apprc": -0.087,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria-Real-Estate-Market-Outlook-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Old Ikoyi land price YoY growth of 20% in 2019",
+    "year": 2019,
+    "capital_apprc": 0.2,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria-Real-Estate-Market-Outlook-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Victoria Island prime land price growth of 11.3% YoY in 2019",
+    "year": 2019,
+    "capital_apprc": 0.113,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria-Real-Estate-Market-Outlook-2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses average yield of 3.4% and capital growth of 16.5% for Nigeria's commercial real estate market",
+    "year": 2019,
+    "capital_apprc": 0.165,
+    "rental_yield": 0.034,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria-Real-Estate-Market-Outlook-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "UPDC REIT recorded a rental yield of 5.19% in 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.0519,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria-Real-Estate-Market-Outlook-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Union Homes REIT recorded a rental yield of 4.75% in 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.0475,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria-Real-Estate-Market-Outlook-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report states that rental income yield in cities like Lagos can easily reach 10 percent for residential units.",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.1,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "The-Nigerian-Real-Estate-Report-2020.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report projects residential capital values to drop marginally by 3% to 5% (average 4%) in the next 6-12 months post-Covid.",
+    "year": 2020,
+    "capital_apprc": -0.04,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "The-Nigerian-Real-Estate-Report-2020.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses average yield of 3.4% and capital growth of 16.5% for Nigeria's commercial real estate market.",
+    "year": 2019,
+    "capital_apprc": 0.165,
+    "rental_yield": 0.034,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2020-report.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report discusses average yield of 3.4% and capital growth of 16.5% for Nigeria's commercial real estate market.",
+    "year": 2019,
+    "capital_apprc": 0.165,
+    "rental_yield": 0.034,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2020-report.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Grade A office yields in Lagos averaging 8% in H1 2021",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigerian RE Market Review H1 2021_.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Prime Office Yields in Abuja for 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2021-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Prime Office Yields in Abuja for 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2021-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Prime Office Yields in Abuja for 2020",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2021-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Prime Office Yields in Lagos for 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2021-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Prime Office Yields in Lagos for 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2021-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Prime Office Yields in Lagos for 2020",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2021-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Office Yields chart in H1 2021 report representing Lagos Island office market",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Lagos-Market-Update-H1-2021.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Office Yields chart in H1 2021 report representing Lagos Island office market",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Lagos-Market-Update-H1-2021.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Office Yields chart in H1 2021 report representing Lagos Island office market",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Lagos-Market-Update-H1-2021.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Office Yields chart in H1 2021 report representing Lagos Island office market",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Lagos-Market-Update-H1-2021.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Ikoyi residential house prices increasing by 25% in H1 2021 compared to H1 2020.",
+    "year": 2021,
+    "capital_apprc": 0.25,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "CW Real Estate",
+    "source_file": "Ikoyi-Residential-Report-H1-2021.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Chevron, Agungi and Osapa in Lekki reported an average rental yield of 6% in 2020",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.06,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Pearl Hostel in Ibeju-Lekki had a 6.60% rental yield in 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.066,
+    "annual_return": null,
+    "data_source": "UAC Property Development Company (UPDC)",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Student Accommod8 reports residential real estate ROI of 4-5% per annum",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.045,
+    "annual_return": 0.045,
+    "data_source": "Student Accommod8",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Student housing ROI reported at 22% per annum",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.22,
+    "data_source": "Student Accommod8",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "K.Parkwood report states student housing had an expected target return of 15% in 2020",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.15,
+    "data_source": "K.Parkwood Property Services",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Projected 10%-20% increase in residential property values across board for 2021",
+    "year": 2021,
+    "capital_apprc": 0.15,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Projected 10%-20% increase in commercial land sales values for 2021",
+    "year": 2021,
+    "capital_apprc": 0.15,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Victoria Island land in 2020 (350k vs 350k in 2019)",
+    "year": 2020,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Ikoyi land in 2020 (400k vs 350k in 2019)",
+    "year": 2020,
+    "capital_apprc": 0.1429,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Lekki land in 2020 (280k vs 200k in 2019)",
+    "year": 2020,
+    "capital_apprc": 0.4,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Calculated capital appreciation for Maitama land in 2020 (220k vs 200k in 2019)",
+    "year": 2020,
+    "capital_apprc": 0.1,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "PH_COM_OIL",
+    "mapping_rationale": "Calculated capital appreciation for Port Harcourt GRA land in 2020 (110k vs 100k in 2019)",
+    "year": 2020,
+    "capital_apprc": 0.1,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "KN_IND_NTH",
+    "mapping_rationale": "Calculated capital appreciation for Bompai land in 2020 (40k vs 39k in 2019)",
+    "year": 2020,
+    "capital_apprc": 0.0256,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Victoria Island land in 2019 (350k vs 300k in 2018)",
+    "year": 2019,
+    "capital_apprc": 0.1667,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Ikoyi land in 2019 (350k vs 350k in 2018)",
+    "year": 2019,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Lekki land in 2019 (200k vs 200k in 2018)",
+    "year": 2019,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Calculated capital appreciation for Maitama land in 2019 (200k vs 200k in 2018)",
+    "year": 2019,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "PH_COM_OIL",
+    "mapping_rationale": "Calculated capital appreciation for Port Harcourt GRA land in 2019 (100k vs 100k in 2018)",
+    "year": 2019,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "KN_IND_NTH",
+    "mapping_rationale": "Calculated capital appreciation for Bompai land in 2019 (39k vs 38k in 2018)",
+    "year": 2019,
+    "capital_apprc": 0.0263,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Victoria Island land in 2018 (300k vs 250k in 2017)",
+    "year": 2018,
+    "capital_apprc": 0.2,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Ikoyi land in 2018 (350k vs 300k in 2017)",
+    "year": 2018,
+    "capital_apprc": 0.1667,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated capital appreciation for Lekki land in 2018 (200k vs 200k in 2017)",
+    "year": 2018,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Calculated capital appreciation for Maitama land in 2018 (200k vs 200k in 2017)",
+    "year": 2018,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "PH_COM_OIL",
+    "mapping_rationale": "Calculated capital appreciation for Port Harcourt GRA land in 2018 (100k vs 80k in 2017)",
+    "year": 2018,
+    "capital_apprc": 0.25,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "KN_IND_NTH",
+    "mapping_rationale": "Calculated capital appreciation for Bompai land in 2018 (38k vs 38k in 2017)",
+    "year": 2018,
+    "capital_apprc": 0.0,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh & Co.",
+    "source_file": "2021-Nigeria-Real-Estate-Report-Ubosi-Eleh.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "The report provides the prime industrial yield for Lagos as 9.00% in Q4 2022.",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-industrial-market-dashboard-q4-2022-10043.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses existing gated communities in Lagos experiencing 25% to 30% YoY price growth in H1 2022.",
+    "year": 2022,
+    "capital_apprc": 0.275,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria_RE_Market_Review_H1_2022.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Abuja office yields for 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "The-Africa-Report-2022-2023-Knight-Frank.pdf"
+  },
+  {
+    "index_code": "AB_RET_CEN",
+    "mapping_rationale": "Report discusses Abuja retail yields for 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "The-Africa-Report-2022-2023-Knight-Frank.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos office yields for 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.082,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "The-Africa-Report-2022-2023-Knight-Frank.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report discusses Lagos retail yields for 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "The-Africa-Report-2022-2023-Knight-Frank.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report discusses Lagos industrial yields for 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "The-Africa-Report-2022-2023-Knight-Frank.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos residential yields for 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "The-Africa-Report-2022-2023-Knight-Frank.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report provides Q3 2022 prime industrial yields for Lagos",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-industrial-market-dashboard-q3-2022-november-q3-2022-9545.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report shows Lagos Office Yields chart with 8.50% in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2022-9981.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report shows Lagos Office Yields chart with 8.50% in 2019",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2022-9981.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report shows Lagos Office Yields chart with 9% in 2020",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2022-9981.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report shows Lagos Office Yields chart with 9% in 2021",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2022-9981.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report shows Lagos Office Yields chart with 9.50% in 2022",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2022-9981.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land price changes in premium Lagos residential areas (Old Ikoyi, Lekki Phase 1, Victoria Island) from the Lagos Average Land Prices table.",
+    "year": 2018,
+    "capital_apprc": 0.0653,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2022-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land price changes in premium Lagos residential areas (Old Ikoyi, Lekki Phase 1, Victoria Island) from the Lagos Average Land Prices table.",
+    "year": 2019,
+    "capital_apprc": 0.1055,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2022-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land price changes in premium Lagos residential areas (Old Ikoyi, Lekki Phase 1, Victoria Island) from the Lagos Average Land Prices table.",
+    "year": 2020,
+    "capital_apprc": -0.0126,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2022-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land price changes in premium Lagos residential areas (Old Ikoyi, Lekki Phase 1, Victoria Island) from the Lagos Average Land Prices table.",
+    "year": 2021,
+    "capital_apprc": 0.3859,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2022-Nigeria-Real-Estate-Market-Outlook.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Nigeria prime office yields (H1 2023)",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "middle-east-africa-prime-yield-guide-a-year-in-review-2022-10480.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report discusses Nigeria prime retail yields (H1 2023)",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "middle-east-africa-prime-yield-guide-a-year-in-review-2022-10480.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report discusses Nigeria prime industrial yields (H1 2023)",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "middle-east-africa-prime-yield-guide-a-year-in-review-2022-10480.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Nigeria prime residential yields (H1 2023)",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.05,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "middle-east-africa-prime-yield-guide-a-year-in-review-2022-10480.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Grade A Office Yields chart",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Grade A Office Yields chart",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Grade A Office Yields chart",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Grade A Office Yields chart",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Grade A Office Yields chart",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Lagos Grade A Office Yields chart",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Average of 1, 2, 3, and 4 Bed Flats yields in Lagos Premium Residential (Ikoyi/Parkview) from Yield Convergence chart",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.03625,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Average of 1, 2, 3, and 4 Bed Flats yields in Lagos Premium Residential (Ikoyi/Parkview) from Yield Convergence chart",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.03825,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Average of 1, 2, 3, and 4 Bed Flats yields in Lagos Premium Residential (Ikoyi/Parkview) from Yield Convergence chart",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": 0.042,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Average of 1, 2, 3, and 4 Bed Flats yields in Lagos Premium Residential (Ikoyi/Parkview) from Yield Convergence chart",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": 0.03775,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Average of 1, 2, 3, and 4 Bed Flats yields in Lagos Premium Residential (Ikoyi/Parkview) from Yield Convergence chart",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": 0.03875,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Average of 1, 2, 3, and 4 Bed Flats yields in Lagos Premium Residential (Ikoyi/Parkview) from Yield Convergence chart",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.03775,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Lagos Industrial Rents Compared to Select African Cities chart",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2023-11071.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report provides average industrial yields for Lagos in H2 2023",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-industrial-market-dashboard-h2-2023-11094.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses Abuja Phase 2 residential average rates of return",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.1284,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses Abuja Phase 2 residential average rates of return",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0849,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses Abuja Phase 2 residential average rates of return",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0218,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses Abuja Phase 2 residential average rates of return",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0353,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses Abuja Phase 2 residential average rates of return",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0377,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of warehouses in Abak, Akwa Ibom",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.1093,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of warehouses in Abak, Akwa Ibom",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0963,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of warehouses in Abak, Akwa Ibom",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0693,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of warehouses in Abak, Akwa Ibom",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0913,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of warehouses in Abak, Akwa Ibom",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.098,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of shops in Abak, Akwa Ibom",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0285,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of shops in Abak, Akwa Ibom",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0534,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of shops in Abak, Akwa Ibom",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0311,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of shops in Abak, Akwa Ibom",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0526,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average returns of shops in Abak, Akwa Ibom",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.056,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Uyo, Akwa Ibom",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0671,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Uyo, Akwa Ibom",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0709,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Uyo, Akwa Ibom",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0744,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Uyo, Akwa Ibom",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0761,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Uyo, Akwa Ibom",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0766,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Ikot Ekpene, Akwa Ibom",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0886,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Ikot Ekpene, Akwa Ibom",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0708,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Ikot Ekpene, Akwa Ibom",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0885,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Ikot Ekpene, Akwa Ibom",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0905,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Ikot Ekpene, Akwa Ibom",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0972,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Eket, Akwa Ibom",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.06,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Eket, Akwa Ibom",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0503,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Eket, Akwa Ibom",
+    "year": 2020,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0617,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Eket, Akwa Ibom",
+    "year": 2021,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0701,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": null,
+    "mapping_rationale": "Report discusses average rate of returns of investment for 2 Bedroom apartments in Eket, Akwa Ibom",
+    "year": 2022,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": 0.0784,
+    "data_source": "Northcourt",
+    "source_file": "2023 Nigeria Real Estate Market Outlook by Northcourt Real Estate.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report provides prime industrial yields for Lagos in Q2 2023",
+    "year": 2023,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-industrial-market-dashboard-q2-2023-10528.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Old Ikoyi on Page 35",
+    "year": 2018,
+    "capital_apprc": -0.1655,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Old Ikoyi on Page 35",
+    "year": 2019,
+    "capital_apprc": 0.2397,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Old Ikoyi on Page 35",
+    "year": 2020,
+    "capital_apprc": -0.0317,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Old Ikoyi on Page 35",
+    "year": 2021,
+    "capital_apprc": 0.1817,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Old Ikoyi on Page 35",
+    "year": 2022,
+    "capital_apprc": 0.4455,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Stated 2022-2023 %Change for Old Ikoyi on Page 35",
+    "year": 2023,
+    "capital_apprc": 0.69,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Lekki Phase 1 on Page 35",
+    "year": 2018,
+    "capital_apprc": 0.4,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Lekki Phase 1 on Page 35",
+    "year": 2019,
+    "capital_apprc": 0.0204,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Lekki Phase 1 on Page 35",
+    "year": 2020,
+    "capital_apprc": -0.0407,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Lekki Phase 1 on Page 35",
+    "year": 2021,
+    "capital_apprc": 0.2863,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Lekki Phase 1 on Page 35",
+    "year": 2022,
+    "capital_apprc": 0.6127,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Stated 2022-2023 %Change for Lekki Phase 1 on Page 35",
+    "year": 2023,
+    "capital_apprc": 0.45,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Victoria Island on Page 35",
+    "year": 2018,
+    "capital_apprc": -0.0385,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Victoria Island on Page 35",
+    "year": 2019,
+    "capital_apprc": 0.1333,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Victoria Island on Page 35",
+    "year": 2020,
+    "capital_apprc": -0.0713,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Victoria Island on Page 35",
+    "year": 2021,
+    "capital_apprc": -0.1355,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Victoria Island on Page 35",
+    "year": 2022,
+    "capital_apprc": 0.8681,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Stated 2022-2023 %Change for Victoria Island on Page 35",
+    "year": 2023,
+    "capital_apprc": 0.02,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Ikeja GRA on Page 35",
+    "year": 2018,
+    "capital_apprc": 0.0038,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Ikeja GRA on Page 35",
+    "year": 2019,
+    "capital_apprc": -0.0805,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Ikeja GRA on Page 35",
+    "year": 2020,
+    "capital_apprc": 0.2326,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Ikeja GRA on Page 35",
+    "year": 2021,
+    "capital_apprc": -0.0385,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Calculated from average land prices for Ikeja GRA on Page 35",
+    "year": 2022,
+    "capital_apprc": 0.3641,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Stated 2022-2023 %Change for Ikeja GRA on Page 35",
+    "year": 2023,
+    "capital_apprc": 0.7,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Nigeria Real Estate Market Review H1 2023.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Table on page 13 shows average industrial yields in Lagos of 8.0% in H2 2024.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-industrial-market-dashboard-h2-2024-12015.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report shows average 5-year sales price growth rate (capital appreciation) of approximately 16% for Ikoyi premium residential segment",
+    "year": 2024,
+    "capital_apprc": 0.16,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Estate Intel",
+    "source_file": "2024-Lagos-Real-Estate-Development-Pipeline-Report.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report shows average 5-year sales price growth rate (capital appreciation) of approximately 19% for Victoria Island premium residential segment",
+    "year": 2024,
+    "capital_apprc": 0.19,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Estate Intel",
+    "source_file": "2024-Lagos-Real-Estate-Development-Pipeline-Report.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report shows average 5-year sales price growth rate (capital appreciation) of approximately 17.5% for Lekki Phase 1 premium residential segment",
+    "year": 2024,
+    "capital_apprc": 0.175,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Estate Intel",
+    "source_file": "2024-Lagos-Real-Estate-Development-Pipeline-Report.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos office yields for 2024",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.08,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-report-2024-25-11356.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report discusses Lagos retail yields for 2024",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-report-2024-25-11356.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report discusses Lagos industrial yields for 2024",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.085,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-report-2024-25-11356.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos residential yields for 2024",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.05,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-report-2024-25-11356.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Ikoyi and Victoria Island office rents and market performance in H2 2024.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2024-11990.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses premium residential rents in Banana Island, Ikoyi, Lekki Phase 1, and Victoria Island in H2 2024.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2024-11990.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report discusses retail market trends and average retail dollar rents in Lagos in 2024.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "lagos-market-update-h2-2024-11990.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report indicates Ikoyi land prices changed by -20% between 2017 and 2018.",
+    "year": 2018,
+    "capital_apprc": -0.2,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "H1 2018 Nigeria Real Estate Market Review report by Northcourt.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report indicates Lekki Phase 1 land prices grew by 28.5% between 2017 and 2018.",
+    "year": 2018,
+    "capital_apprc": 0.285,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "H1 2018 Nigeria Real Estate Market Review report by Northcourt.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report indicates Victoria Island land prices changed by -4% between 2017 and 2018.",
+    "year": 2018,
+    "capital_apprc": -0.04,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "H1 2018 Nigeria Real Estate Market Review report by Northcourt.pdf"
+  },
+  {
+    "index_code": "PH_COM_OIL",
+    "mapping_rationale": "Report discusses Port Harcourt (Trans Amadi, GRA) high-end 3-bed residential rents of N4M - N6M against sale prices of N45M - N60M, implying an average rental yield of ~9.5%.",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "H1 2018 Nigeria Real Estate Market Review report by Northcourt.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos office market yields of 9% in the H1 2025 summary table, representing the latest available data period.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-office-market-dashboard-h1-2025-12321.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Abuja office market yields of 9% in the H1 2025 summary table, representing the latest available data period.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "africa-office-market-dashboard-h1-2025-12321.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report states that on average, cap rates for recently completed trades in key commercial sectors (including office) have pushed above the 10% mark in 2024.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.1,
+    "annual_return": null,
+    "data_source": "Estate Intel",
+    "source_file": "Nigeria-Real-Estate-Capital-Trends-Report-2025.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report states that on average, cap rates for recently completed trades in key commercial sectors (including retail) have pushed above the 10% mark in 2024.",
+    "year": 2024,
+    "capital_apprc": null,
+    "rental_yield": 0.1,
+    "annual_return": null,
+    "data_source": "Estate Intel",
+    "source_file": "Nigeria-Real-Estate-Capital-Trends-Report-2025.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report discusses industrial sector rentals and yields in Nigeria, noting an average yield of 7.5%",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.075,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Northcourt 2019 Nigeria Real Estate Market Outlook report.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report notes land prices in Ikoyi grew by 14% YoY",
+    "year": 2018,
+    "capital_apprc": 0.14,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Northcourt 2019 Nigeria Real Estate Market Outlook report.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report notes land prices in Victoria Island grew by 11.3% YoY",
+    "year": 2018,
+    "capital_apprc": 0.113,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "Northcourt 2019 Nigeria Real Estate Market Outlook report.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Vintage Heights Estate in Lekki (Lagos Premium Residential) advertisement shows 2-bedroom flat price of N30M and rent of N1.8M, implying a 6% rental yield.",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.06,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "The-Nigeria-Real-Estate-Report-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Vintage Heights Estate in Lekki (Lagos Premium Residential) advertisement shows 3-bedroom flat price of N38M and rent of N2.2M, implying a 5.79% rental yield.",
+    "year": 2019,
+    "capital_apprc": null,
+    "rental_yield": 0.0579,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "The-Nigeria-Real-Estate-Report-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos 5-bedroom house price index decrease of 6.1% in Q2 2019 compared to Q2 2018",
+    "year": 2019,
+    "capital_apprc": -0.061,
+    "rental_yield": 0.045,
+    "annual_return": null,
+    "data_source": "Centre for Affordable Housing Finance in Africa",
+    "source_file": "HOUSING-FINANCE-IN-AFRICA-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos 4-bedroom apartment price index decrease of 10.6% in Q2 2019 compared to Q2 2018",
+    "year": 2019,
+    "capital_apprc": -0.106,
+    "rental_yield": 0.045,
+    "annual_return": null,
+    "data_source": "Centre for Affordable Housing Finance in Africa",
+    "source_file": "HOUSING-FINANCE-IN-AFRICA-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos 3-bedroom house price index decrease of 12.4% in Q2 2019 compared to Q2 2018",
+    "year": 2019,
+    "capital_apprc": -0.124,
+    "rental_yield": 0.045,
+    "annual_return": null,
+    "data_source": "Centre for Affordable Housing Finance in Africa",
+    "source_file": "HOUSING-FINANCE-IN-AFRICA-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lagos 2-bedroom apartment price index decrease of 16.0% in Q2 2019 compared to Q2 2018",
+    "year": 2019,
+    "capital_apprc": -0.16,
+    "rental_yield": 0.045,
+    "annual_return": null,
+    "data_source": "Centre for Affordable Housing Finance in Africa",
+    "source_file": "HOUSING-FINANCE-IN-AFRICA-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Land price appreciation in Ikoyi used as a proxy for premium residential capital appreciation",
+    "year": 2019,
+    "capital_apprc": 0.24,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2019 Nigerian RE Market Review.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Land price appreciation in Lekki Phase 1 used as a proxy for premium residential capital appreciation",
+    "year": 2019,
+    "capital_apprc": 0.02,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2019 Nigerian RE Market Review.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Land price appreciation in Victoria Island used as a proxy for premium residential capital appreciation",
+    "year": 2019,
+    "capital_apprc": 0.13,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2019 Nigerian RE Market Review.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Land price appreciation in Ikoyi used as a proxy for premium residential capital appreciation (calculated from 2017-2018 average prices)",
+    "year": 2018,
+    "capital_apprc": -0.1655,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2019 Nigerian RE Market Review.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Land price appreciation in Lekki Phase 1 used as a proxy for premium residential capital appreciation (calculated from 2017-2018 average prices)",
+    "year": 2018,
+    "capital_apprc": 0.4,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2019 Nigerian RE Market Review.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Land price appreciation in Victoria Island used as a proxy for premium residential capital appreciation (calculated from 2017-2018 average prices)",
+    "year": 2018,
+    "capital_apprc": -0.0385,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "2019 Nigerian RE Market Review.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Victoria Island and Ikoyi Grade-A office rental values and vacancy rates in 2018.",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "ubosi-eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report details residential rental values and land values per square metre for Ikoyi, Victoria Island, and Lekki in 2018.",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "ubosi-eleh.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report details office rental values per square meter for Abuja Central Area, Wuse, and Maitama in 2018.",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "ubosi-eleh.pdf"
+  },
+  {
+    "index_code": "PH_COM_OIL",
+    "mapping_rationale": "Report details office rental values per square meter for Port Harcourt GRA and Trans Amadi in 2018.",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "ubosi-eleh.pdf"
+  },
+  {
+    "index_code": "KN_IND_NTH",
+    "mapping_rationale": "Report details land values and office rental values in Bompai, Kano in 2018.",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Ubosi Eleh + Co.",
+    "source_file": "ubosi-eleh.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Ikoyi land price appreciation (2018-2019)",
+    "year": 2019,
+    "capital_apprc": 0.24,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "NIGERIA-REAL-ESTATE-MARKET-REVIEW-H1-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Lekki Phase 1 land price appreciation (2018-2019)",
+    "year": 2019,
+    "capital_apprc": 0.02,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "NIGERIA-REAL-ESTATE-MARKET-REVIEW-H1-2019.pdf"
+  },
+  {
+    "index_code": "LG_RES_PRM",
+    "mapping_rationale": "Report discusses Victoria Island land price appreciation (2018-2019)",
+    "year": 2019,
+    "capital_apprc": 0.13,
+    "rental_yield": null,
+    "annual_return": null,
+    "data_source": "Northcourt",
+    "source_file": "NIGERIA-REAL-ESTATE-MARKET-REVIEW-H1-2019.pdf"
+  },
+  {
+    "index_code": "LG_OFF_ISL",
+    "mapping_rationale": "Report discusses Lagos prime office yields in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Africa-Horizons-Edition-1-2019-.pdf"
+  },
+  {
+    "index_code": "LG_RET_ISL",
+    "mapping_rationale": "Report discusses Lagos prime retail yields in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.07,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Africa-Horizons-Edition-1-2019-.pdf"
+  },
+  {
+    "index_code": "LG_IND_MLN",
+    "mapping_rationale": "Report discusses Lagos prime industrial yields in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.12,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Africa-Horizons-Edition-1-2019-.pdf"
+  },
+  {
+    "index_code": "AB_OFF_CEN",
+    "mapping_rationale": "Report discusses Abuja prime office yields in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.095,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Africa-Horizons-Edition-1-2019-.pdf"
+  },
+  {
+    "index_code": "AB_RET_CEN",
+    "mapping_rationale": "Report discusses Abuja prime retail yields in 2018",
+    "year": 2018,
+    "capital_apprc": null,
+    "rental_yield": 0.09,
+    "annual_return": null,
+    "data_source": "Knight Frank",
+    "source_file": "Africa-Horizons-Edition-1-2019-.pdf"
+  }
+]
