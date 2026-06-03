@@ -1,0 +1,46 @@
+======================================================================
+PROPERTY UNIVERSE VALIDATION REPORT
+======================================================================
+
+Generated at: 2026-06-03T16:48:32.018508
+Total Properties Sourced: 80
+
+Test 1: Price Log-normality:
+  Status: PASS
+  Details: KS stat = 0.0660, p-value = 0.8540 (expected p > 0.05)
+
+Test 2: Price Skewness:
+  Status: PASS
+  Details: Skewness = 1.4629 (expected > 0)
+
+Test 3: Price Mean > Median:
+  Status: PASS
+  Details: Mean = ₦793.1M, Median = ₦604.0M (expected mean > median)
+
+Test 4: Gross Yield Range:
+  Status: PASS
+  Details: Yield range = [4.00%, 10.91%] (expected [4.0%, 14.0%])
+
+Test 5: State Count:
+  Status: PASS
+  Details: States represented = 5 (expected >= 5)
+
+Test 6: Lagos Share Limit:
+  Status: PASS
+  Details: Lagos share = 40.00% (32/80) (expected < 70%)
+
+Test 7: Sub-optimal Title Share:
+  Status: PASS
+  Details: Sub-optimal title share = 30.00% (24/80) (expected [20%, 40%])
+
+Test 8: Covariance PSD:
+  Status: PASS
+  Details: Min eigenvalue = -1.2662e-17+0.0000e+00j (expected >= -1.0e-10)
+
+Test 9: Heuristic Eligible Pool:
+  Status: PASS
+  Details: Heuristic eligible properties = 28/80 (expected >= 25)
+
+======================================================================
+OVERALL STATUS: ALL VALIDATION TESTS PASSED ✓
+======================================================================

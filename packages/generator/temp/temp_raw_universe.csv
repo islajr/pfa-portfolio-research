@@ -1,0 +1,81 @@
+property_id,property_code,location_state,location_lga,location_micro,asset_type,asking_price,estimated_annual_rent,title_status,property_condition,year_built,floor_area_sqm,lease_term_years,market_index_id,is_prime_location,is_preferred_asset_type,triggers_anchoring_rule,is_heuristic_eligible,pencom_lease_compliant
+PROP_01,OAU-PROP_01,Lagos,Oshodi-Isolo,Oshodi,Residential,1120552621.68,59336573.5,C of O,New,2026,1352.6,1,LG_RES_PRM,False,False,True,False,True
+PROP_02,OAU-PROP_02,Lagos,Eti-Osa,Lekki Phase 1,Commercial,421633438.62,30087650.28,C of O,Fair,2011,2819.29,5,LG_RET_ISL,True,True,False,False,False
+PROP_03,OAU-PROP_03,Lagos,Ikeja,Oregun,Industrial,423777847.62,38556237.93,C of O,Good,2016,1213.5,12,LG_IND_MLN,False,False,False,True,True
+PROP_04,OAU-PROP_04,Lagos,Oshodi-Isolo,Oshodi,Industrial,441376293.17,43077224.13,Gazette,Needs Renovation,2003,2510.75,10,LG_IND_MLN,False,False,False,False,True
+PROP_05,OAU-PROP_05,Lagos,Eti-Osa,Victoria Island,Office,744973252.29,64537128.07,C of O,Fair,2007,2932.86,10,LG_OFF_ISL,True,True,False,False,True
+PROP_06,OAU-PROP_06,Lagos,Ikeja,Oregun,Office,933595093.82,91981834.24,C of O,New,2026,1953.3,5,LG_OFF_ISL,False,True,True,False,False
+PROP_07,OAU-PROP_07,Lagos,Eti-Osa,Lekki Phase 1,Office,328240856.48,24480424.53,C of O,Good,2016,1628.87,5,LG_OFF_ISL,True,True,False,True,False
+PROP_08,OAU-PROP_08,Kano,Fagge,Sharada,Office,573599375.27,46262666.61,C of O,Good,2016,1203.97,12,KN_IND_NTH,False,True,False,True,True
+PROP_09,OAU-PROP_09,Lagos,Eti-Osa,Ikoyi,Mixed-Use,240533459.94,16821171.07,C of O,New,2025,1704.2,1,LG_RES_PRM,True,False,False,True,True
+PROP_10,OAU-PROP_10,Lagos,Lagos Island,Marina,Residential,981182116.94,40817154.8,Excision,Good,2016,935.85,1,LG_RES_PRM,True,False,True,False,True
+PROP_11,OAU-PROP_11,Rivers,Port Harcourt,GRA Phase 2,Industrial,218068290.53,20095275.69,Gov Consent,New,2024,6988.22,5,PH_COM_OIL,False,False,False,True,False
+PROP_12,OAU-PROP_12,Abuja,Municipal,Jabi,Commercial,497376559.49,32338297.11,C of O,Good,2017,2104.5,5,AB_RET_CEN,True,True,False,True,False
+PROP_13,OAU-PROP_13,Kano,Fagge,Sharada,Commercial,513056720.53,45873439.17,Gov Consent,Good,2017,2686.34,7,KN_IND_NTH,False,True,False,True,True
+PROP_14,OAU-PROP_14,Abuja,Municipal,Asokoro,Mixed-Use,587548121.35,37254434.71,Gazette,Fair,2007,1402.29,1,AB_RET_CEN,True,False,False,False,True
+PROP_15,OAU-PROP_15,Kano,Nassarawa,Bompai,Commercial,1143140838.95,124681490.39,Gazette,Fair,2007,3521.92,7,KN_IND_NTH,False,True,True,False,True
+PROP_16,OAU-PROP_16,Abuja,Municipal,Garki,Residential,2335005310.09,110693468.71,Gov Consent,Good,2019,367.05,1,AB_RET_CEN,True,False,True,False,True
+PROP_17,OAU-PROP_17,Oyo,Ibadan North-West,Dugbe,Residential,595412078.79,33248055.69,C of O,Fair,2007,1266.55,1,LG_RES_PRM,False,False,False,False,True
+PROP_18,OAU-PROP_18,Rivers,Port Harcourt,GRA Phase 1,Industrial,614198687.62,54763678.93,C of O,Fair,2013,1661.1,12,PH_COM_OIL,False,False,False,False,True
+PROP_19,OAU-PROP_19,Rivers,Port Harcourt,GRA Phase 2,Commercial,2188581933.86,158929767.67,Gov Consent,Good,2019,2853.81,5,PH_COM_OIL,False,True,True,False,False
+PROP_20,OAU-PROP_20,Abuja,Municipal,Jabi,Commercial,194914144.4,15318144.61,C of O,Good,2019,1654.01,5,AB_RET_CEN,True,True,False,True,False
+PROP_21,OAU-PROP_21,Lagos,Eti-Osa,Ikoyi,Office,519468680.59,34128379.14,C of O,Good,2021,3877.77,12,LG_OFF_ISL,True,True,False,True,True
+PROP_22,OAU-PROP_22,Kano,Nassarawa,Bompai,Industrial,390468349.96,35946818.2,C of O,Good,2021,5758.91,3,KN_IND_NTH,False,False,False,True,False
+PROP_23,OAU-PROP_23,Lagos,Eti-Osa,Ikoyi,Office,645572770.74,48943773.76,C of O,New,2025,2773.64,7,LG_OFF_ISL,True,True,False,True,True
+PROP_24,OAU-PROP_24,Abuja,Municipal,Maitama,Residential,671675400.59,31542017.49,Excision,Good,2019,269.53,1,AB_RET_CEN,True,False,False,False,True
+PROP_25,OAU-PROP_25,Abuja,Municipal,Wuse II,Office,224210286.95,19952099.96,Gov Consent,Good,2020,2718.62,10,AB_OFF_CEN,True,True,False,True,True
+PROP_26,OAU-PROP_26,Kano,Nassarawa,Bompai,Industrial,199868595.16,20959768.73,Gov Consent,Fair,2010,6541.05,7,KN_IND_NTH,False,False,False,False,True
+PROP_27,OAU-PROP_27,Abuja,Municipal,Jabi,Commercial,1284275181.89,110271779.41,Gov Consent,New,2023,1663.29,15,AB_RET_CEN,True,True,True,False,True
+PROP_28,OAU-PROP_28,Rivers,Port Harcourt,Trans-Amadi,Industrial,1897705848.18,149384698.6,C of O,Needs Renovation,2001,3982.64,5,PH_COM_OIL,False,False,True,False,False
+PROP_29,OAU-PROP_29,Lagos,Eti-Osa,Victoria Island,Residential,1571636282.46,62865451.3,C of O,Good,2019,305.75,1,LG_RES_PRM,True,False,True,False,True
+PROP_30,OAU-PROP_30,Abuja,Municipal,Maitama,Residential,920464456.54,40438547.96,C of O,Good,2020,1431.42,1,AB_RET_CEN,True,False,True,False,True
+PROP_31,OAU-PROP_31,Rivers,Obio-Akpor,Rumuola,Office,656487956.02,58033938.86,Gazette,Good,2021,3012.82,7,PH_COM_OIL,False,True,False,False,True
+PROP_32,OAU-PROP_32,Oyo,Ibadan North,Bodija,Office,928809623.69,92343789.2,C of O,Good,2019,551.09,12,LG_OFF_ISL,False,True,True,False,True
+PROP_33,OAU-PROP_33,Lagos,Eti-Osa,Lekki Phase 1,Office,603246601.35,55656684.43,Deed of Assignment,Fair,2014,3421.45,10,LG_OFF_ISL,True,True,False,False,True
+PROP_34,OAU-PROP_34,Rivers,Port Harcourt,GRA Phase 1,Office,704981042.84,50076585.52,Gov Consent,Good,2021,873.01,12,PH_COM_OIL,False,True,False,True,True
+PROP_35,OAU-PROP_35,Rivers,Port Harcourt,Trans-Amadi,Industrial,1279548772.77,134509862.68,C of O,Good,2016,7433.81,5,PH_COM_OIL,False,False,True,False,False
+PROP_36,OAU-PROP_36,Lagos,Eti-Osa,Lekki Phase 1,Residential,843794576.73,36148403.52,Gazette,Good,2020,1018.22,1,LG_RES_PRM,True,False,True,False,True
+PROP_37,OAU-PROP_37,Kano,Fagge,Sharada,Residential,333446636.93,21378112.35,C of O,Needs Renovation,2002,959.61,1,KN_IND_NTH,False,False,False,False,True
+PROP_38,OAU-PROP_38,Lagos,Eti-Osa,Lekki Phase 2,Office,279429847.24,24707958.44,Excision,Fair,2007,1748.22,10,LG_OFF_ISL,False,True,False,False,True
+PROP_39,OAU-PROP_39,Abuja,Municipal,Garki,Office,377558284.64,29227926.14,C of O,Good,2016,2121.55,3,AB_OFF_CEN,True,True,False,True,False
+PROP_40,OAU-PROP_40,Lagos,Eti-Osa,Ikoyi,Commercial,1305582211.47,96636179.41,Gazette,Fair,2010,1880.34,3,LG_RET_ISL,True,True,True,False,False
+PROP_41,OAU-PROP_41,Oyo,Ibadan South-West,Ring Road,Mixed-Use,1295578707.06,105486667.31,Gov Consent,Needs Renovation,1995,482.05,1,LG_RES_PRM,False,False,True,False,True
+PROP_42,OAU-PROP_42,Lagos,Eti-Osa,Lekki Phase 1,Office,686618660.15,54336336.88,C of O,Needs Renovation,1991,2350.65,7,LG_OFF_ISL,True,True,False,False,True
+PROP_43,OAU-PROP_43,Lagos,Eti-Osa,Ikoyi,Office,776087100.66,69248897.7,Deed of Assignment,Good,2016,3873.1,12,LG_OFF_ISL,True,True,False,False,True
+PROP_44,OAU-PROP_44,Abuja,Municipal,Maitama,Office,482382218.84,32437589.09,Gov Consent,Good,2021,2609.12,10,AB_OFF_CEN,True,True,False,True,True
+PROP_45,OAU-PROP_45,Lagos,Eti-Osa,Ikoyi,Commercial,456069717.14,35371080.09,Gazette,New,2025,2323.65,12,LG_RET_ISL,True,True,False,False,True
+PROP_46,OAU-PROP_46,Kano,Nassarawa,Bompai,Industrial,556022609.23,54628675.3,C of O,Needs Renovation,2004,7613.36,3,KN_IND_NTH,False,False,False,False,False
+PROP_47,OAU-PROP_47,Lagos,Eti-Osa,Victoria Island,Commercial,1287170818.79,87557439.27,Gazette,Good,2016,1305.19,3,LG_RET_ISL,True,True,True,False,False
+PROP_48,OAU-PROP_48,Abuja,Municipal,Asokoro,Mixed-Use,447973224.66,27771600.16,Excision,Needs Renovation,1992,1087.96,1,AB_RET_CEN,True,False,False,False,True
+PROP_49,OAU-PROP_49,Oyo,Ibadan South-West,Ring Road,Mixed-Use,439381390.9,40332123.64,C of O,Good,2021,1999.1,1,LG_RES_PRM,False,False,False,True,True
+PROP_50,OAU-PROP_50,Rivers,Obio-Akpor,Rumuola,Residential,538813264.26,28964003.61,Gov Consent,Good,2020,929.22,1,PH_COM_OIL,False,False,False,True,True
+PROP_51,OAU-PROP_51,Abuja,Municipal,Jabi,Commercial,675452056.32,51756451.93,C of O,New,2024,2701.7,5,AB_RET_CEN,True,True,False,True,False
+PROP_52,OAU-PROP_52,Oyo,Ibadan South-West,Ring Road,Mixed-Use,2120493212.25,188428374.63,Gov Consent,Fair,2009,1162.94,1,LG_RES_PRM,False,False,True,False,True
+PROP_53,OAU-PROP_53,Lagos,Eti-Osa,Ikoyi,Office,511946428.01,38962340.26,Gov Consent,Fair,2012,2812.95,5,LG_OFF_ISL,True,True,False,False,False
+PROP_54,OAU-PROP_54,Lagos,Apapa,Apapa Industrial Area,Residential,300178881.98,16217659.0,Gov Consent,Good,2016,1106.93,1,LG_RES_PRM,False,False,False,True,True
+PROP_55,OAU-PROP_55,Abuja,Municipal,Asokoro,Office,1489161135.14,123607380.04,Gov Consent,Good,2018,3960.13,7,AB_OFF_CEN,True,True,True,False,True
+PROP_56,OAU-PROP_56,Lagos,Ikeja,Ikeja GRA,Industrial,1595865603.44,117823519.06,Gazette,Good,2019,4220.83,10,LG_IND_MLN,False,False,True,False,True
+PROP_57,OAU-PROP_57,Rivers,Obio-Akpor,Rumuola,Residential,310277536.87,17133064.31,Gazette,New,2026,735.16,1,PH_COM_OIL,False,False,False,False,True
+PROP_58,OAU-PROP_58,Lagos,Ikeja,Oregun,Commercial,692916807.48,63167035.19,C of O,Good,2017,2566.97,10,LG_RET_ISL,False,True,False,True,True
+PROP_59,OAU-PROP_59,Abuja,Municipal,Asokoro,Residential,1888890020.78,75555600.83,Gov Consent,Fair,2007,430.11,1,AB_RET_CEN,True,False,True,False,True
+PROP_60,OAU-PROP_60,Oyo,Ibadan North,Bodija,Commercial,1050063834.49,98471422.32,Gazette,Good,2016,2212.3,3,LG_RET_ISL,False,True,True,False,False
+PROP_61,OAU-PROP_61,Rivers,Port Harcourt,GRA Phase 2,Residential,535404728.34,29146555.21,C of O,Good,2016,306.29,1,PH_COM_OIL,False,False,False,True,True
+PROP_62,OAU-PROP_62,Lagos,Lagos Island,Marina,Mixed-Use,501321214.4,28483563.99,C of O,New,2025,1946.17,1,LG_RES_PRM,True,False,False,True,True
+PROP_63,OAU-PROP_63,Abuja,Municipal,Asokoro,Office,204859790.0,19307182.07,Deed of Assignment,New,2024,3919.8,15,AB_OFF_CEN,True,True,False,False,True
+PROP_64,OAU-PROP_64,Oyo,Ibadan North-West,Dugbe,Mixed-Use,1173339680.14,100632146.04,Gov Consent,Fair,2007,855.36,1,LG_RES_PRM,False,False,True,False,True
+PROP_65,OAU-PROP_65,Rivers,Port Harcourt,GRA Phase 2,Mixed-Use,572665616.85,36095128.12,Gov Consent,Good,2020,1079.12,1,PH_COM_OIL,False,False,False,True,True
+PROP_66,OAU-PROP_66,Kano,Fagge,Sharada,Industrial,1040859491.76,84926235.74,Gov Consent,Needs Renovation,2003,4947.76,10,KN_IND_NTH,False,False,True,False,True
+PROP_67,OAU-PROP_67,Kano,Nassarawa,Bompai,Mixed-Use,557889998.58,44586721.32,Excision,New,2025,1794.03,1,KN_IND_NTH,False,False,False,False,True
+PROP_68,OAU-PROP_68,Abuja,Municipal,Garki,Office,2822782190.13,260218155.36,C of O,Fair,2006,2916.98,10,AB_OFF_CEN,True,True,True,False,True
+PROP_69,OAU-PROP_69,Lagos,Apapa,Apapa Industrial Area,Residential,256024066.74,14992070.74,Excision,New,2026,692.4,1,LG_RES_PRM,False,False,False,False,True
+PROP_70,OAU-PROP_70,Lagos,Eti-Osa,Victoria Island,Commercial,1024689537.3,59808031.9,C of O,New,2023,1279.67,3,LG_RET_ISL,True,True,True,False,False
+PROP_71,OAU-PROP_71,Rivers,Port Harcourt,GRA Phase 1,Commercial,228879222.0,18406215.49,Excision,Good,2019,766.42,15,PH_COM_OIL,False,True,False,False,True
+PROP_72,OAU-PROP_72,Lagos,Apapa,Apapa Industrial Area,Industrial,202814314.99,21208254.48,C of O,Good,2021,1615.21,15,LG_IND_MLN,False,False,False,True,True
+PROP_73,OAU-PROP_73,Lagos,Eti-Osa,Ikoyi,Office,236637693.99,20475505.49,C of O,Good,2017,2708.37,7,LG_OFF_ISL,True,True,False,True,True
+PROP_74,OAU-PROP_74,Lagos,Ikeja,Oregun,Commercial,1269246154.1,99475596.52,Excision,Good,2021,1407.92,10,LG_RET_ISL,False,True,True,False,True
+PROP_75,OAU-PROP_75,Oyo,Ibadan North-West,Dugbe,Residential,1270466086.26,84774244.67,Gazette,Fair,2006,459.36,1,LG_RES_PRM,False,False,True,False,True
+PROP_76,OAU-PROP_76,Lagos,Ikeja,Oregun,Industrial,531512824.58,44908377.0,C of O,New,2025,6374.46,10,LG_IND_MLN,False,False,False,True,True
+PROP_77,OAU-PROP_77,Rivers,Port Harcourt,GRA Phase 1,Commercial,223135489.02,18057328.4,Gov Consent,New,2024,2317.32,12,PH_COM_OIL,False,True,False,True,True
+PROP_78,OAU-PROP_78,Kano,Kano Municipal,Kano City Centre,Commercial,619642970.98,51336542.2,Deed of Assignment,Good,2019,2376.12,3,KN_IND_NTH,False,True,False,False,False
+PROP_79,OAU-PROP_79,Lagos,Eti-Osa,Lekki Phase 1,Office,604825802.32,55361247.37,C of O,Good,2021,3566.76,7,LG_OFF_ISL,True,True,False,True,True
+PROP_80,OAU-PROP_80,Rivers,Port Harcourt,GRA Phase 2,Industrial,1233200902.12,126681341.09,C of O,Good,2017,1746.89,15,PH_COM_OIL,False,False,True,False,True
