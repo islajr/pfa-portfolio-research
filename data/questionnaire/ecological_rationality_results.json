@@ -1,0 +1,10 @@
+{
+  "inf_citing_count": 5,
+  "inf_non_citing_count": 2,
+  "mean_avcs_inf": 0.6885714285714286,
+  "mean_avcs_non_inf": 0.8607142857142858,
+  "mean_rcs_inf": 0.48428571428571426,
+  "mean_rcs_non_inf": 0.5535714285714285,
+  "avcs_difference": -0.17214285714285715,
+  "rcs_difference": -0.06928571428571423
+}
