@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Survey Raw Files
+PFA Questionnaire Survey.csv
+PFA Questionnaire Survey - Google Forms.pdf
+ESM 519_ Project Dissertation.pdf
+
+
+# Large binary simulation outputs (reproducible — re-run execute.sh to regenerate)
+outputs/simulation_results/*_all.npy
+
+# Antigravity CLI working directory
+.antigravitycli/
