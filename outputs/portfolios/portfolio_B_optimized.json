@@ -1,0 +1,176 @@
+{
+  "portfolio_name": "Portfolio B \u2014 MVO-Optimized",
+  "strategy_type": "MVO",
+  "total_fund_value": 2000000000000.0,
+  "real_estate_budget": 200000000000.0,
+  "n_properties": 15,
+  "expected_return": 0.14471,
+  "total_allocated": 11023855945.62,
+  "holdings": [
+    {
+      "property_id": "PROP_05",
+      "property_code": "OAU-PROP_05",
+      "location_state": "Lagos",
+      "location_micro": "Victoria Island",
+      "asset_type": "Office",
+      "total_acquisition_cost": 893967902.75,
+      "expected_return": 0.181363,
+      "total_volatility": 0.02692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_13",
+      "property_code": "OAU-PROP_13",
+      "location_state": "Kano",
+      "location_micro": "Sharada",
+      "asset_type": "Commercial",
+      "total_acquisition_cost": 590015228.61,
+      "expected_return": 0.090249,
+      "total_volatility": 0.050933,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_21",
+      "property_code": "OAU-PROP_21",
+      "location_state": "Lagos",
+      "location_micro": "Ikoyi",
+      "asset_type": "Office",
+      "total_acquisition_cost": 623362416.71,
+      "expected_return": 0.166537,
+      "total_volatility": 0.01692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_23",
+      "property_code": "OAU-PROP_23",
+      "location_state": "Lagos",
+      "location_micro": "Ikoyi",
+      "asset_type": "Office",
+      "total_acquisition_cost": 774687324.89,
+      "expected_return": 0.173702,
+      "total_volatility": 0.01192,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_25",
+      "property_code": "OAU-PROP_25",
+      "location_state": "Abuja",
+      "location_micro": "Wuse II",
+      "asset_type": "Office",
+      "total_acquisition_cost": 257841829.99,
+      "expected_return": 0.103343,
+      "total_volatility": 0.022542,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_26",
+      "property_code": "OAU-PROP_26",
+      "location_state": "Kano",
+      "location_micro": "Bompai",
+      "asset_type": "Industrial",
+      "total_acquisition_cost": 229848884.43,
+      "expected_return": 0.102719,
+      "total_volatility": 0.060933,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_32",
+      "property_code": "OAU-PROP_32",
+      "location_state": "Oyo",
+      "location_micro": "Bodija",
+      "asset_type": "Office",
+      "total_acquisition_cost": 1068131067.24,
+      "expected_return": 0.193486,
+      "total_volatility": 0.01692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_33",
+      "property_code": "OAU-PROP_33",
+      "location_state": "Lagos",
+      "location_micro": "Lekki Phase 1",
+      "asset_type": "Office",
+      "total_acquisition_cost": 723895921.62,
+      "expected_return": 0.185352,
+      "total_volatility": 0.04692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_43",
+      "property_code": "OAU-PROP_43",
+      "location_state": "Lagos",
+      "location_micro": "Ikoyi",
+      "asset_type": "Office",
+      "total_acquisition_cost": 931304520.79,
+      "expected_return": 0.183203,
+      "total_volatility": 0.03692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_44",
+      "property_code": "OAU-PROP_44",
+      "location_state": "Abuja",
+      "location_micro": "Maitama",
+      "asset_type": "Office",
+      "total_acquisition_cost": 554739551.67,
+      "expected_return": 0.087271,
+      "total_volatility": 0.022542,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_55",
+      "property_code": "OAU-PROP_55",
+      "location_state": "Abuja",
+      "location_micro": "Asokoro",
+      "asset_type": "Office",
+      "total_acquisition_cost": 1712535305.41,
+      "expected_return": 0.09892,
+      "total_volatility": 0.022542,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_63",
+      "property_code": "OAU-PROP_63",
+      "location_state": "Abuja",
+      "location_micro": "Asokoro",
+      "asset_type": "Office",
+      "total_acquisition_cost": 235588758.5,
+      "expected_return": 0.107229,
+      "total_volatility": 0.032542,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_73",
+      "property_code": "OAU-PROP_73",
+      "location_state": "Lagos",
+      "location_micro": "Ikoyi",
+      "asset_type": "Office",
+      "total_acquisition_cost": 283965232.79,
+      "expected_return": 0.18129,
+      "total_volatility": 0.01692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_79",
+      "property_code": "OAU-PROP_79",
+      "location_state": "Lagos",
+      "location_micro": "Lekki Phase 1",
+      "asset_type": "Office",
+      "total_acquisition_cost": 725790962.78,
+      "expected_return": 0.184836,
+      "total_volatility": 0.01692,
+      "weight": 0.06666666666666667
+    },
+    {
+      "property_id": "PROP_80",
+      "property_code": "OAU-PROP_80",
+      "location_state": "Rivers",
+      "location_micro": "GRA Phase 2",
+      "asset_type": "Industrial",
+      "total_acquisition_cost": 1418181037.44,
+      "expected_return": 0.131143,
+      "total_volatility": 0.096262,
+      "weight": 0.06666666666666667
+    }
+  ]
+}

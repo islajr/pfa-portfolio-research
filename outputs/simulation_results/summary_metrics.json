@@ -1,0 +1,80 @@
+{
+  "benchmark_rf": 0.084,
+  "portfolio_A": {
+    "name": "Portfolio A \u2014 Heuristic-Driven",
+    "mean_cumulative_return": 1.9877484719940686,
+    "mean_cagr": 0.2418224344329663,
+    "mean_volatility": 0.07650352421871263,
+    "mean_sharpe": 2.0827013648277743,
+    "mean_mdd": 0.04239175191320197,
+    "cvar_95": 1.066795258808046,
+    "mean_diversification_ratio": 1.289768810453193,
+    "hhi": 0.06666666666666667,
+    "geo_hhi": 0.8755555555555556,
+    "type_hhi": 0.3600000000000001
+  },
+  "portfolio_B": {
+    "name": "Portfolio B \u2014 MVO-Optimized",
+    "mean_cumulative_return": 1.0529400154327233,
+    "mean_cagr": 0.15470074469929646,
+    "mean_volatility": 0.0057688009793623735,
+    "mean_sharpe": 12.36014743586426,
+    "mean_mdd": 0.0,
+    "cvar_95": 0.9983528789068563,
+    "mean_diversification_ratio": 5.811790945216822,
+    "hhi": 0.06666666666666667,
+    "geo_hhi": 0.31555555555555553,
+    "type_hhi": 0.6622222222222224
+  },
+  "hypothesis_testing": {
+    "paired_t_test": {
+      "t_statistic": 733.3520482726914,
+      "p_value_one_tailed": 0.0,
+      "cohen_d": 7.333887186254044
+    },
+    "bca_bootstrap": {
+      "mean_delta_sr": 10.277446071036486,
+      "ci_lower": 10.348303202456993,
+      "ci_upper": 10.682615167490317,
+      "statistically_significant": true,
+      "practically_significant": true
+    },
+    "market_conditions_sub_analysis": {
+      "low_volatility": {
+        "count": 3333,
+        "mean_sr_A": 2.3155384465223388,
+        "mean_sr_B": 12.371398222879208,
+        "mean_diff": 10.05585977635687
+      },
+      "medium_volatility": {
+        "count": 3334,
+        "mean_sr_A": 2.0713079064656514,
+        "mean_sr_B": 12.362759838589763,
+        "mean_diff": 10.291451932124112
+      },
+      "high_volatility": {
+        "count": 3333,
+        "mean_sr_A": 1.8612611598746789,
+        "mean_sr_B": 12.34628346232461,
+        "mean_diff": 10.48502230244993
+      }
+    }
+  },
+  "sensitivity_analysis": {
+    "rf_10": {
+      "mean_sr_A": 1.871750741635834,
+      "mean_sr_B": 9.562968966434356,
+      "mean_diff": 7.691218224798523
+    },
+    "rf_15": {
+      "mean_sr_A": 1.2125300441610203,
+      "mean_sr_B": 0.8217862494659126,
+      "mean_diff": -0.39074379469510767
+    },
+    "rf_20": {
+      "mean_sr_A": 0.5533093466862061,
+      "mean_sr_B": -7.919396467502537,
+      "mean_diff": -8.472705814188743
+    }
+  }
+}
