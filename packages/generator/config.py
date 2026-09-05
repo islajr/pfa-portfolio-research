@@ -11,9 +11,12 @@ SEED = 42  # DO NOT CHANGE — frozen after first generation
 RISK_FREE_RATE = 0.084
 
 # PenCom regulatory limits
+# Source: PenCom Regulation on Investment of Pension Fund Assets (2024 revision)
+# Direct real estate investment is capped at 10% of total fund AUM.
+# REITs are separately capped at 15% (excluded from this study scope).
 PENCOM_CONSTRAINTS = {
-    "max_single_property_pct": 0.05,       # Max 5% of fund in single property
-    "max_property_asset_class_pct": 0.30,   # Max 30% total in real estate
+    "max_single_property_pct": 0.05,       # Max 5% of total fund in any single property
+    "real_estate_budget_pct": 0.10,        # Max 10% of total fund in direct real estate (PenCom 2024)
     "min_states": 2,                       # Must diversify across >= 2 states
     "min_commercial_lease_years": 7        # Commercial properties must have >= 7-year leases
 }
