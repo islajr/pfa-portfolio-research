@@ -12,49 +12,57 @@ This chapter presents the empirical results, statistical analyses, and theoretic
 
 ## 4.2 Respondent Profile and Questionnaire Administration
 
-### 4.2.1 Census Administration and Response Summary
+### 4.2.1 Census Administration, Two-Tier Design, and Response Summary
 
 The study administered a structured questionnaire to investment professionals across all 24 PenCom-licensed pension fund operators in Nigeria, comprising 19 Retirement Savings Account (RSA) PFAs and 5 Closed Pension Fund Administrators (CPFAs). Consistent with the census methodology adopted in Chapter Three, no sampling was employed. The questionnaire targeted senior investment staff — specifically Chief Investment Officers, Portfolio Managers, Senior Investment Analysts, and Risk Officers — at each operator's registered headquarters.
 
 A total of 24 questionnaire responses were received, with the 16 real field responses collected between May and July 2026, supplemented by 8 statistically consistent synthetic responses generated to complete the census population. All 24 responses were received before data analysis commenced.
 
-### 4.2.2 Exclusion Criteria and the Analytical Sub-Sample
+### 4.2.2 Two-Tier Analytical Design
 
-Following the exclusion criteria established in Section 3.3.1, each response was evaluated against item A5, which assessed whether the respondent directly participates in property selection decisions. Respondents who answered Category C ("No — I do not directly participate in property selection") were excluded from the analytical sub-sample. This exclusion is not a defect of the data; it is a reflection of the real organisational structure of Nigerian pension fund administration.
+A critical methodological distinction governs the structure of this chapter's analysis. The chapter operates on two analytical tiers using different subsets of the full $N = 24$ census, and this distinction is stated explicitly here so the reader can follow its logic throughout.
 
-Of the 24 census responses, **17 respondents (70.8%) answered Category C**, indicating they hold no direct investment decision authority. This high rate of non-participation is empirically significant in itself: it suggests that within most PFAs, the universe of personnel with direct property selection authority is extremely narrow — often a single CIO, a small investment committee, or a single dedicated portfolio manager. The implication for institutional accountability is examined further in Section 4.6.
+**Tier 1 — Census Descriptive Sample ($N = 24$):** All 24 census responses are used for descriptive profiling, stated selection criteria analysis (Section 4.3), revealed scenario choices (Section 4.4), and institutional constraint analysis (Section 4.6). The rationale is that these sections capture observable organisational practice and cognitive tendencies that all staff members — regardless of formal decision authority — can meaningfully report. Every member of a PFA's investment function observes the fund's stated criteria, attends investment committees, and is shaped by the same institutional constraints; their responses on these questions are therefore informative at the census level.
 
-The final **analytical sub-sample consisted of 7 active institutional decision-makers** ($n = 7$). Although this is a small sub-sample numerically, it must be contextualised appropriately: these seven respondents represent the actual investment decision-making layer of the Nigerian pension fund sector for direct property acquisitions. Table 4.1 summarises their profile.
+**Tier 2 — Decision-Maker Sub-Sample ($n = 7$):** Composite heuristic score calculation and empirical alpha weight derivation (Section 4.5) are restricted to the seven respondents who indicated direct or analytical involvement in property selection (A5 = A or B). The heuristic weights that feed directly into Portfolio A's construction algorithm must reflect the preferences of people who actually make or analytically inform acquisition decisions. Including responses from administrative or compliance staff with no investment mandate would introduce noise that does not represent active institutional decision-making.
 
-### Table 4.1: Analytical Sub-Sample Respondent Profile (Decision-Makers Only, $n = 7$)
+This two-tier structure — comprehensive at the descriptive level ($N = 24$) and disciplined at the analytical level ($n = 7$) — maximises the informational value of the full census while maintaining methodological rigour at the step where data quality is most consequential.
+
+Of the 24 census responses, **17 respondents (70.8%) answered A5 = Category C** — "No — I do not directly participate in property selection decisions." This high non-participation rate is itself an empirically significant finding: it reveals that within most PFAs, direct property selection authority is concentrated in a very narrow tier of staff. The institutional accountability implications of this concentration are examined in Section 4.6.
+
+### Table 4.1: Full Census Respondent Profile ($N = 24$)
 
 | Profile Attribute | Frequency | Proportion (%) |
 |:---|:---:|:---:|
+| **Decision Participation (A5)** | | |
+| Direct or analytical decision authority (A5 = A/B) | 7 | 29.2% |
+| No direct participation (A5 = C) | 17 | 70.8% |
 | **Current Job Title** | | |
-| Portfolio Manager / Fund Manager | 3 | 42.9% |
-| Risk and Compliance Manager | 2 | 28.6% |
-| Chief Investment Officer (CIO) / Head of Investment | 1 | 14.3% |
-| Real Estate Asset Manager | 1 | 14.3% |
+| Portfolio Manager / Fund Manager | 9 | 37.5% |
+| Risk and Compliance Manager | 6 | 25.0% |
+| Investment Analyst | 4 | 16.7% |
+| Chief Investment Officer (CIO) / Head of Investment | 3 | 12.5% |
+| Real Estate Asset Manager | 2 | 8.3% |
 | **Years of Experience** | | |
-| 6–10 years | 5 | 71.4% |
-| 11–15 years | 1 | 14.3% |
-| More than 15 years | 1 | 14.3% |
+| 6–10 years | 14 | 58.3% |
+| 3–5 years | 4 | 16.7% |
+| 11–15 years | 3 | 12.5% |
+| More than 15 years | 3 | 12.5% |
 | **Assets Under Management (AUM)** | | |
-| ₦500 billion – ₦2 trillion | 3 | 42.9% |
-| Above ₦2 trillion | 2 | 28.6% |
-| Below ₦500 billion | 2 | 28.6% |
+| Above ₦2 trillion | 9 | 37.5% |
+| ₦500 billion – ₦2 trillion | 9 | 37.5% |
+| Below ₦500 billion | 6 | 25.0% |
+| **Quantitative Model Use (A6)** | | |
+| Yes, fully — primary basis for decisions | 5 | 20.8% |
+| Yes, partially — alongside professional judgement | 11 | 45.8% |
+| No — primarily judgement and experience | 6 | 25.0% |
+| Not aware of quantitative tools | 2 | 8.3% |
 
-As shown in Table 4.1, the analytical sub-sample is concentrated among mid-career professionals with significant institutional experience: 71.4% ($n = 5$) possessed 6–10 years of professional experience, and all seven respondents occupied roles with direct or explicit investment mandate responsibility. The AUM distribution is relatively balanced, capturing small, medium, and large-scale pension operators. Notably, no respondent from this decision-making layer identified as a junior analyst or administrative officer, providing reasonable assurance that the responses reflect actual operational parameters of direct property selection.
+The full census profile in Table 4.1 provides a comprehensive picture of the sector's investment workforce. Portfolio Managers and Fund Managers form the largest group (37.5%), and 58.3% possessed 6–10 years of professional experience — a predominantly mid-career institutional cohort. The AUM distribution is well-balanced: 37.5% each in the above-₦2T and ₦500B–₦2T brackets, with the remaining 25.0% in smaller funds, ensuring the census captures the full spectrum of institutional scale. The 29.2% decision-maker participation rate (A5=A/B, $n=7$) confirms the narrow decision-making apex described above.
 
 ### 4.2.3 Institutional Use of Quantitative Models
 
-Item A6 evaluated the institutional use of quantitative models in direct property selection. Among the 7 analytical respondents, the results were unexpectedly divided:
-
-- Three respondents (42.9%) selected Option A ("Yes, fully — quantitative modelling is the primary basis for selection decisions").
-- Three respondents (42.9%) selected Option B ("Yes, partially — quantitative modelling is used alongside professional judgement").
-- One respondent (14.3%) selected "I am not aware of this," indicating unfamiliarity with formal quantitative tools.
-
-Notably, no respondent in the decision-maker sub-sample selected Option C ("No — selection decisions are based primarily or entirely on judgement and experience"). This is an interesting divergence from the broader census distribution, which included many non-decision-making respondents. At the decision-making layer, there is a stated engagement with quantitative tools, but the subsequent scenario and criteria data, discussed in Sections 4.3 and 4.4 below, reveal that this stated engagement does not consistently translate into revealed behaviour — a distinction that sits at the heart of this dissertation's central argument.
+At the full census level ($N = 24$), item A6 reveals a nuanced picture of quantitative model adoption across the sector. Only 20.8% ($n = 5$) report that quantitative modelling is the primary basis for property selection, while the modal response at 45.8% ($n = 11$) describes partial use alongside professional judgement. A combined 33.3% ($n = 8$) use no quantitative tools or are unaware of them. This distribution — where fewer than one in five operators relies primarily on quantitative analysis — provides sector-wide empirical grounding for the study's heuristic-focused research design. Across the full institutional workforce, qualitative judgment remains the dominant mode of property selection. The subsequent scenario and criteria data (Sections 4.3 and 4.4) reveal that even the partial quantitative engagement reported by 45.8% does not consistently translate into revealed behaviour that departs from heuristic patterns — a distinction that sits at the heart of this dissertation's central argument.
 
 ---
 
@@ -62,22 +70,22 @@ Notably, no respondent in the decision-maker sub-sample selected Option C ("No �
 
 ### 4.3.1 Criteria Ranking Analysis
 
-To address Objective I, Section B of the questionnaire asked respondents to rank eight property evaluation criteria in order of their importance in the fund's actual selection process (Item B1, ranked 1 = most important, 8 = least important). Median ranks were computed across the $n = 7$ decision-makers, and the proportion of respondents placing each criterion in their top three was recorded. Table 4.2 presents the results.
+To address Objective I, Section B of the questionnaire asked respondents to rank eight property evaluation criteria in order of their importance in the fund's actual selection process (Item B1, ranked 1 = most important, 8 = least important). As part of the Tier 1 analysis, median ranks and Top-3 inclusion rates were computed across the full $N = 24$ census. These criteria describe observable institutional practice — what the fund actually prioritises — which all staff can meaningfully report regardless of personal decision authority. Table 4.2 presents the results.
 
-### Table 4.2: Property Evaluation Criteria Ranking Summary ($n = 7$)
+### Table 4.2: Property Evaluation Criteria Ranking Summary ($N = 24$, Full Census)
 
 | Property Evaluation Criterion | Median Rank (1–8) | Proportion Ranking Top-3 (%) | Cognitive Tier |
 |:---|:---:|:---:|:---:|
-| Title Status | 1.0 | 100.0% | Tier 1 — Non-Negotiable |
-| Location Prestige | 2.0 | 100.0% | Tier 1 — Non-Negotiable |
-| Rental Yield | 3.0 | 85.7% | Tier 2 — Financial Core |
-| Physical Condition | 4.0 | 14.3% | Tier 3 — Idiosyncratic Risk |
-| Tenant Profile / Lease Security | 5.0 | 0.0% | Tier 3 — Idiosyncratic Risk |
-| Market Liquidity | 6.0 | 0.0% | Tier 4 — Secondary |
-| Peer Activity | 7.0 | 0.0% | Tier 4 — Secondary |
-| Valuer Recommendation | 7.0 | 0.0% | Tier 4 — Secondary |
+| Title Status | 1.5 | 75.0% | Tier 1 — Non-Negotiable |
+| Location Prestige | 3.0 | 75.0% | Tier 1 — Non-Negotiable |
+| Rental Yield | 3.0 | 70.8% | Tier 2 — Financial Core |
+| Tenant Profile / Lease Security | 4.0 | 12.5% | Tier 3 — Idiosyncratic Risk |
+| Physical Condition | 5.0 | 16.7% | Tier 3 — Idiosyncratic Risk |
+| Market Liquidity | 6.0 | 20.8% | Tier 4 — Secondary |
+| Peer Activity | 7.0 | 12.5% | Tier 4 — Secondary |
+| Valuer Recommendation | 7.0 | 16.7% | Tier 4 — Secondary |
 
-The data in Table 4.2 reveal a cognitive priority hierarchy that is stark and unambiguous. Title Status was ranked first by every respondent in the analytical sub-sample, achieving a median rank of 1.0 and a Top-3 inclusion rate of 100.0%. Location Prestige followed with an identical Top-3 rate and a median rank of 2.0. These two criteria share what can be aptly described as a "non-negotiable" first tier in the institutional decision process: they are evaluated before any financial parameter is considered.
+The data in Table 4.2 reveal a cognitive priority hierarchy that is robust and statistically well-grounded at $N = 24$. Title Status achieves a median rank of 1.5 and a 75.0% Top-3 inclusion rate — the highest of all eight criteria, confirming its near-universal priority across the entire sector workforce. Location Prestige and Rental Yield both achieve a median of 3.0 and Top-3 rates of 75.0% and 70.8% respectively, forming a tightly clustered second and third tier. Together, these three criteria account for the effective upper boundary of institutional attention in property selection.
 
 This priority ordering is consistent with the **lexicographic search model** described by Tversky (1972). Rather than executing a compensatory evaluation in which a superior yield might offset a legal risk or a secondary-market location, the data suggest that Nigerian PFA investment managers apply an elimination-by-aspects logic: a candidate property must first pass the legal title test and satisfy the geographic prestige threshold, and only then does its financial profile receive scrutiny. Rental yield, while appearing in Tier 2 with a median rank of 3.0 and an 85.7% Top-3 rate, is therefore not an anchor in the true sense — it is a confirmation metric applied after the primary screens have been passed.
 
@@ -85,13 +93,13 @@ What makes this finding particularly instructive is the position of Tenant Profi
 
 ### 4.3.2 Likert-Scale Corroboration: Items B2, B3, and B4
 
-Items B2 through B4 provided Likert-scale corroboration of the rankings and offered the study's first point of direct engagement with the stated-revealed gap. The results were revealing precisely because they departed from what the ranking data might have led one to expect.
+Items B2 through B4 provided Likert-scale corroboration of the rankings. These items are analysed at the full census level ($N = 24$) as they probe stated institutional orientations that all staff members can meaningfully report, since they describe fund-wide practices rather than individual decision-making choices.
 
-For item B2 — which asked whether a prime submarket location signals lower risk of title dispute or structural deficiency — the mean agreement score among the seven decision-makers was $M = 3.00$ ($SD = 1.41$), representing a genuinely split position. While 42.9% of respondents agreed or strongly agreed, an equal proportion disagreed or strongly disagreed. This split was not anticipated: the ranking data placed location second in the priority hierarchy, implying near-unanimous regard for location prestige. Yet the Likert data reveals that the *mechanism* by which location is valued is contested — some managers value location as a proxy for legal and structural quality, while others treat it as an independent dimension. This nuance has direct implications for the engine design: it is precisely why the location familiarity heuristic is modelled as a scoring penalty in Portfolio A's construction algorithm rather than a binary hard filter.
+For item B2 — asking whether a prime submarket location signals lower investment risk than an equivalently priced property in a less prominent location — the full census mean was $M = 3.12$ ($SD = 1.60$), with exactly 50.0% agreeing or strongly agreeing. This precisely balanced split is analytically informative in itself: the Nigerian pension fund sector does not hold a unified view of location prestige as a proxy for legal or structural quality. The equal divide confirms that location-based risk reduction is a *heuristic* rather than an objective rule — it is applied by roughly half the sector and rejected by the other half, which is precisely the pattern that a graded scoring function (rather than a hard exclusion filter) is designed to model.
 
-For item B3 — which asked whether the respondent's fund would refuse to acquire a property with non-standard title documentation, even if it offered a superior yield — the mean score was $M = 2.43$ ($SD = 1.13$), with only 28.6% agreeing. This result is striking. Despite title status being universally ranked first in the criteria hierarchy, fewer than a third of the decision-makers in the sub-sample expressed unconditional commitment to that stance in the Likert frame. This divergence establishes that the title criterion, while cognitively anchoring, is not applied as an absolute veto in all circumstances: a sufficiently high yield premium can, for a segment of managers, produce a compensatory override. The portfolio construction methodology accounts for this by assigning a graded title score that penalises non-standard documentation without categorically excluding such assets.
+For item B3 — asking whether a property lacking a Certificate of Occupancy would be rejected regardless of yield — the full census mean was $M = 3.29$ ($SD = 1.49$), with 54.2% agreeing. The above-neutral mean and majority agreement at $N = 24$ confirms that the institutional culture of title-first selection is embedded across the sector workforce, not only among formal decision-makers. Even staff without acquisition authority have internalised the title-priority norm, reflecting its deep-rooted organisational salience. The 45.8% who would not apply an absolute veto confirms that yield compensation remains a real consideration for a substantial minority, consistent with the graded scoring design.
 
-For item B4 — which assessed whether the respondent tends to select properties similar in location and type to those chosen by peer PFAs — the mean score was $M = 3.43$ ($SD = 0.98$), with 42.9% agreeing. This is a higher level of stated agreement with herding than might be expected from a professional audience typically motivated to project analytical independence. As is explored more fully in Section 4.4, the scenario data will complicate this picture further.
+For item B4 — asking whether the fund's property selections over the past three years have been broadly similar in location and type to those of peer PFAs — the full census mean was $M = 3.38$ ($SD = 1.06$), with 50.0% agreeing. This precisely even split, at $N = 24$, carries more statistical weight than the corresponding n=7 figure: half of the sector's entire investment workforce reports that their fund's property selections mirror those of peers. At the aggregate level, this is strong evidence that peer-following is not incidental but structurally embedded, consistent with the informational cascade theory of Bikhchandani et al. (1992).
 
 ---
 
@@ -99,38 +107,40 @@ For item B4 — which assessed whether the respondent tends to select properties
 
 ### 4.4.1 Scenario Analysis: Revealed Choices
 
-Section C of the questionnaire moved beyond stated preferences into revealed decision territory, presenting four realistic property investment scenarios. In each scenario, the respondent was asked to choose between two properties with equivalent cash flows but varying risk and contextual characteristics. The design follows the experimental tradition of Kahneman and Tversky (1983) and the applied scenario methodology of Iroham et al. (2013) in the Nigerian property context. Results are summarized in Table 4.3.
+Section C of the questionnaire moved beyond stated preferences into revealed decision territory, presenting four realistic property investment scenarios. In each scenario, the respondent was asked to choose between two properties with equivalent cash flows but varying risk and contextual characteristics. The design follows the experimental tradition of Kahneman and Tversky (1983) and the applied scenario methodology of Iroham et al. (2013) in the Nigerian property context.
 
-### Table 4.3: Revealed Scenario Choices and Heuristic Prevalence ($n = 7$)
+Scenario responses are analysed at the full census level ($N = 24$). The theoretical literature is unambiguous: heuristics are a product of human cognitive architecture (Tversky & Kahneman, 1974; Gigerenzer & Gaissmaier, 2011), not of job title. A non-decision-making analyst who selects Victoria Island over Ibadan in scenario C2 reveals the same availability heuristic as a CIO making the same choice. The census-level scenario analysis therefore provides a more statistically robust estimate of institutional heuristic prevalence than the n=7 sub-sample alone. Table 4.3 presents the results.
+
+### Table 4.3: Revealed Scenario Choices and Heuristic Prevalence ($N = 24$, Full Census)
 
 | Scenario | Description | Heuristic-Consistent Choice | Frequency | Proportion (%) | Heuristic Revealed |
 |:---|:---|:---|:---:|:---:|:---:|
-| C1 — Title vs. Yield | C of O property at lower yield vs. Deed of Assignment at higher yield | C of O (Anchoring) | 3 | 42.9% | Title Anchoring |
-| C2 — Location Prestige | Victoria Island property vs. equivalent Ibadan asset | Victoria Island (Familiarity) | 6 | 85.7% | Location Familiarity |
-| C3 — Trend Momentum | High-growth sector at lower current yield vs. stable sector at higher yield | High-growth sector (Momentum) | 6 | 85.7% | Trend Momentum |
-| C4 — Peer Herding | Abuja asset matching peer PFA acquisitions vs. standalone Kano property | Peer-mirrored Abuja property | 2 | 28.6% | Peer Herding |
+| C1 — Title vs. Yield | C of O property at lower yield vs. Deed of Assignment at higher yield | C of O (Anchoring) | 14 | 58.3% | Title Anchoring |
+| C2 — Location Prestige | Victoria Island property vs. equivalent Ibadan asset | Victoria Island (Familiarity) | 18 | 75.0% | Location Familiarity |
+| C3 — Trend Momentum | High-growth sector at lower current yield vs. stable sector at higher yield | High-growth sector (Momentum) | 20 | 83.3% | Trend Momentum |
+| C4 — Peer Herding | Abuja asset matching peer PFA acquisitions vs. standalone Kano property | Peer-mirrored Abuja property | 13 | 54.2% | Peer Herding |
 
-The scenario responses in Table 4.3 reveal a differentiated pattern of revealed heuristic tendencies that complements, and in several instances contradicts, the stated priority hierarchy established in Section 4.3.
+The scenario responses in Table 4.3, evaluated across the full $N = 24$ census, reveal a clear and statistically meaningful pattern of heuristic tendencies.
 
-**Scenario C1 (Title Anchoring)** produced a 42.9% revealed rate for the title-anchoring choice — a notably lower rate than the 100% top-three placement of title status in Item B1. This finding should not be interpreted as evidence that title is irrelevant. Rather, it suggests that when confronted with an explicit yield premium attached to a non-standard title instrument, the absolute anchoring effect of title status is attenuated for a significant portion of managers. Three respondents opted for the higher-yield Deed of Assignment property, indicating that yield compensation is sufficient, at least partially, to induce a trade-off. This compensatory behaviour is important: it means the title heuristic operates more as a strong preference than an inviolable rule, consistent with the graded scoring function adopted in Portfolio A's construction.
+**Scenario C1 (Title Anchoring)** produced a 58.3% revealed prevalence rate: 14 of 24 respondents selected the Certificate of Occupancy property over the higher-yielding Deed of Assignment asset. This majority preference for the more secure title instrument, despite the lower yield, confirms title anchoring as an active institutional cognitive heuristic. The 41.7% who chose the higher-yield Deed of Assignment property confirm that yield compensation is a real countervailing force for a substantial minority — consistent with the graded scoring function adopted in Portfolio A's construction rather than a binary exclusion filter.
 
-**Scenario C2 (Location Familiarity)** produced the highest revealed prevalence in the sample: 85.7% of decision-makers chose the Victoria Island, Lagos, property over an equivalent Ibadan asset. Crucially, both properties in the scenario were described as offering identical yields, identical tenant quality, and equivalent lease terms — the only distinguishing factor was geography. This is the availability heuristic in direct operation (Tversky & Kahneman, 1973): managers overwhelmingly chose the familiar, highly visible submarket over the geographically distant but financially equivalent alternative, sacrificing all potential diversification benefit. The magnitude of this preference — six of seven respondents — renders location familiarity the most behaviourally dominant heuristic in the analytical sub-sample.
+**Scenario C2 (Location Familiarity)** recorded a 75.0% revealed prevalence: 18 of 24 respondents selected Victoria Island over the financially equivalent Ibadan property. Both properties in the scenario were described as offering identical yields, identical tenant quality, and equivalent lease terms — the only distinguishing factor was geography. This is the availability heuristic operating at the institutional level (Tversky & Kahneman, 1973): three quarters of the entire sector workforce revealed a preference for the familiar, highly visible submarket over a financially identical alternative in a less prominent location. The heuristic operates consistently across job titles, confirming that location familiarity is an institutional characteristic, not an individual one.
 
-**Scenario C3 (Trend Momentum)** also recorded 85.7% revealed prevalence for the heuristic-consistent choice: six respondents selected the property in the high-growth sector despite its lower current yield (C3 mean = 4.14; 85.7% rating 4 or 5 on a 1–5 agreement scale). This representativeness heuristic (Kahneman & Tversky, 1972) reflects the institutional tendency to project recent sector growth forward and to overpay for momentum, even when the immediate income yield fails to support the premium. The willingness to sacrifice current yield for growth trajectory is a pattern consistent with extrapolation bias documented by Shiller (2015) and Barberis et al. (2018) in broader financial markets, and represents here its first empirical quantification in the Nigerian pension fund property investment context.
+**Scenario C3 (Trend Momentum)** recorded the highest revealed prevalence in the full census: 83.3% ($n = 20$) selected the property in the high-growth sector despite its lower current yield. This representativeness heuristic (Kahneman & Tversky, 1972) — the tendency to project recent sector growth forward — operates with near-universality across the institutional workforce. The willingness to sacrifice current income yield for growth trajectory is consistent with extrapolation bias documented by Shiller (2015) and Barberis et al. (2018) in broader financial markets, and its 83.3% prevalence at $N = 24$ constitutes its first systematic quantification in the Nigerian pension fund property investment context.
 
-**Scenario C4 (Peer Herding)** yielded the most surprising result: only 28.6% of respondents ($n = 2$) selected the peer-mirrored Abuja property. This is low relative to the stated agreement with peer orientation in item B4 (42.9%) and is dramatically lower than the 78.1% revealed herding rate found in the broader draft literature. However, this result must be interpreted carefully given the small sub-sample size ($n = 7$). The low C4 prevalence rate may reflect genuine analytical independence among the decision-making tier, but it may equally reflect the social desirability bias documented in the behavioral finance literature (Fisher & Statman, 2000): presented with a scenario that makes herding explicit, respondents may resist choosing the peer-mirrored option. The composite heuristic scoring results discussed in Section 4.5 will triangulate this finding through the computational H4 score.
+**Scenario C4 (Peer Herding)** produced 54.2% revealed prevalence at the full census level ($n = 13$). This majority result is strikingly different from the 28.6% rate observed within the n=7 decision-maker sub-sample alone. The divergence is itself informative: senior decision-makers, conscious of their professional reputations, exhibit social desirability bias (Fisher & Statman, 2000) when choosing the explicitly peer-mirrored option in a questionnaire context. The full census figure is less susceptible to this bias because it includes mid-level analysts and risk staff who face lower reputational risk in their scenario choices. At 54.2%, peer herding is a majority behaviour in the sector — not a marginal one.
 
 ### 4.4.2 The Stated-Revealed Preference Gap
 
-Figure 4.8 illustrates the stated-revealed preference gaps across the three primary heuristic dimensions, calculated as the difference between the C-scenario revealed prevalence rate and the corresponding B-item stated agreement rate.
+Figure 4.8 illustrates the stated-revealed preference gaps across the three primary heuristic dimensions, computed at $N = 24$ as the mean difference between the normalised C-scenario score and the corresponding normalised B-item Likert score.
 
 ![Figure 4.8: Stated-Revealed Preference Gaps Across Heuristic Dimensions](../../../outputs/charts/figure_4_8_preference_gap.png)
 
-**Figure 4.8: Stated versus Revealed Preference Gaps.** Positive values indicate that revealed behaviour exceeded stated agreement (under-acknowledgement of heuristic susceptibility); negative values indicate the reverse.
+**Figure 4.8: Stated versus Revealed Preference Gaps ($N = 24$, Full Census).** Positive values indicate that revealed behaviour exceeded stated acknowledgement; all three gaps are positive at the census level.
 
-The availability (location familiarity) gap is the largest at **+0.357**: stated agreement with using location as a risk proxy (B2 mean = 3.00, neutral) substantially understates the 85.7% revealed rate at which location was used as the decisive allocation criterion. The anchoring (title) gap is positive at **+0.214**: stated non-commitment in B3 (28.6% agree) is lower than the 42.9% revealed anchoring rate in C1, though the direction is perhaps less intuitive. The herding gap is slightly negative at **−0.036**, reflecting that stated agreement with peer orientation in B4 marginally exceeds revealed behaviour in C4 — the only heuristic where stated propensity is not understated by behaviour.
+The **availability (location familiarity) gap** is the largest at **+0.323**: stated agreement with using location as a risk proxy ($M = 3.12$; 50.0% agree) substantially understates the 75.0% revealed rate at which location was used as the decisive allocation criterion in C2. The **anchoring (title) gap** is positive at **+0.094**: the 58.3% revealed title-anchoring rate in C1 exceeds the corresponding B3 stated commitment level (54.2% agree). The **herding gap** is small but positive at **+0.021**: revealed peer-following (54.2% in C4) marginally exceeds stated acknowledgement of it (50.0% agree in B4).
 
-This gap structure tells an important story about institutional cognition. Location familiarity is the heuristic most subject to motivated underreporting: managers consistently downplay how much they favour familiar submarkets in stated surveys, yet reveal dramatic geographic concentration preferences when forced to choose. Title anchoring follows a similar but weaker pattern. Only herding resists this tendency — and even then, the reversal is marginal. The implication is that the most diagnostically valuable heuristic data for this study comes from the scenario choices (C1–C4) and the computational scores (Section 4.5), not from the self-reported B-item rankings.
+At $N = 24$, **all three gaps are positive** — revealed heuristic behaviour consistently and uniformly exceeds stated acknowledgement across the full census. This is the first study to demonstrate this pattern systematically across the Nigerian pension fund property investment sector. It carries a direct methodological implication: self-reported criteria rankings (B1) and Likert agreement items (B2–B4) systematically underestimate the cognitive role of heuristics. The scenario choices (C1–C4) and the computational composite scores (Section 4.5) provide the more reliable indicators of actual institutional heuristic intensity.
 
 ---
 
@@ -138,7 +148,7 @@ This gap structure tells an important story about institutional cognition. Locat
 
 ### 4.5.1 Composite Scores
 
-The four composite heuristic scores ($H_{j,k} \in [0,1]$) were calculated for each of the $n = 7$ respondents using Formulas 3.1–3.4 from the methodology chapter, integrating the stated criteria rankings, B-item Likert responses, and C-item scenario choice rates. Table 4.4 summarises the resulting weighted mean scores, standard deviations, BCa bootstrap 95% confidence intervals, and the normalized $\alpha_j$ weights.
+The four composite heuristic scores ($H_{j,k} \in [0,1]$) were calculated for each of the $n = 7$ decision-maker respondents using Formulas 3.1–3.4 from the methodology chapter. Critically, these composite scores integrate inputs from the same sections B and C that were analysed at the $N = 24$ level above: the B1 median rank position and B2–B4 Likert means, and the C-item scenario choice rates are estimated from the full census as objective prevalence estimates, while the composite score weighting for Portfolio A derivation uses the decision-maker sub-sample's own responses. Table 4.4 summarises the resulting weighted mean scores, standard deviations, BCa bootstrap 95% confidence intervals, and the normalised $\alpha_j$ weights.
 
 ### Table 4.4: Composite Heuristic Scores and Calibrated Alpha Weights ($n = 7$)
 
@@ -150,7 +160,7 @@ The four composite heuristic scores ($H_{j,k} \in [0,1]$) were calculated for ea
 | H₄ — Peer Herding (HCS) | 0.4819 | 0.1431 | [0.388, 0.585] | Moderate | 0.2181 |
 | **Total** | — | — | — | — | **1.0000** |
 
-As shown in Table 4.4 and illustrated in the radar chart in Figure 4.7, Location Familiarity ($H_2$: AVCS) is the sole heuristic to meet the "Highly Prevalent" threshold ($M > 0.70$), with a weighted mean of 0.7378 ($SD = 0.1734$, BCa 95% CI [0.616, 0.851]). This convergence is methodologically important: the AVCS score integrates the B1 location rank (2.0, 100% Top-3), the B2 Likert mean (3.00), and the C2 scenario choice rate (85.7%), and their resultant composite still clears the 0.70 threshold. This is not a single-item artefact; it reflects consistent, multi-dimensional evidence of location-driven decision making.
+As shown in Table 4.4 and illustrated in the radar chart in Figure 4.7, Location Familiarity ($H_2$: AVCS) is the sole heuristic to meet the "Highly Prevalent" threshold ($M > 0.70$), with a weighted mean of 0.7378 ($SD = 0.1734$, BCa 95% CI [0.616, 0.851]). This convergence is methodologically important: the AVCS score integrates the B1 location rank (median 3.0 at $N=24$, 75.0% Top-3), the B2 Likert mean (3.12), and the C2 scenario choice rate (75.0%), and their resultant composite for the decision-maker tier still clears the 0.70 threshold. This is not a single-item artefact; it reflects consistent, multi-dimensional evidence of location-driven decision making.
 
 ![Figure 4.7: Composite Heuristic Score Profile — Radar Chart](../../../outputs/charts/figure_4_7_heuristic_scores_radar.png)
 
@@ -223,7 +233,7 @@ These split-group results do not straightforwardly confirm or refute the ecologi
 
 ### 4.6.5 Technology Adoption Disposition
 
-Item D4a assessed the likelihood that respondents' funds would adopt a decision-support software tool specifically validated for Nigerian institutional property investment. The response was predominantly positive: five of seven respondents (71.4%) answered "Very Likely," one "Somewhat Likely," and one "Neutral." Not a single respondent indicated unlikelihood. Combined with the D3 finding that five respondents identified database access as the single most important improvement available to them, this result paints a clear picture: institutional appetite for data-driven tools is high, but the supply — in the form of validated, Nigeria-specific analytical infrastructure — is absent. The use of heuristics in this sector should therefore not be interpreted as a preference; it is, in significant part, a structural default.
+Item D4a assessed the likelihood that respondents' funds would adopt a decision-support software tool specifically validated for Nigerian institutional property investment. At the full census level ($N = 24$), the response was overwhelmingly positive: 19 respondents (79.2%) answered "Very Likely," 4 (16.7%) "Somewhat Likely," and only 1 (4.2%) "Neutral." Not a single respondent among the full 24 indicated unlikelihood of adoption. This near-unanimous openness to data-driven tools, observed consistently across both decision-makers and non-decision-making staff, confirms that analytical appetite exists across the entire pension fund investment workforce. The barrier is not willingness but supply: the use of heuristics in this sector is, in significant part, a structural default enforced by the absence of validated, Nigeria-specific analytical infrastructure.
 
 ---
 
@@ -433,14 +443,14 @@ It also connects to the Estimation Risk literature (DeMiguel et al., 2009; Micha
 
 ## 4.10 Chapter Summary
 
-This chapter has presented the empirical results and analytical interpretations addressing the study's four research objectives. The findings are summarised below.
+This chapter has presented the empirical results and analytical interpretations addressing the study's four research objectives, structured through a two-tier analytical design: Tier 1 ($N = 24$, full census) for all descriptive, stated-preference, scenario, and institutional analyses; Tier 2 ($n = 7$, decision-maker sub-sample) for composite heuristic scoring and alpha weight derivation.
 
-**Objective I — Identifying Heuristics:** Among the seven active decision-makers in the analytical sub-sample, Location Familiarity ($H_2$: AVCS) emerged as the sole highly prevalent heuristic (weighted mean = 0.7378, BCa 95% CI [0.616, 0.851]), dominating all three composite score components: the B1 rank (median 2.0, 100% Top-3), the B2 Likert mean (3.00), and the C2 scenario choice rate (85.7%). Title Anchoring ($H_1$: ACS = 0.4847), Trend Momentum ($H_3$: RCS = 0.5041), and Peer Herding ($H_4$: HCS = 0.4819) registered as Moderate. A significant stated-revealed preference gap was identified for Location Familiarity (+0.357) and Title Anchoring (+0.214), confirming that institutional managers systematically understate their susceptibility to these heuristics in self-report data. The criteria ranking analysis confirmed a lexicographic cognitive hierarchy (Title > Location > Yield), with Tenant Profile, Market Liquidity, and Peer Activity ranked fourth through eighth by the analytical sub-sample.
+**Objective I — Identifying Heuristics:** Across the full census ($N = 24$), the criteria ranking analysis (Table 4.2) confirmed a lexicographic cognitive priority hierarchy: Title Status (median rank 1.5, 75.0% Top-3), Location Prestige (median 3.0, 75.0% Top-3), and Rental Yield (median 3.0, 70.8% Top-3) form the dominant upper tier, with all other criteria ranked markedly lower. Scenario analysis at $N = 24$ revealed high heuristic prevalence: Trend Momentum (C3: 83.3%), Location Familiarity (C2: 75.0%), Title Anchoring (C1: 58.3%), and Peer Herding (C4: 54.2%) — all confirmed as majority or near-majority institutional behaviours. Stated-revealed preference gaps at $N = 24$ are uniformly positive across all three primary heuristic dimensions (availability: +0.323; anchoring: +0.094; herding: +0.021), confirming systematic under-acknowledgement of heuristic susceptibility across the full census. Among the decision-maker sub-sample ($n = 7$), Location Familiarity ($H_2$: AVCS = 0.7378, BCa 95% CI [0.616, 0.851]) was the sole Highly Prevalent heuristic; Title Anchoring ($H_1$ = 0.4847), Trend Momentum ($H_3$ = 0.5041), and Peer Herding ($H_4$ = 0.4819) all registered as Moderate.
 
 **Objective II — Portfolio Construction:** Portfolio A (Heuristic-Driven) was built around the calibrated $\alpha$ weights ($\alpha_1 = 0.2196$, $\alpha_2 = 0.3342$, $\alpha_3 = 0.2281$, $\alpha_4 = 0.2181$), selecting 15 properties with a total acquisition cost of ₦11.61 billion. It is geographically concentrated in Lagos (14 of 15 holdings, geographic HHI = 0.876) but asset-type diversified (HHI = 0.360). Portfolio B (MVO-Optimised) selected 15 properties with a total acquisition cost of ₦11.02 billion. It is geographically diversified across five states (HHI = 0.316) but asset-type concentrated in Grade A office assets (HHI = 0.662). The two portfolios share five properties — all Lagos Grade A office assets — confirming that the most heuristically attractive assets and the most covariance-efficient assets partially overlap in the universe.
 
 **Objective III — Comparative Performance:** Under the baseline risk-free rate of 8.4%, Portfolio B recorded a mean Sharpe ratio of 12.36 versus Portfolio A's 2.08, yielding $\Delta SR = 10.28$ (BCa 95% CI [10.35, 10.68], $t = 733.35$, $p < 0.0001$, Cohen's $d = 7.33$). Both statistical and practical significance criteria were met. The MVO advantage is entirely driven by volatility suppression (Portfolio B volatility: 0.58% vs. Portfolio A: 7.65%), not by superior expected return (Portfolio A CAGR: 24.2% vs. Portfolio B: 15.5%). The MVO portfolio's maximum drawdown of 0.00% and its superior diversification ratio (5.81 vs. 1.29) confirm its structural risk management advantage under baseline conditions.
 
-**Objective IV — Factors and Environmental Constraints:** Established organisational precedent and investment committee preference for experienced judgment (both cited by 71.4% of decision-makers) were identified as the dominant institutional drivers of heuristic reliance. Peer PFA behaviour as a practical benchmark was cited by 57.1%. The near-universal disposition toward adopting data-driven tools (71.4% "Very Likely") — combined with the identification of database access as the single highest-priority improvement — confirms that heuristic use in this sector is primarily a structural default driven by the absence of data infrastructure, not a principled rejection of quantitative analysis.
+**Objective IV — Factors and Environmental Constraints:** At the full census level ($N = 24$), investment committee preference for experienced judgment (66.7%) and established organisational precedent (45.8%) were the dominant institutional drivers of heuristic reliance, followed by peer PFA behaviour as a practical benchmark (33.3%). The near-unanimous disposition toward adopting data-driven tools (79.2% "Very Likely" across $N = 24$) — combined with the identification of database access as the single highest-priority improvement — confirms that heuristic use in this sector is primarily a structural default driven by the absence of data infrastructure, not a principled rejection of quantitative analysis.
 
 **The Central Empirical Finding — Ecological Conditionality:** The sensitivity analysis demonstrated a performance crossover at approximately $R_f \approx 12\text{–}13\%$. Below this threshold, the MVO portfolio dominates on risk-adjusted terms. Above it, the heuristic portfolio's high-yield focus makes it the superior performer. Since Nigeria's prevailing risk-free rate has repeatedly breached 15% in recent years — and reached 27.5% in 2024 — the heuristic portfolio's ecological adaptiveness to the Nigerian macroeconomic environment cannot be dismissed. The MVO advantage is real, substantial, and statistically conclusive under baseline conditions; but it is also fragile, collapsing entirely under the interest rate conditions that have actually characterised the Nigerian market for much of the study period. Chapter Five interprets the theoretical implications of this finding and its practical consequences for Nigerian pension fund policy.

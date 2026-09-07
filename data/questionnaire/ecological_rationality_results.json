@@ -1,4 +1,5 @@
 {
+  "decision_maker_sample_n": 7,
   "inf_citing_count": 5,
   "inf_non_citing_count": 2,
   "mean_avcs_inf": 0.6885714285714286,

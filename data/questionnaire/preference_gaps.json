@@ -1,5 +1,6 @@
 {
-  "anchoring_gap": 0.21428571428571427,
-  "availability_gap": 0.35714285714285715,
-  "herding_gap": -0.03571428571428571
+  "sample": 24,
+  "anchoring_gap": 0.09375,
+  "availability_gap": 0.3229166666666667,
+  "herding_gap": 0.020833333333333332
 }
