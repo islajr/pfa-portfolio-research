@@ -1,186 +1,253 @@
-# APPENDIX A: RESEARCH QUESTIONNAIRE INSTRUMENT
+# APPENDIX A: QUESTIONNAIRE INSTRUMENT
 
-## OBAFEMI AWOLOWO UNIVERSITY, ILE-IFE, NIGERIA
-### FACULTY OF ENVIRONMENTAL DESIGN AND MANAGEMENT
-### DEPARTMENT OF ESTATE MANAGEMENT
+## HEURISTICS IN PROPERTY PORTFOLIO SELECTION DECISIONS OF NIGERIAN PENSION FUNDS
 
-**RESEARCH SURVEY QUESTIONNAIRE**
+**Questionnaire Survey Instrument · Obafemi Awolowo University, Ile-Ife**
 
-**TITLE:** HEURISTICS IN PROPERTY PORTFOLIO SELECTION DECISIONS OF NIGERIAN PENSION FUNDS
+**Faculty of Environmental Design and Management · Department of Estate Management**
 
----
+**Undergraduate Research Dissertation | 2024/2025 Academic Session**
 
-### DEAR RESPONDENT,
-
-This questionnaire is designed to gather empirical data for an academic dissertation research project at Obafemi Awolowo University, Ile-Ife. The study investigates how investment managers at Nigerian Pension Fund Administrators (PFAs) evaluate real estate investment opportunities and make property portfolio selection decisions under regulatory and market conditions.
-
-Your professional participation is crucial to the success of this research. All information provided will be treated with strict confidentiality and used exclusively for academic research purposes. Individual respondents and specific funds will not be identified in any reported results.
-
-Thank you for your valuable time and co-operation.
+**Estimated completion time: 12–15 minutes**
 
 ---
 
-### SECTION A: RESPONDENT AND INSTITUTIONAL BACKGROUND
+**Dear Investment Professional,**
 
-**A1. What is your current professional job title?**
-- [ ] Chief Investment Officer (CIO) / Head of Investment
-- [ ] Senior Portfolio Manager / Fund Manager
-- [ ] Real Estate Asset Manager
-- [ ] Risk and Compliance Manager / Officer
-- [ ] Investment Analyst / Financial Analyst
-- [ ] Other (Please specify): ______________________
+You are invited to take part in a research study that will investigate how Pension Fund Administrators select direct real estate investments and decision-making processes that influence the construction of property portfolios.
 
-**A2. How many years of experience do you have in real estate or institutional investment management?**
-- [ ] Less than 3 years
-- [ ] 3–5 years
-- [ ] 6–10 years
-- [ ] 11–15 years
-- [ ] More than 15 years
+The research is a section of an undergraduate dissertation in Estate Management at Obafemi Awolowo University. It tries to know the factors and logic models used by seasoned investment experts in the process of assessing and choosing properties for institutional portfolios.
 
-**A3. Which of the following best describes your fund's approximate total Assets Under Management (AUM)?**
-- [ ] Below ₦500 Billion
-- [ ] ₦500 Billion – ₦2 Trillion
-- [ ] Above ₦2 Trillion
+There are no answers that are right or wrong. Your answers are useful specifically because they are based on your personal experience and opinion in the field of work.
 
-**A4. Approximately how many direct real estate properties does your fund currently hold in its portfolio?**
-- [ ] None (0 properties)
-- [ ] 1–5 properties
-- [ ] 6–10 properties
-- [ ] 11–15 properties
-- [ ] More than 15 properties
-
-**A5. Do you directly participate in property selection decisions?**
-- [ ] **Category A:** Yes — I am a direct decision-maker / member of the investment committee approving property acquisitions.
-- [ ] **Category B:** Yes — I conduct analytical evaluation and present property acquisition recommendations to the decision-making committee.
-- [ ] **Category C:** No — I do not directly participate in property selection decisions (e.g., administrative, risk oversight, or general compliance).
-
-**A6. Does your fund use a formal quantitative model (e.g., Mean-Variance Optimization, DCF, Monte Carlo simulation) to assist with property selection decisions?**
-- [ ] Yes, fully — quantitative model outputs are the primary basis for property selection decisions.
-- [ ] Yes, partially — quantitative models are used alongside professional experience and qualitative judgment.
-- [ ] No — property selection relies primarily on professional experience, qualitative judgment, and board committee deliberation.
-- [ ] Not aware of formal quantitative property selection tools.
+Any answers are highly confidential. Only aggregate data will be reported. No researcher, fund or organisation will be named in any publication or communication that results from this study.
 
 ---
 
-### SECTION B: STATED PROPERTY EVALUATION CRITERIA & PRIORITY RANKINGS
+## SECTION A: Respondent Profile
 
-**B1. Please rank the following eight (8) criteria in order of their importance in your fund's property selection process.**  
-*(Rank 1 = Most Important, 8 = Least Important. Each rank 1–8 must be assigned to exactly one criterion.)*
+*This section gathers background information to put your answers into perspective. Everything is handled in a confidential manner. Items indicated by a star (★) are mandatory.*
 
-| Property Evaluation Criterion | Rank (1–8) |
-|:---|:---:|
-| **Submarket Location Prestige** (e.g., Victoria Island, Ikoyi, Maitama CBD) | [ ___ ] |
-| **Title Legal Status** (e.g., perfected Certificate of Occupancy, Governor's Consent) | [ ___ ] |
-| **Rental Yield / Income Return** (annual rental income divided by acquisition price) | [ ___ ] |
-| **Tenant Profile and Lease Security** (multinational/blue-chip tenants, long lease term) | [ ___ ] |
-| **Physical Building Condition & Specification** (Grade A finishes, modern infrastructure) | [ ___ ] |
-| **Peer PFA Acquisition Activity** (recent property purchases by competing PFAs in the area) | [ ___ ] |
-| **External Valuer Recommendation** (independent valuation report endorsement) | [ ___ ] |
-| **Market Liquidity** (ease of future resale in secondary market) | [ ___ ] |
+**A1. What is your current job title? ★**
 
-**For items B2–B4, please indicate your level of agreement with each statement on a 5-point Likert scale:**  
-*(1 = Strongly Disagree, 2 = Disagree, 3 = Neutral, 4 = Agree, 5 = Strongly Agree)*
+*Select one option.*
 
-**B2.** *"A property in Ikoyi, Victoria Island, or Maitama carries lower investment risk than an equally-priced property in a less prominent location, regardless of its specific financial characteristics."*  
-- [ ] Strongly Disagree (1)  
-- [ ] Disagree (2)  
-- [ ] Neutral (3)  
-- [ ] Agree (4)  
-- [ ] Strongly Agree (5)
+- [ ] **A** — Portfolio Manager / Fund Manager
+- [ ] **B** — Investment Analyst (Senior / Principal)
+- [ ] **C** — Chief Investment Officer (CIO) / Head of Investments
+- [ ] **D** — Director of Research, Strategy, or Risk
+- [ ] **E** — Executive / Director with investment oversight responsibility
+- [ ] **F** — Other
 
-**B3.** *"When a property lacks a perfected Certificate of Occupancy or Governor's Consent, our fund would not recommend it regardless of how attractive its rental yield might be."*  
-- [ ] Strongly Disagree (1)  
-- [ ] Disagree (2)  
-- [ ] Neutral (3)  
-- [ ] Agree (4)  
-- [ ] Strongly Agree (5)
+**A2. How many years of experience do you have in real estate or institutional investment management? ★**
 
-**B4.** *"Our fund's property selections over the past three years have been broadly similar in location and asset type to those of peer PFAs in the market."*  
-- [ ] Strongly Disagree (1)  
-- [ ] Disagree (2)  
-- [ ] Neutral (3)  
-- [ ] Agree (4)  
-- [ ] Strongly Agree (5)
+*Select one option.*
 
----
+- [ ] **A** — Less than 3 years
+- [ ] **B** — 3–5 years
+- [ ] **C** — 6–10 years
+- [ ] **D** — 11–15 years
+- [ ] **E** — More than 15 years
 
-### SECTION C: REVEALED PROPERTY INVESTMENT SCENARIOS
+**A3. Which of the following best describes your fund's approximate total Assets Under Management (AUM)? ★**
 
-*Please evaluate the following realistic investment scenarios and select the option that best reflects the choice your fund would make in practice.*
+*Select one option. Ranges are broad to preserve confidentiality.*
 
-**Scenario C1 (Anchoring vs. Yield Compensation):**  
-Your fund is evaluating a Grade A commercial office building. An independent valuation conducted four months ago placed the market value at ₦900 million. Softer market conditions have reduced current valuations to ₦730 million, and the vendor's current asking price is ₦740 million. A competing option offers a Deed of Assignment title at a significantly higher yield of 14.5% compared to the C of O property's 9.2%.  
-- [ ] **Option A:** Select the Certificate of Occupancy property at ₦740 million (9.2% yield) due to title security and valuation anchor.
-- [ ] **Option B:** Select the Deed of Assignment property offering the higher yield (14.5%) to maximize fund income.
+- [ ] **A** — Below ₦500 billion
+- [ ] **B** — ₦500 billion – ₦2 trillion
+- [ ] **C** — Above ₦2 trillion
+- [ ] **D** — Prefer not to say
 
-**Scenario C2 (Location Availability Heuristic):**  
-Your analysis identifies two commercial properties offering identical financial returns: identical rental yield (8.5%), identical tenant credit quality, identical 10-year lease terms, and equivalent building specification.  
-- Property A is located in the Victoria Island business district, Lagos.  
-- Property B is located in a prime commercial area in Ibadan, Oyo State.  
-- [ ] **Option A:** Select Property A (Victoria Island, Lagos) due to submarket familiarity and spatial prestige.
-- [ ] **Option B:** Select Property B (Ibadan, Oyo State) to achieve regional spatial diversification.
+**A4. Approximately how many direct real estate properties does your fund currently hold in its portfolio? ★**
 
-**Scenario C3 (Trend Momentum Heuristic):**  
-A specific sector—Grade A commercial office in Abuja—has delivered capital appreciation of 18% in each of the past two years, significantly above the broader market average of 9%. Current entry yields in Abuja office are compressed to 7.0%, while stable industrial logistics assets in Port Harcourt offer 12.5% yield with modest 4% capital growth.  
-- [ ] **Option A:** Allocate capital to the high-growth Abuja commercial office sector to capture ongoing capital appreciation momentum.
-- [ ] **Option B:** Allocate capital to the stable Port Harcourt industrial logistics asset to secure current cash-flow yield.
+*Select one option.*
 
-**Scenario C4 (Peer Herding Heuristic):**  
-You become aware that three of the five largest PFAs by AUM have recently acquired Grade A commercial office properties in a specific submarket in Abuja. The returns on these peer purchases appear to be slightly below your fund's target return hurdle. A standalone industrial property in Kano offers higher yield and full lease compliance but has no peer PFA presence.  
-- [ ] **Option A:** Recommend acquiring an Abuja office asset matching peer PFA acquisition choices.
-- [ ] **Option B:** Recommend acquiring the standalone Kano industrial asset to capture higher yield despite zero peer activity.
+- [ ] **A** — None (our fund does not currently hold direct property)
+- [ ] **B** — 1–3 properties
+- [ ] **C** — 4–10 properties
+- [ ] **D** — 11–25 properties
+- [ ] **E** — More than 25 properties
+- [ ] **F** — I do not know / this information is not available to me
+
+**A5. Do you directly participate in property selection decisions? ★**
+
+*Select one option.*
+
+- [ ] **A** — Yes (I have direct decision-making authority over property acquisitions)
+- [ ] **B** — Yes (I provide analysis and recommendations that inform decisions, but final authority rests elsewhere)
+- [ ] **C** — No (I do not directly participate in property selection)
+
+**A6. Does your fund use a formal quantitative model to assist with property selection decisions? ★**
+
+*Select one option.*
+
+- [ ] **A** — Yes, fully (quantitative modelling is the primary basis for selection decisions)
+- [ ] **B** — Yes, partially (quantitative modelling is used alongside professional judgment)
+- [ ] **C** — No (selection decisions are based primarily or entirely on judgment and experience)
+- [ ] **D** — I am not aware of any quantitative selection models being used
 
 ---
 
-### SECTION D: INSTITUTIONAL GOVERNANCE & ENVIRONMENTAL CONSTRAINTS
+## SECTION B: Property Selection Criteria
 
-**D1. Which of the following best describes how property selection decisions are typically made at your fund?**
-- [ ] An executive Investment Committee / Board Sub-Committee formally reviews and approves all acquisition recommendations.
-- [ ] Senior executive sign-off is required depending on deal threshold size.
-- [ ] A dedicated real estate asset management team reaches consensus decisions independently.
-- [ ] Other (Please specify): ______________________
+*This part discusses what influences your fund when considering direct real estate investments. Please answer in relation to what happens in the reality of your organisation in relation to the process of making decisions — not in relation to the way decisions should be made.*
 
-**D1b. Approximately how many formal approval stages does a property acquisition typically pass through, from initial identification to final sign-off?**
-- [ ] 1 stage
-- [ ] 2 stages
-- [ ] 3 or 4 stages
-- [ ] More than 4 stages
+**B1. Please rank the following eight criteria in order of their importance in your fund's property selection process. ★**
 
-**D2. To what extent does real estate data unavailability limit your fund's ability to conduct formal quantitative analysis of property investment opportunities?**
-- [ ] 1 — Not at all a constraint
-- [ ] 2 — Minor constraint
-- [ ] 3 — Moderate constraint
-- [ ] 4 — Significant constraint
-- [ ] 5 — Severe constraint (major barrier to quantitative modeling)
+*Write 1 next to the most important criterion and 8 next to the least important. Use each number only once.*
 
-**D2b. Which of the following real estate data gaps most constrains your investment analysis?** *(Select all that apply)*
-- [ ] Absence of centralized transaction price databases for Nigerian property
-- [ ] Lack of reliable historical rent growth and capital appreciation indices
-- [ ] Inadequate property yield and capitalization rate benchmarks across submarkets
-- [ ] Unreliable property return volatility and covariance data
+| **Criterion** | **Rank** |
+| :--- | :---: |
+| Location prestige / submarket reputation | ______ |
+| Title documentation status (e.g., Certificate of Occupancy, Governor's Consent) | ______ |
+| Rental yield / income return | ______ |
+| Tenant profile and lease security | ______ |
+| Physical condition of the property | ______ |
+| Activity of peer PFAs in the same submarket | ______ |
+| The valuer's or surveyor's recommendation | ______ |
+| Market liquidity / ease of future disposal | ______ |
 
-**D3. Which single change would most improve your fund's property selection decision-making?**
-- [ ] Access to a reliable, comprehensive Nigerian real estate return and transaction database
-- [ ] Adoption of specialized quantitative portfolio optimization software tools
-- [ ] Regulatory reform of PenCom direct real estate investment caps
-- [ ] Formal training for investment staff on quantitative real estate modeling
+**B2–B4. Indicate your level of agreement with each of the following statements. ★**
 
-**D4. Which of the following institutional or contextual factors most influence the extent to which your fund relies on judgment and experience rather than formal quantitative analysis?** *(Select all that apply)*
-- [ ] Investment committee preference for experienced judgment over quantitative model outputs
-- [ ] Established organizational precedent (prior fund acquisitions set the decision template)
-- [ ] Absence of reliable market data to support quantitative modeling
-- [ ] Peer PFA acquisition behavior providing a practical benchmark in data-scarce markets
-- [ ] Time pressure (acquisition decisions must be made faster than detailed analysis allows)
-- [ ] High deal complexity that resists standardized modeling
-- [ ] Regulatory uncertainty making long-term cash flow projections unreliable
+*Circle or tick one response per statement.*
 
-**D4a. If a software tool were available—purpose-built for institutional real estate investment and assisting with property evaluation under PenCom guidelines—how likely is your fund to adopt such a tool?**
-- [ ] Very Likely
-- [ ] Somewhat Likely
-- [ ] Neutral
-- [ ] Somewhat Unlikely
-- [ ] Very Unlikely
+*Scale: 1 = Strongly Disagree → 5 = Strongly Agree*
+
+| **Statement** | **1 Strongly Disagree** | **2 Disagree** | **3 Neutral** | **4 Agree** | **5 Strongly Agree** |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **B2.** An Ikoyi, Victoria Island or Maitama property will be less risky to invest in than an equal-value property in a less well-known area, independent of its particular financial nature. | ○ | ○ | ○ | ○ | ○ |
+| **B3.** Where there is no Certificate of Occupancy or Governor's Consent on the property, we would not recommend it no matter how good the yield may be. | ○ | ○ | ○ | ○ | ○ |
+| **B4.** The choice of property in our fund in the last three years has been generally similar in place and type to that of other PFAs of which we know. | ○ | ○ | ○ | ○ | ○ |
 
 ---
 
-**END OF QUESTIONNAIRE — THANK YOU FOR YOUR PARTICIPATION**
+## SECTION C: Investment Scenarios
+
+*The following scenarios outline real-life investment situations. In each case, circle the number on the scale to indicate your response. Reflect on what you and your fund would tend to do in practice — not on how you think an ideal response would appear.*
+
+**Scenario C1**
+
+A Grade A office building is under consideration by your fund. The market value was independently valued four months ago at ₦900 million. The property is currently estimated to be worth ₦730 million by citing softer market conditions. The asking price is ₦740 million.
+
+**How strongly does the earlier ₦900 million valuation influence the maximum offer your fund would make?**
+
+| *1 — Not at all (only the current valuation is relevant)* | **1** | **2** | **3** | **4** | **5** | *5 — Very strongly (the earlier valuation significantly shapes our offer)* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| | ○ | ○ | ○ | ○ | ○ | |
+
+**Scenario C2**
+
+In your analysis, you have discovered two commercial properties that have statistically equal risk-adjusted returns: the same cap rates, the same title status, the same tenant mix, and the same building specification.
+
+Property A is in the business district of Victoria Island.
+
+Property B is in a similar business area in Ibadan.
+
+**How likely is your fund to prefer Property A?**
+
+| *1 — No preference (equivalent financials drive equivalent interest)* | **1** | **2** | **3** | **4** | **5** | *5 — Strongly prefer A (Victoria Island location is decisive)* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| | ○ | ○ | ○ | ○ | ○ | |
+
+**Scenario C3**
+
+A particular sector, Grade A office in Abuja, has provided capital appreciation of 18 percent in the last two years, which is significantly higher than the market average of 9 percent.
+
+**How much does this recent performance increase your inclination to target this sector for new acquisitions in the current year?**
+
+| *1 — No effect (recent returns do not alter our allocation view)* | **1** | **2** | **3** | **4** | **5** | *5 — Significantly increases inclination (strong recent performance is a compelling signal)* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| | ○ | ○ | ○ | ○ | ○ | |
+
+**Scenario C4**
+
+You get to know that three of the five largest PFAs by AUM have just purchased Grade A office properties in a particular submarket in Abuja. The returns on these purchases seem to be a little lower than your fund's target hurdle of returns.
+
+**How much does peer activity increase your likelihood of evaluating similar properties in that submarket?**
+
+| *1 — No effect (peer activity does not influence our evaluation)* | **1** | **2** | **3** | **4** | **5** | *5 — Significantly increases likelihood (peer validation is a meaningful signal)* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| | ○ | ○ | ○ | ○ | ○ | |
+
+---
+
+## SECTION D: Decision Process and Institutional Context
+
+*This section will enquire on the way investment decisions are organized in your fund and the real-life aspects that influence your analysis process. Please choose the alternative or alternatives that best characterize the practice of your fund.*
+
+**D1. Which of the following best describes how property selection decisions are typically made at your fund? ★**
+
+*Select one option.*
+
+- [ ] **A** — An individual investment manager or portfolio manager makes the decision directly
+- [ ] **B** — A dedicated real estate or property investment team reaches a consensus decision
+- [ ] **C** — An investment committee reviews and formally approves all acquisition recommendations
+- [ ] **D** — Senior management or the CIO makes the final decision based on a team recommendation
+- [ ] **E** — A combination of committee approval and senior sign-off, depending on deal size
+
+**D2. Approximately how many formal approval stages does a property acquisition typically pass through, from initial identification to final sign-off? ★**
+
+*Select one option.*
+
+- [ ] **A** — One stage
+- [ ] **B** — Two stages
+- [ ] **C** — Three stages
+- [ ] **D** — Four or more stages
+- [ ] **E** — This varies considerably and there is no standard process
+
+**D3. How severe is the unavailability of data to prevent your fund from formally quantitatively analyzing real estate investment opportunities?**
+
+*Circle or tick one number on the scale below.*
+
+| *1 — Not at all (data is sufficient for our analytical needs)* | **1** | **2** | **3** | **4** | **5** | *5 — Very significantly (data gaps are a serious constraint)* |
+| :--- | :---: | :---: | :---: | :---: | :---: | :--- |
+| | ○ | ○ | ○ | ○ | ○ | |
+
+**D4. Which of the following specific data gaps most constrain your investment analysis? ★**
+
+*Select all that apply.*
+
+- [ ] Absence of reliable transaction price databases for Nigerian property
+- [ ] Limited historical rental yield data by submarket and property type
+- [ ] Lack of standardised property valuation and appraisal indices
+- [ ] No publicly available capital appreciation benchmarks
+- [ ] Insufficient occupancy rate data by asset class and location
+- [ ] Difficulty obtaining comparable transactions with disclosed pricing
+- [ ] Unreliable macroeconomic projections for use in scenario modelling
+- [ ] Weak or inconsistent title documentation on prospective properties
+- [ ] No significant data gaps — available data meets our analytical needs
+
+**D5. Which single change would most improve your fund's property selection decision-making? ★**
+
+*Select one option — the one that would have the greatest practical impact.*
+
+- [ ] **A** — Access to a reliable, comprehensive Nigerian real estate return and transaction database
+- [ ] **B** — Dedicated in-house analytical staff with quantitative investment expertise
+- [ ] **C** — Industry-wide standardisation of property valuation and performance reporting
+- [ ] **D** — Clearer regulatory guidance from PenCom on real estate performance benchmarking
+- [ ] **E** — Decision-support software designed specifically for Nigerian institutional property investment
+- [ ] **F** — Investment committee training in portfolio construction and risk assessment techniques
+- [ ] **G** — Reduction in transaction costs, title processing times, or regulatory friction
+- [ ] **H** — No change required (our current process is adequate for our needs)
+
+**D6. Which of the following institutional or contextual variables best predict the degree to which your fund is dependent on judgment and experience as opposed to formal quantitative analysis in property selection? ★**
+
+*Select all that apply.*
+
+- [ ] Time pressure (acquisition decisions must be made faster than analysis allows)
+- [ ] Absence of reliable market data to support a quantitative approach
+- [ ] Lack of in-house quantitative or modelling expertise
+- [ ] Investment committee preference for experienced judgment over model outputs
+- [ ] Regulatory uncertainty that makes long-term projections unreliable
+- [ ] Peer PFA behaviour providing a practical benchmark in the absence of data
+- [ ] Established organisational precedent (prior acquisitions set the template)
+- [ ] High deal complexity that resists standardised modelling
+- [ ] Quantitative analysis is fully used (judgment plays no primary role)
+
+---
+
+**Thank you for completing this questionnaire.**
+
+*Your contribution is deeply appreciated and will directly inform the findings of this research.*
+
+*ioakinmokun@student.oauife.edu.ng · Department of Estate Management, Obafemi Awolowo University, Ile-Ife, 2026.*
