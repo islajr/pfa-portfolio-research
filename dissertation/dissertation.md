@@ -420,7 +420,7 @@ Instead of assuming a pre-determined result, this study treats the relative perf
 <a id="figure-**figure 21: conceptual framework diagram**"></a>
 **Figure 2.1: Conceptual Framework Diagram**
 
-> *Figure 2.1 illustrates the pathway from the dual decision environment (environmental and institutional conditions) through the four heuristics of focus (anchoring, availability, representativeness, herding) to portfolio composition outcomes, and the empirical resolution between the Heuristics-and-Biases and Ecological Rationality paradigms. See the dissertation submission document for the original diagram.*
+![Figure 2.1: Conceptual Framework Diagram](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_2_1_conceptual_framework.png)
 
 *Source: Author's Research (2026)*
 
@@ -889,7 +889,7 @@ Figure 4.1 shows the radar profile of these composite heuristic scores, along wi
 <a id="figure-**figure 41: composite heuristic score profile and calibrated weights**"></a>
 **Figure 4.1: Composite Heuristic Score Profile and Calibrated Weights**
 
-![Figure 4.1: Composite Heuristic Score Profile and Calibrated Weights](../outputs/charts/figure_4_1_heuristic_scores_radar.png)
+![Figure 4.1: Composite Heuristic Score Profile and Calibrated Weights](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_4_1_heuristic_scores_radar.png)
 
 *Source: Field Survey & Author's Computation, 2026*
 
@@ -967,7 +967,7 @@ Figure 4.2 plots the positions of Portfolio A and Portfolio B relative to the ef
 <a id="figure-**figure 42: property portfolio efficient frontier cloud**"></a>
 **Figure 4.2: Property Portfolio Efficient Frontier Cloud**
 
-![Figure 4.2: Property Portfolio Efficient Frontier Cloud](../outputs/charts/figure_4_2_efficient_frontier.png)
+![Figure 4.2: Property Portfolio Efficient Frontier Cloud](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_4_2_efficient_frontier.png)
 
 *Source: Author's Computation, 2026*
 
@@ -1000,14 +1000,14 @@ Figures 4.3 and 4.4 illustrate the geographic and asset-type allocations of both
 <a id="figure-**figure 43: geographic asset allocation comparison**"></a>
 **Figure 4.3: Geographic Asset Allocation Comparison**
 
-![Figure 4.3: Geographic Asset Allocation Comparison](../outputs/charts/figure_4_3_geographic_allocation.png)
+![Figure 4.3: Geographic Asset Allocation Comparison](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_4_3_geographic_allocation.png)
 
 *Source: Author's Research, 2026*
 
 <a id="figure-**figure 44: asset type portfolio allocation comparison**"></a>
 **Figure 4.4: Asset Type Portfolio Allocation Comparison**
 
-![Figure 4.4: Asset Type Portfolio Allocation Comparison](../outputs/charts/figure_4_4_asset_type_allocation.png)
+![Figure 4.4: Asset Type Portfolio Allocation Comparison](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_4_4_asset_type_allocation.png)
 
 *Source: Author's Computation, 2026*
 
@@ -1030,14 +1030,14 @@ In Figure 4.5, 100 representative Monte Carlo wealth paths are plotted, and in F
 <a id="figure-**figure 45: comparative monte carlo path simulations (60-month horizon)**"></a>
 **Figure 4.5: Comparative Monte Carlo Path Simulations (60-Month Horizon)**
 
-![Figure 4.5: Comparative Monte Carlo Path Simulations](../outputs/charts/figure_4_5_monte_carlo_paths.png)
+![Figure 4.5: Comparative Monte Carlo Path Simulations](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_4_5_monte_carlo_paths.png)
 
 *Source: Author's Computation, 2026*
 
 <a id="figure-**figure 46: simulated sharpe ratio distributions (10,000 paths)**"></a>
 **Figure 4.6: Simulated Sharpe Ratio Distributions (10,000 Paths)**
 
-![Figure 4.6: Simulated Sharpe Ratio Distributions](../outputs/charts/figure_4_6_sharpe_distribution.png)
+![Figure 4.6: Simulated Sharpe Ratio Distributions](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/figure_4_6_sharpe_distribution.png)
 
 *Source: Author's Computation, 2026*
 
@@ -1697,7 +1697,7 @@ The return volatilities, submarket correlation structures, and covariance terms 
 
 Figure B.1 provides a high-resolution, annotated sub-matrix heatmap displaying the exact pairwise annual covariance values ($\times 10^{-4}$) among the 15 primary holdings selected across Portfolio A (Heuristic) and Portfolio B (MVO).
 
-![Figure B.1: Pairwise Property Covariance Sub-Matrix](../outputs/charts/appendix_b_covariance_heatmap.png)
+![Figure B.1: Pairwise Property Covariance Sub-Matrix](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/appendix_b_covariance_heatmap.png)
 
 <a id="figure-**figure b1: pairwise property covariance sub-matrix ($\times 10^{-4}$)**"></a>
 **Figure B.1: Pairwise Property Covariance Sub-Matrix ($\times 10^{-4}$)**  
@@ -1793,7 +1793,7 @@ This appendix presents the complete specification catalog and visual distributio
 
 Figure C.1 plots the expected annual return ($\mu_i$) against annual volatility ($\sigma_i$) across all 80 properties, color-coded by asset class type.
 
-![Figure C.1: Risk-Return Profile Across 80 Frozen Synthetic Properties](../outputs/charts/appendix_c_risk_return_scatter.png)
+![Figure C.1: Risk-Return Profile Across 80 Frozen Synthetic Properties](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/appendix_c_risk_return_scatter.png)
 
 <a id="figure-**figure c1: risk-return profile across 80 frozen synthetic properties**"></a>
 **Figure C.1: Risk-Return Profile Across 80 Frozen Synthetic Properties**  
@@ -1807,7 +1807,7 @@ Figure C.1 plots the expected annual return ($\mu_i$) against annual volatility 
 
 Figure C.2 details the property count distribution across submarket location states and asset classes.
 
-![Figure C.2: Property Count Distribution by Submarket Location State](../outputs/charts/appendix_c_submarket_distribution.png)
+![Figure C.2: Property Count Distribution by Submarket Location State](https://github.com/islajr/pfa-portfolio-research/raw/master/outputs/charts/appendix_c_submarket_distribution.png)
 
 <a id="figure-**figure c2: property count distribution by submarket location state**"></a>
 **Figure C.2: Property Count Distribution by Submarket Location State**  
