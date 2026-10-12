@@ -83,3 +83,9 @@ Table B.3 categorizes the pairwise return covariances across portfolio holding t
 | **Lagos vs. Kano (Northern)** | `PROP_01` & `PROP_13` (Retail)<br>`PROP_05` & `PROP_26` (Warehouse)| 13.8 – 15.1 | 0.0800 | Near-zero correlation; provides maximum spatial diversification. |
 
 *Source: Author's Computation & Secondary Market Data Reports, 2026*
+
+---
+
+> **Repository Note:** The complete mathematical data sets, full 80×80 property covariance matrix $\boldsymbol{\Sigma} \in \mathbb{R}^{80 \times 80}$, master 80-property universe catalog, raw field survey results, and computational scripts in Python are permanently archived and publicly accessible at the GitHub repository of this dissertation. The computation results of this research can be fully reproduced by anyone.
+>
+> **GitHub Repository:** [https://github.com/islajr/pfa-portfolio-research](https://github.com/islajr/pfa-portfolio-research)
