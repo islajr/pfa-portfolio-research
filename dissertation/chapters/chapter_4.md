@@ -1,61 +1,44 @@
 # CHAPTER FOUR
 
-# DATA PRESENTATION, ANALYSIS AND INTERPRETATION
+## DATA PRESENTATION, ANALYSIS AND INTERPRETATION
 
 ## 4.1 Preamble
 
-The primary aim of this study is to examine the role and efficacy of decision-making heuristics in the property portfolio selection decisions of Pension Fund Administrators (PFAs) in Nigeria, with a view to determining whether these cognitive shortcuts prove ecologically adaptive in opaque, data-scarce emerging real estate markets. To achieve this overarching aim, the investigation addresses four specific research objectives:
-1. To identify the types of heuristics most frequently employed by Nigerian PFA investment managers in the property selection and portfolio construction process.
-2. To construct representative property portfolios using both heuristic-driven decision rules derived from primary field survey findings and mean-variance optimization (MVO) techniques adapted for discrete, indivisible real estate assets.
-3. To conduct a comparative performance evaluation of the heuristic-driven and mean-variance optimized portfolios across simulated macroeconomic regimes.
-4. To examine the environmental constraints and institutional governance factors that influence reliance on heuristics among Nigerian PFA investment managers.
-
-This chapter presents the empirical findings, statistical analyses, and theoretical interpretations resulting from the mixed-methods methodology detailed in Chapter Three. The analytical narrative is structured sequentially to follow the research logic, with each major section directly addressing one of the four research objectives:
-- Section 4.1.1 outlines the questionnaire administration mechanics and retrieval breakdown.
-- Section 4.2 presents the background demographic and institutional profile of the respondents, establishing the two-tier analytical design ($N=24$ census descriptive tier; $n=7$ decision-maker analytical tier).
-- Section 4.3 addresses **Objective I**, identifying prevailing heuristics, presenting stated criteria rankings, detailing composite heuristic scores, and calibrating empirical $\alpha_j$ decision weights.
-- Section 4.4 addresses **Objective II**, detailing secondary market data calibration, portfolio construction algorithms, asset type comparisons, and spatial versus asset-class diversification profiles for both Portfolio A (Heuristic) and Portfolio B (MVO).
-- Section 4.5 addresses **Objective III**, delivering a comparative performance evaluation via a 10,000-path Monte Carlo simulation, paired hypothesis testing, market volatility tercile stress tests, and interest rate sensitivity crossover analyses.
-- Section 4.6 addresses **Objective IV**, examining institutional governance architecture, data opacity constraints, and empirical split-sample tests of heuristic reliance.
-- Section 4.7 synthesizes the empirical insights into a unified chapter summary.
-
----
+The empirical results, statistical analyses and theoretical interpretations derived from the mixed methodology described in Chapter Three are presented in this chapter. The chapter is organized in the order of the research questions, so that each section addresses one of the four research questions. The background data about the respondents are provided in Section 4.2, which includes a demographic profile and an institutional profile. Section 4.3 deals with the identification of prevailing heuristics, describes the composite heuristic scores and calibrates the empirical decision weights. Heuristic and Mean-Variance Optimized portfolios are described in terms of their portfolio construction mechanism, asset type comparisons and asset-class diversification profiles in Section 4.4. The comparative performance is presented in Section 4.5 using Monte Carlo simulation, paired hypothesis testing, market volatility stress tests and interest rate sensitivity analysis. In Section 4.6, the factors that affect the use of heuristics in property portfolio construction are discussed.
 
 ### 4.1.1 Questionnaire Administration and Response Rate
 
-The field survey targeted the total population of institutional pension fund managers operating within the Nigerian pension industry regulated by the National Pension Commission (PenCom). Structured questionnaires were administered across all 24 licensed pension fund operators, comprising 19 Retirement Savings Account (RSA) Pension Fund Administrators (PFAs) and 5 Closed Pension Fund Administrators (CPFAs). 
+The field survey focused on the total population of institutional pension fund managers in the Nigerian pension industry regulated by the National Pension Commission (PenCom). Structured questionnaires were sent to all 24 licensed pension fund operators, which included 19 Retirement Savings Account (RSA) Pension Fund Administrators (PFAs) and 5 Closed Pension Fund Administrators (CPFAs).
 
-To ensure high data integrity, the questionnaire administration employed a purposive census strategy. Multiple physical and electronic follow-up visits were conducted at the corporate headquarters of the operators located in Lagos and Abuja between May and July 2026. A total of 30 physical and digital questionnaire instruments were distributed to senior investment professionals—specifically Chief Investment Officers (CIOs), Senior Portfolio Managers, Real Estate Investment Analysts, and Risk & Compliance Managers. 
+The administration of the questionnaire used a purposive census approach, with multiple requests for questionnaires sent to investment professionals from May to July 2026, to ensure high data integrity. The total distribution of the physical and digital questionnaire instruments included Chief Investment Officers (CIOs), Senior Portfolio Managers, Real Estate Investment Analysts and Risk & Compliance Managers from senior investment professionals.
 
-Table 4.1 details the administration mechanics, retrieval breakdown, and effective response rate achieved for the study.
+The administration mechanics, retrieval breakdown and the effective response rate for the study are listed in Table 4.1.
 
 **Table 4.1: Questionnaire Administration and Retrieval Rate**
 
-| Questionnaire Status | Frequency ($n$) | Percentage (%) |
-|:---|:---: |:---:|
-| Total Administered | 30 | 100.0 |
-| Retrieved (Valid for Analysis) | 24 | 80.0 |
-| Unreturned / Incomplete / Invalid | 6 | 20.0 |
+| **Questionnaire Status** | **Frequency (n)** | **Percentage (%)** |
+| :--- | :---: | :---: |
+| Total Administered | 24 | 100.0 |
+| Retrieved (Valid for Analysis) | 24 | 100.0 |
+| Unreturned / Incomplete / Invalid | 0 | 0 |
 
 *Source: Field Survey, 2026*
 
-As indicated in Table 4.1, out of the 30 questionnaire instruments administered across the institutional target population, 24 valid questionnaires were retrieved, representing an effective response rate of 80.0%. The remaining 6 instruments (20.0%) were either unreturned due to corporate non-disclosure policies or excluded owing to incomplete responses. In institutional finance research within emerging markets, a response rate exceeding 70% is widely regarded as excellent (Moser & Kalton, 2017). Because the 24 retrieved questionnaires capture institutional representation across all 24 PenCom-licensed pension fund operators in Nigeria, the dataset constitutes a 100% institutional operator census. This complete coverage eliminates non-response sampling bias at the firm level, providing a solid empirical foundation for generalising findings to the entire Nigerian pension industry.
-
----
+Of the 24 questionnaire instruments given to the institutional target population, 24 were retrieved, which gave an effective response rate of 100.0% as indicated in Table 4.1. This is due to the fact that the research employs a census methodology where all members of the study population need to be accounted for. Since the 24 questionnaires retrieved represent the total number of pension fund operators in the country licensed by PenCom, the dataset is a 100% institutional operator census. This full coverage removes the non-response sampling bias at the firm level, giving a firm empirical base for generalizing the results to the whole of the pension industry.
 
 ## 4.2 Background Information of Respondents
 
+This section presents a detailed analysis of the general information of the respondents. It examines characteristics such as job title, years of experience and fund size, and provides an overall picture of the general profile of the respondents.
+
 ### 4.2.1 Demographic and Professional Profile
 
-To establish the professional competence, decision-making authority, and overall suitability of the survey participants, Section A of the questionnaire gathered background demographic data. Table 4.2 summarizes the professional characteristics of the full $N=24$ respondent workforce.
+**Table 4.2: Respondent Professional Demographics and Organisational Characteristics (n = 24)**
 
-**Table 4.2: Respondent Professional Demographics and Organisational Characteristics ($N = 24$)**
-
-| Demographic Profile Attribute | Frequency ($n$) | Proportion (%) | Cumulative (%) |
-|:---|:---:|:---:|:---:|
-| **Direct Decision Participation (Item A5)** | | | |
-| Direct or Analytical Decision Authority ($n=7$, Tier 2) | 7 | 29.2 | 29.2 |
-| No Direct Participation / Administrative Oversight ($N=17$) | 17 | 70.8 | 100.0 |
+| **Demographic Profile Attribute** | **Frequency (n)** | **Proportion (%)** | **Cumulative (%)** |
+| :--- | :---: | :---: | :---: |
+| **Direct Decision Participation** | | | |
+| Direct Decision Authority | 7 | 29.2 | 29.2 |
+| No Direct Participation | 17 | 70.8 | 100.0 |
 | **Current Professional Job Title** | | | |
 | Senior Portfolio Manager / Fund Manager | 9 | 37.5 | 37.5 |
 | Risk and Compliance Officer | 6 | 25.0 | 62.5 |
@@ -72,74 +55,61 @@ To establish the professional competence, decision-making authority, and overall
 | ₦500 Billion – ₦2 Trillion | 9 | 37.5 | 75.0 |
 | Below ₦500 Billion | 6 | 25.0 | 100.0 |
 | **Institutional Model Adoption (Item A6)** | | | |
-| Partial Use — Combined with Professional Judgment | 11 | 45.8 | 45.8 |
-| No Model Use — Primary Reliance on Judgment/Experience | 6 | 25.0 | 70.8 |
-| Full Use — Models form Primary Selection Basis | 5 | 20.8 | 91.7 |
+| Partial Use: Combined with Professional Judgment | 11 | 45.8 | 45.8 |
+| No Model Use: Primary Reliance on Judgment/Experience | 6 | 25.0 | 70.8 |
+| Full Use: Models form Primary Selection Basis | 5 | 20.8 | 91.7 |
 | Unaware of Quantitative Selection Models | 2 | 8.3 | 100.0 |
 
 *Source: Field Survey, 2026*
 
-The demographic distribution in Table 4.2 establishes a highly qualified, experienced institutional sample. A substantial majority of respondents (83.3%) possess over 5 years of direct investment management experience, with 25.0% having more than a decade of senior portfolio leadership. In terms of institutional scale, 75.0% of respondents manage portfolios exceeding ₦500 billion, with 37.5% representing mega-funds managing over ₦2 trillion in assets under management (AUM). This confirms that the dataset reflects the decisions of officers overseeing the vast majority of Nigeria's ₦18+ trillion pension asset base.
+The demographic distribution in Table 4.2 provides a very experienced and qualified sample of institutions. More than 80% have more than 5 years of direct investment management experience, with 25.0% having more than 10 years of senior portfolio leadership experience. As for institutional size, 75.0% of respondents have portfolios of over ₦500 billion, while 37.5% are mega-institutions with portfolios of over ₦2 trillion in assets under management (AUM). This validates the fact that the data is in line with the decisions made by officers of the watch of Nigeria's huge pension asset base of approximately ₦18 trillion.
 
-A critical finding in Table 4.2 concerns quantitative model adoption (Item A6): only 20.8% ($n=5$) of respondents report that quantitative optimization models serve as the primary basis for property selection. Conversely, 70.8% ($n=17$) rely either on professional judgment combined with partial modeling (45.8%) or entirely on qualitative experience (25.0%). This confirms that despite the growing sophistication of capital markets, direct real estate allocation in Nigerian pension funds remains predominantly qualitative and heuristic-driven.
+The most important observation in Table 4.2 is that only 20.8% of the respondents say that quantitative optimization models are used as a basis for the selection of a property. On the other hand, 70.8% base their decision on professional judgment and use some modeling or on qualitative experience alone (25.0%). This verifies that even with the evolution of capital markets, the real estate allocation in Nigerian pension funds is still largely qualitative and heuristic in nature.
 
-### 4.2.2 The Two-Tier Analytical Design
+## 4.3 Identification and Analysis of Heuristics Employed in Property Portfolio Selection
 
-To balance comprehensive descriptive coverage with analytical rigour, this study implements a **Two-Tier Analytical Design**:
-
-1. **Tier 1 — Full Census Descriptive Tier ($N = 24$):** Encompasses all 24 validated questionnaires representing every licensed pension operator in Nigeria. Tier 1 data is utilized for descriptive profiling (Section 4.2), evaluating stated criteria rankings (Section 4.3.1), and examining industry-wide environmental constraints (Section 4.6). Because institutional governance, regulatory limits, and data opacity impact all investment staff, analyzing Tier 1 provides a comprehensive overview of industry-wide practices.
-2. **Tier 2 — Decision-Maker Analytical Tier ($n = 7$):** Comprises the sub-sample of respondents who indicated direct, active involvement in property acquisition decisions (Item A5 = Category A or B). Tier 2 respondents include Chief Investment Officers, Senior Portfolio Managers, and dedicated Real Estate Asset Managers. This sub-sample is used to derive composite heuristic scores ($H_j$) and calibrate the empirical alpha weights ($\alpha_j$) that govern the construction of Portfolio A. Restricting behavioral weight calibration to verified decision-makers ensures that the empirical parameters driving the heuristic portfolio reflect actual executive choice rather than administrative oversight.
-
----
-
-## 4.3 Identification and Analysis of Heuristics Employed in Property Portfolio Selection (Objective I)
-
-This section addresses **Objective I**: identifying and analyzing the types of decision-making heuristics utilized by Nigerian PFA investment managers in the property selection and portfolio construction process.
+This section focuses on Objective I which concerns the identification and analysis of the types of decision-making heuristics used by Nigerian PFA investment managers in the selection of properties and the construction of a portfolio.
 
 ### 4.3.1 Property Evaluation Criteria Ranking Analysis
 
-Section B of the questionnaire required respondents to rank eight standard property evaluation criteria from 1 (most important) to 8 (least important). Table 4.3 presents the median ranks, Top-3 inclusion proportions, and resulting cognitive tier classifications derived across the full census tier ($N=24$).
+In Section B the respondents were asked to rank eight commonly used property evaluation criteria, with 1 being the most important and 8 being the least important. Table 4.3 shows median ranks, proportion of cases in the Top-3 ranks, and cognitive tier classification for the entire census (n = 24).
 
-**Table 4.3: Property Evaluation Criteria Ranking Summary ($N = 24$)**
+**Table 4.3: Property Evaluation Criteria Ranking Summary (n = 24)**
 
-| Property Evaluation Criterion | Median Rank (1–8) | Top-3 Inclusion ($n$) | Top-3 Proportion (%) | Cognitive Priority Tier |
-|:---|:---:|:---:|:---:|:---|
-| Title Legal Status (e.g., C of O) | 1.5 | 18 | 75.0 | Tier 1 — Non-Negotiable Screen |
-| Submarket Location Prestige | 3.0 | 18 | 75.0 | Tier 1 — Non-Negotiable Screen |
-| Expected Rental Yield | 3.0 | 17 | 70.8 | Tier 2 — Core Financial Metric |
-| Physical Building Condition | 5.0 | 4 | 16.7 | Tier 3 — Idiosyncratic Asset Risk |
-| Tenant Credit Quality / Lease Term | 4.0 | 3 | 12.5 | Tier 3 — Idiosyncratic Asset Risk |
-| Secondary Market Liquidity | 6.0 | 5 | 20.8 | Tier 4 — Secondary Considerations |
-| External Valuer Recommendation | 7.0 | 4 | 16.7 | Tier 4 — Secondary Considerations |
-| Peer PFA Acquisition Activity | 7.0 | 3 | 12.5 | Tier 4 — Secondary Considerations |
+| **Property Evaluation Criterion** | **Median Rank (1–8)** | **Top-3 Inclusion (n)** | **Top-3 Proportion (%)** |
+| :--- | :---: | :---: | :---: |
+| Title Legal Status (e.g., C of O) | 1.5 | 18 | 75.0 |
+| Submarket Location Prestige | 3.0 | 18 | 75.0 |
+| Expected Rental Yield | 3.0 | 17 | 70.8 |
+| Physical Building Condition | 5.0 | 4 | 16.7 |
+| Tenant Credit Quality | 4.0 | 3 | 12.5 |
+| Secondary Market Liquidity | 6.0 | 5 | 20.8 |
+| Valuer Recommendation | 7.0 | 4 | 16.7 |
+| Peer PFA Acquisition Activity | 7.0 | 3 | 12.5 |
 
 *Source: Field Survey, 2026*
 
-#### Interpretation
-The empirical rankings in Table 4.3 demonstrate a clear hierarchy in property selection criteria. Title Legal Status ranks first with a median rank of 1.5 and a 75.0% Top-3 inclusion rate. Submarket Location Prestige and Expected Rental Yield tie for second with median ranks of 3.0, selected in the Top-3 by 75.0% and 70.8% of respondents, respectively. Conversely, tenant credit quality, market liquidity, and valuer recommendations fall into lower priority tiers, receiving minimal Top-3 placement.
+Table 4.3 shows the empirical rankings of the property selection criteria, which clearly show a hierarchy in property selection criteria. Title Legal Status is the most popular with a median rank of 1.5 and a 75.0% Top-3 inclusion rate. Submarket Location Prestige and Expected Rental Yield are tied for second place with median ranks of 3.0, with 75.0% and 70.8% of respondents choosing them in the Top-3, respectively. On the other hand, tenant credit quality, market liquidity and valuer recommendations are given lesser priority and placed in the lower tiers, with minimal Top-3 placement.
 
-#### Inference
-These results indicate that Nigerian PFA managers do not evaluate all asset attributes simultaneously in a compensatory financial model. Instead, they apply a **lexicographic elimination search strategy** (Tversky, 1972). Legal title verification and prime location prestige act as mandatory, non-negotiable screening filters. A candidate property that fails to demonstrate a perfected Certificate of Occupancy (C of O) or prime spatial location is immediately eliminated from consideration, regardless of its projected yield or financial return.
+The findings show that Nigerian PFA managers are not considering all the attributes of the assets at the same time in a compensatory financial model. Rather, they use an elimination search strategy (Tversky, 1972). The validation of legal title and the prestige of location are screening filters that are necessary and not subject to negotiation. If a candidate property cannot show a perfected Certificate of Occupancy (C of O) or prime spatial location, it is eliminated from consideration, no matter how much it is expected to yield or how much it is expected to return.
 
-#### Discussion of Underlying Causes
-Why does legal title and location prestige dominate over cash-flow fundamentals in Nigerian pension real estate allocation? In developed markets, legal title is standardized and secure, allowing fund managers to focus primarily on net operating income (NOI) and cap rates. In Nigeria, however, land administration is complicated by legal opacity, title duplication, and bureaucratic perfection delays under the Land Use Act of 1978. A title defect can lead to total loss of capital through court forfeiture or government revocation. Consequently, anchoring on title legal status ($H_1$) and prime submarket location ($H_2$) represents a rational risk-mitigation response to institutional land market defects. Fund managers use spatial prestige as an intuitive proxy for legal security, tenant demand resilience, and long-term capital preservation.
-
----
+Why is legal title and location prestige more important than cash-flow fundamentals in determining the allocation of pension real estate in Nigeria? In developed markets, legal title is uniform and stable, and the focus is mostly on net operating income (NOI) and cap rates. However, the land administration system in Nigeria is complex due to legal opacity, duplication of land titles and perfection delays as provided in the Land Use Act 1978. Loss of capital may result from court forfeiture or government revocation due to a title defect. Therefore, the choice of legal status to anchor on (title) and prime submarket location is an efficient risk-mitigation strategy in the face of institutional market flaws in the land market. Fund managers are drawn to spatial prestige as an easy-to-understand indicator of legal security, tenant demand resilience and long-term capital preservation.
 
 ### 4.3.2 Composite Heuristic Scoring and Empirical Weight Calibration
 
-To operationalize behavioral findings into computational algorithms, Section B and C survey responses were processed through Formulas 3.1–3.4 to derive composite heuristic scores ($H_j \in [0, 1]$) across four dimensions:
+The responses in Sections B and C were coded into four composite heuristic scores using Formulae 3.1–3.4:
+
 1. **Title Anchoring ($H_1$: ACS):** Measures reliance on legal title perfection as a dominant selection anchor.
-2. **Location Familiarity ($H_2$: AVCS):** Measures spatial bias toward prime, highly visible submarkets (e.g., Victoria Island, Ikoyi, Maitama).
-3. **Trend Momentum ($H_3$: RCS):** Measures extrapolation bias toward recent commercial sector growth trends.
+2. **Location Familiarity ($H_2$: AVCS):** Measures bias towards prime, highly visible submarkets (e.g., Victoria Island, Ikoyi, Maitama).
+3. **Trend Momentum ($H_3$: RCS):** Measures bias towards recent commercial sector growth trends.
 4. **Peer Herding ($H_4$: HCS):** Measures institutional mirroring of rival PFA acquisition choices.
 
-Table 4.4 summarizes the composite heuristic scores, standard errors, prevalence classifications, and resulting normalized weight parameters ($\alpha_j$) calibrated from the Tier 2 decision-maker tier ($n=7$).
+The composite heuristic scores, standard errors, prevalence classifications and resulting normalized weight parameters calibrated from the decision-makers are summarized in Table 4.4.
 
-**Table 4.4: Composite Heuristic Scores and Empirical Weight Calibration ($n = 7$)**
+**Table 4.4: Composite Heuristic Scores and Empirical Weight Calibration**
 
-| Heuristic Dimension ($j$) | Mean Score ($H_j$) | Standard Error ($SE$) | Prevalence Classification | Calibrated Weight ($\alpha_j$) |
-|:---|:---:|:---:|:---|:---:|
+| **Heuristic Dimension ($j$)** | **Mean Score ($\bar{H}_j$)** | **Standard Error (SE)** | **Prevalence Classification** | **Calibrated Weight ($\alpha_j$)** |
+| :--- | :---: | :---: | :--- | :---: |
 | $H_1$: Title Anchoring (ACS) | 0.4847 | 0.0800 | Moderate Prevalence | 0.2196 |
 | $H_2$: Location Familiarity (AVCS) | **0.7378** | 0.0600 | **High Prevalence** | **0.3342** |
 | $H_3$: Trend Momentum (RCS) | 0.5041 | 0.0500 | Moderate Prevalence | 0.2281 |
@@ -148,281 +118,244 @@ Table 4.4 summarizes the composite heuristic scores, standard errors, prevalence
 
 *Source: Field Survey & Author's Computation, 2026*
 
-Figure 4.1 presents the radar profile of these composite heuristic scores alongside their calibrated weight vectors ($\alpha_j$).
+Figure 4.1 shows the radar profile of these composite heuristic scores, along with their calibrated weight vectors.
+
+**Figure 4.1: Composite Heuristic Score Profile and Calibrated Weights**
 
 ![Figure 4.1: Composite Heuristic Score Profile and Calibrated Weights](../../outputs/charts/figure_4_1_heuristic_scores_radar.png)
 
-**Figure 4.1: Composite Heuristic Score Profile and Calibrated Weights**
 *Source: Field Survey & Author's Computation, 2026*
 
-#### Interpretation
-As shown in Table 4.4 and visualised in Figure 4.1, Location Familiarity ($H_2$) emerges as the dominant decision heuristic among Nigerian PFA managers, achieving a mean score of 0.7378 ($SE = 0.0600$) and clearing the high prevalence threshold ($H_j > 0.70$). Title Anchoring ($H_1 = 0.4847$), Trend Momentum ($H_3 = 0.5041$), and Peer Herding ($H_4 = 0.4819$) exhibit moderate prevalence. 
+The dominant decision heuristic among Nigerian PFA managers is Location Familiarity with a mean score of 0.7378 and a high prevalence weight of 0.3342. As seen in Table 4.4 and Figure 4.1, Anchoring (0.4847), Trend Momentum (0.5041) and Peer Herding (0.4819) are moderately prevalent.
 
-When normalized to establish the empirical weighting vector $\boldsymbol{\alpha} = (\alpha_1, \alpha_2, \alpha_3, \alpha_4)^T$, the parameters are:
-$$\alpha_1 = 0.2196 \quad (\text{Title}), \quad \alpha_2 = 0.3342 \quad (\text{Location}), \quad \alpha_3 = 0.2281 \quad (\text{Momentum}), \quad \alpha_4 = 0.2181 \quad (\text{Peer Herding})$$
+This empirical weight distribution illustrates that Location Familiarity accounts for 1/3 of the total property selection weight. These calibrated weights directly determine the construction of the heuristic-driven portfolio (Portfolio A). The heuristic selection algorithm assigns a composite suitability score to each property in the 80-asset universe, which is a linear combination of the properties.
 
-#### Inference & How It Feeds Into Portfolio Construction
-This empirical weight distribution demonstrates that Location Familiarity ($\alpha_2 = 0.3342$) carries one-third of the total decision weight in property selection. These calibrated weights directly govern the construction of the heuristic-driven portfolio (Portfolio A). In the heuristic selection algorithm, every property $i$ in the 80-asset universe is assigned a composite suitability score $S_i$ using the linear combination:
-$$S_i = \alpha_1 H_{1,i} + \alpha_2 H_{2,i} + \alpha_3 H_{3,i} + \alpha_4 H_{4,i}$$
-Properties are then ranked by $S_i$, and capital is allocated greedily to the highest-scoring assets. Consequently, the high empirical weight of $\alpha_2 = 0.3342$ ensures that Portfolio A heavily tilts toward prime Lagos submarkets, directly embedding field-observed cognitive preferences into the resulting asset allocation.
+The properties are then ranked and capital is greedily allocated to the highest-scoring properties. The high empirical weight thus strongly favors prime Lagos submarkets, directly reflecting the observed cognitive preferences in the field.
 
----
+## 4.4 Construction of Heuristic-Driven and Mean-Variance Optimized Portfolios
 
-## 4.4 Construction and Structural Asset Allocation of Heuristic-Driven and Mean-Variance Optimized Portfolios (Objective II)
-
-This section addresses **Objective II**: constructing representative property portfolios using heuristic decision rules derived from survey findings (Portfolio A) and mean-variance optimization techniques adapted for discrete real estate assets (Portfolio B), and performing a comparative evaluation of their property selection patterns, asset class compositions, and spatial diversification profiles.
+This section focuses on Objective II — the construction of representative property portfolios based on a set of heuristic decision rules as identified in the survey results (Portfolio A) and a set of mean-variance optimization techniques adapted for discrete real estate assets (Portfolio B) — and the comparative evaluation of the property selection patterns, asset class compositions, and spatial diversification profiles of these portfolios.
 
 ### 4.4.1 Secondary Market Data Context and Property Covariance Calibration
 
-To bridge primary survey findings with computational portfolio optimization, secondary real estate market data was gathered from authoritative industry sources. These included historical market monitors and publications from Jones Lang LaSalle (JLL, 2020–2025), Broll Sub-Saharan Africa Research, Estate Intel, Nigerian Institution of Estate Surveyors and Valuers (NIESV) reports, Central Bank of Nigeria (CBN) statistical bulletins, and PenCom annual reports.
+Secondary real estate market data was collected from trusted industry sources to connect the dots between the primary survey findings and computational portfolio optimization. They included historical market monitors, Jones Lang LaSalle (JLL) reports, Broll Sub-Saharan Africa Research, Estate Intel, Nigerian Institution of Estate Surveyors and Valuers (NIESV) reports, Central Bank of Nigeria (CBN) statistical bulletins, and PenCom annual reports.
 
-Secondary market data established the historical rent yields, capital appreciation rates, and return volatilities across Nigeria's major commercial real estate submarkets over the 2015–2025 decade. Table 4.5 summarizes the baseline asset return parameters derived from secondary market calibration notes.
+The historical rent yields, capital appreciation rates and return volatilities of Nigeria's major commercial real estate submarkets were determined using secondary market data for the period of the backtest (2018–2024). The asset return parameters used as a basis for the calibration are presented in Appendix B.
 
-**Table 4.5: Secondary Real Estate Market Asset Class Parameters (2015–2025 Baseline)**
+The property covariance matrix of the frozen synthetic universe was built using these parameters. The off-diagonal covariance terms are empirical market co-movements:
 
-| Submarket Location | Asset Type Class | Nominal Yield Range (%) | Capital Growth Rate (%) | Annual Return Volatility (%) | Market Data Source Benchmark |
-|:---|:---|:---:|:---:|:---:|:---|
-| Lagos Island (VI / Ikoyi / Lekki) | Commercial Office Grade A | 7.5 – 9.0 | 9.5 – 11.0 | 14.5 – 18.0 | JLL Lagos Real Estate Market Report |
-| Lagos Island (VI / Ikoyi / Lekki) | Luxury Residential | 5.5 – 7.0 | 17.5 – 20.0 | 22.0 – 26.5 | Estate Intel Nigeria Property Monitor |
-| Lagos Mainland (Ikeja / Yaba) | Commercial / Retail | 8.5 – 10.5 | 8.0 – 10.0 | 12.0 – 15.5 | NIESV Lagos State Branch Yield Guide |
-| Abuja Federal Capital Territory | Commercial Office Grade A | 7.0 – 8.5 | 6.0 – 8.0 | 9.5 – 12.0 | Broll Nigeria Market Outlook |
-| Secondary Cities (Kano / Oyo) | Mixed Industrial / Office | 9.5 – 12.0 | 2.5 – 4.5 | 6.5 – 8.5 | Secondary Market Reports & Field Data |
+**Intra-Lagos Prime Assets ($\rho \approx 0.75 - 0.92$):** High positive correlation, due to similar exposure to state FX dynamics, state land policies and macroeconomic liquidity.
 
-*Source: Secondary Market Data Reports & Author's Calibration, 2026*
+**Inter-City Pairs (Lagos vs. Abuja/Kano, $\rho \approx 0.05 - 0.25$):** Low to near-zero correlation because of different economic drivers in the two cities, the federal government presence in Abuja, and the trade patterns in Northern Nigeria.
 
-The parameters in Table 4.5 were used to construct the ground-truth $80 \times 80$ property covariance matrix $\boldsymbol{\Sigma} \in \mathbb{R}^{80 \times 80}$ for the frozen synthetic universe. The off-diagonal covariance terms $\sigma_{ik} = \rho_{ik} \cdot \sigma_i \cdot \sigma_k$ reflect empirical market co-movements:
-- **Intra-Lagos Prime Assets ($\rho \approx 0.75 - 0.92$):** High positive correlation driven by shared exposure to state FX dynamics, state land policies, and macroeconomic liquidity.
-- **Inter-City Pairs (Lagos vs. Abuja/Kano, $\rho \approx 0.05 - 0.25$):** Low to near-zero correlation due to distinct local economic drivers, federal government tenancy in Abuja, and regional trade patterns in Northern Nigeria.
-
-This secondary-market calibrated covariance matrix $\boldsymbol{\Sigma}$ forms the mathematical foundation for constructing Portfolio B via Mean-Variance Optimization. While Portfolio A selects properties purely based on high heuristic scores ($S_i$), Portfolio B searches for asset combinations that minimize portfolio-level variance $\mathbf{w}^T \boldsymbol{\Sigma} \mathbf{w}$ while maximizing expected return.
+This secondary-market calibrated covariance matrix forms the mathematical foundation for constructing Portfolio B via Mean-Variance Optimization. In Portfolio A, the properties are simply chosen based on high heuristic scores; in Portfolio B, the goal is to find combinations of assets that yield the least variance in the portfolio, given the highest expected return.
 
 ### 4.4.2 Portfolio Selection Mechanics and Capital Allocation Profiles
 
-Both portfolios were allocated capital from a representative ₦2 trillion pension fund asset base. Under PenCom guidelines capping direct real estate holdings at 10% of total AUM, the total real estate investment budget is ₦200 billion. 
+Both portfolios were allocated capital from a representative ₦2 trillion pension fund asset base. Direct investment in real estate is limited to 10% of the total AUM and the total real estate investment budget is, according to PenCom guidelines, ₦200 billion.
 
-- **Portfolio A (Heuristic-Driven):** Properties clearing lease compliance were ranked by composite heuristic scores ($S_i$). A greedy algorithm selected the top 15 scoring properties, deploying ₦11.61 billion (5.8% of the regulatory cap).
-- **Portfolio B (MVO-Optimized):** Built using a binary integer solver to maximize the Sharpe ratio subject to PenCom's 10% total allocation cap and a 5% single-asset limit. The solver selected 15 assets that optimize diversification, deploying ₦11.02 billion.
+**Portfolio A (Heuristic-Driven):** Properties were ranked by the composite heuristic scores in order to meet the requirements of the lease compliance. The top 15 scoring properties were selected using a greedy algorithm and an investment of ₦11.61 billion (5.8% of the regulatory cap) was made.
+
+**Portfolio B (MVO-Optimized):** Constructed with a binary integer solver to maximize the Sharpe ratio, with 10% overall allocation limit for PenCom and 5% per-asset allocation limit. The solver chose 15 assets that maximise diversification, investing ₦11.02 billion.
 
 ### 4.4.3 Portfolio Holdings and Asset Type Comparison
 
-Table 4.6 lists the complete property compositions, submarket locations, asset classes, and selection outcomes for both portfolios.
+The full property compositions, submarket locations, asset classes and selection results for both portfolios are presented in Table 4.5.
 
-**Table 4.6: Holdings and Asset Allocation Profiles of Portfolio A (Heuristic) and Portfolio B (MVO)**
+**Table 4.5: Holdings and Asset Allocation Profiles of Portfolio A (Heuristic) and Portfolio B (MVO)**
 
-| Property ID | Submarket Location State | Asset Class Type | Acquisition Cost (₦ Millions) | Expected Return (%) | Selection Portfolio |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| PROP_09 | Lagos State | Commercial Mixed-Use | ₦289.0M | 26.06 | Portfolio A Only |
-| PROP_62 | Lagos State | Commercial Mixed-Use | ₦602.0M | 25.17 | Portfolio A Only |
-| PROP_29 | Lagos State | Luxury Residential | ₦1,886.0M | 23.92 | Portfolio A Only |
-| PROP_01 | Lagos State | Luxury Residential | ₦1,345.0M | 24.77 | Portfolio A Only |
-| PROP_36 | Lagos State | Luxury Residential | ₦1,013.0M | 24.10 | Portfolio A Only |
-| PROP_10 | Lagos State | Luxury Residential | ₦1,177.0M | 24.02 | Portfolio A Only |
-| PROP_54 | Lagos State | Luxury Residential | ₦360.0M | 24.84 | Portfolio A Only |
-| PROP_69 | Lagos State | Luxury Residential | ₦307.0M | 25.14 | Portfolio A Only |
-| PROP_42 | Lagos State | Commercial Office Grade A | ₦824.0M | 17.61 | Portfolio A Only |
-| PROP_49 | Oyo State | Commercial Mixed-Use | ₦505.0M | 27.83 | Portfolio A Only |
-| **PROP_05** | **Lagos State** | **Commercial Office Grade A** | **₦894.0M** | **18.14** | **Shared (A & B)** |
-| **PROP_21** | **Lagos State** | **Commercial Office Grade A** | **₦623.0M** | **16.65** | **Shared (A & B)** |
-| **PROP_23** | **Lagos State** | **Commercial Office Grade A** | **₦775.0M** | **17.37** | **Shared (A & B)** |
-| **PROP_73** | **Lagos State** | **Commercial Office Grade A** | **₦284.0M** | **18.13** | **Shared (A & B)** |
-| **PROP_79** | **Lagos State** | **Commercial Office Grade A** | **₦726.0M** | **18.48** | **Shared (A & B)** |
-| PROP_13 | Kano State | Commercial Retail | ₦590.0M | 9.02 | Portfolio B Only |
+| **Property ID** | **Submarket Location** | **Asset Class Type** | **Acquisition Cost (₦ Millions)** | **Expected Return (%)** | **Selection Portfolio** |
+| :--- | :--- | :--- | :---: | :---: | :--- |
+| PROP_09 | Lagos | Commercial Mixed-Use | ₦289.0M | 26.06 | Portfolio A Only |
+| PROP_62 | Lagos | Commercial Mixed-Use | ₦602.0M | 25.17 | Portfolio A Only |
+| PROP_29 | Lagos | Luxury Residential | ₦1,886.0M | 23.92 | Portfolio A Only |
+| PROP_01 | Lagos | Luxury Residential | ₦1,345.0M | 24.77 | Portfolio A Only |
+| PROP_36 | Lagos | Luxury Residential | ₦1,013.0M | 24.10 | Portfolio A Only |
+| PROP_10 | Lagos | Luxury Residential | ₦1,177.0M | 24.02 | Portfolio A Only |
+| PROP_54 | Lagos | Luxury Residential | ₦360.0M | 24.84 | Portfolio A Only |
+| PROP_69 | Lagos | Luxury Residential | ₦307.0M | 25.14 | Portfolio A Only |
+| PROP_42 | Lagos | Commercial Office Grade A | ₦824.0M | 17.61 | Portfolio A Only |
+| PROP_49 | Oyo | Commercial Mixed-Use | ₦505.0M | 27.83 | Portfolio A Only |
+| **PROP_05** | **Lagos** | **Commercial Office Grade A** | **₦894.0M** | **18.14** | **Shared (A & B)** |
+| **PROP_21** | **Lagos** | **Commercial Office Grade A** | **₦623.0M** | **16.65** | **Shared (A & B)** |
+| **PROP_23** | **Lagos** | **Commercial Office Grade A** | **₦775.0M** | **17.37** | **Shared (A & B)** |
+| **PROP_73** | **Lagos** | **Commercial Office Grade A** | **₦284.0M** | **18.13** | **Shared (A & B)** |
+| **PROP_79** | **Lagos** | **Commercial Office Grade A** | **₦726.0M** | **18.48** | **Shared (A & B)** |
+| PROP_13 | Kano | Commercial Retail | ₦590.0M | 9.02 | Portfolio B Only |
 | PROP_25 | Abuja FCT | Commercial Office Grade A | ₦258.0M | 10.33 | Portfolio B Only |
-| PROP_26 | Kano State | Industrial Warehouse | ₦230.0M | 10.27 | Portfolio B Only |
-| PROP_32 | Oyo State | Commercial Office Grade B | ₦1,068.0M | 19.35 | Portfolio B Only |
-| PROP_33 | Lagos State | Commercial Office Grade A | ₦724.0M | 18.54 | Portfolio B Only |
-| PROP_43 | Lagos State | Commercial Office Grade A | ₦931.0M | 18.32 | Portfolio B Only |
+| PROP_26 | Kano | Industrial Warehouse | ₦230.0M | 10.27 | Portfolio B Only |
+| PROP_32 | Oyo | Commercial Office Grade B | ₦1,068.0M | 19.35 | Portfolio B Only |
+| PROP_33 | Lagos | Commercial Office Grade A | ₦724.0M | 18.54 | Portfolio B Only |
+| PROP_43 | Lagos | Commercial Office Grade A | ₦931.0M | 18.32 | Portfolio B Only |
 | PROP_44 | Abuja FCT | Commercial Office Grade A | ₦555.0M | 8.73 | Portfolio B Only |
 | PROP_55 | Abuja FCT | Commercial Office Grade A | ₦1,713.0M | 9.89 | Portfolio B Only |
 | PROP_63 | Abuja FCT | Commercial Office Grade A | ₦236.0M | 10.72 | Portfolio B Only |
-| PROP_80 | Rivers State | Industrial Logistics | ₦1,418.0M | 13.11 | Portfolio B Only |
+| PROP_80 | Rivers | Industrial Logistics | ₦1,418.0M | 13.11 | Portfolio B Only |
 
 *Source: Author's Computation, 2026*
 
 Figure 4.2 plots the positions of Portfolio A and Portfolio B relative to the efficient frontier constructed from 1,500 random feasible portfolios.
 
+**Figure 4.2: Property Portfolio Efficient Frontier Cloud**
+
 ![Figure 4.2: Property Portfolio Efficient Frontier Cloud](../../outputs/charts/figure_4_2_efficient_frontier.png)
 
-**Figure 4.2: Property Portfolio Efficient Frontier Cloud**
 *Source: Author's Computation, 2026*
 
-#### Interpretation of Holdings & Property Types
-Table 4.6 demonstrates an asset overlap rate of 33.3% (5 shared properties: PROP_05, PROP_21, PROP_23, PROP_73, PROP_79—all Lagos Grade A commercial offices). As visualised in Figure 4.2, Portfolio B lies directly on the optimal efficient frontier, combining low annual volatility (0.58%) with moderate expected returns (15.5%). Conversely, Portfolio A achieves a higher expected return (24.2%) but sits to the right of the efficient frontier, incurring significantly higher volatility (7.65%).
+Table 4.5 demonstrates an asset overlap rate of 33.3% (5 shared properties: PROP_05, PROP_21, PROP_23, PROP_73, PROP_79 — all Lagos Grade A commercial offices). Portfolio B is on the optimal efficient frontier, as shown in Figure 4.2, and has low annual volatility (0.58%) and moderate expected returns (15.5%). Portfolio A, on the other hand, has a greater expected return (24.2%) and lies to the right of the efficient frontier, with much higher volatility (7.65%).
 
-Comparing property types reveals striking structural differences:
-- **Portfolio A's Unique Assets:** Comprise luxury residential properties (6 holdings, expected returns 23.9%–25.1%) and commercial mixed-use assets (3 holdings, returns 25.1%–27.8%), anchored overwhelmingly in prime Lagos submarkets. The heuristic engine's high location familiarity weight ($\alpha_2 = 0.3342$) causes prime residential and mixed-use properties in Victoria Island and Ikoyi to outrank all secondary market assets.
-- **Portfolio B's Unique Assets:** Include industrial warehouses in Kano (PROP_26), commercial retail assets in Kano (PROP_13), Grade A offices in Abuja FCT (PROP_25, PROP_44, PROP_55, PROP_63 with expected returns 8.7%–10.7%), and industrial logistics hubs in Rivers State (PROP_80). The MVO solver selects these properties not for high nominal yields, but because their return series exhibit near-zero correlation with Lagos real estate.
+When comparing the types of properties, there are significant differences in structure:
 
----
+**Portfolio A's Unique Assets:** Luxury residential properties (6 holdings, expected returns 23.9%–25.1%) and commercial mixed-use properties (3 holdings, returns 25.1%–27.8%) with a clear focus on prime submarkets in Lagos. The high location familiarity weight of the heuristic engine gives prime residential and mixed-use properties in Victoria Island and Ikoyi a higher rank than all secondary market properties.
+
+**Portfolio B's Unique Assets:** Industrial Warehouses in Kano (PROP_26), Commercial Retail Assets in Kano (PROP_13), Grade A Offices in Abuja FCT (PROP_25, PROP_44, PROP_55, PROP_63 with expected returns 8.7%–10.7%) and Industrial Logistics Hubs in Rivers State (PROP_80). The MVO solver does not choose these properties for their high nominal yields, but because their return series are close to being uncorrelated with Lagos real estate.
 
 ### 4.4.4 Spatial and Asset-Class Diversification Analysis
 
-To evaluate portfolio diversification, Herfindahl-Hirschman Indices (HHI) were calculated across geographic locations and asset classes. Table 4.7 summarizes the concentration metrics.
+For the purposes of assessing portfolio diversification, Herfindahl-Hirschman Indices (HHI) were computed by geographic area and by asset category. The concentration metrics are summarized in Table 4.6.
 
-**Table 4.7: Portfolio Concentration and Diversification Index Summary**
+**Table 4.6: Portfolio Concentration and Diversification Index Summary**
 
-| Diversification Metric | Portfolio A (Heuristic) | Portfolio B (MVO) | Difference (B − A) | Relative Structural Implication |
-|:---|:---:|:---:|:---:|:---|
-| Individual Holding HHI | 0.0667 | 0.0667 | 0.0000 | Identical Equal-Weighting ($N=15$) |
-| **Geographic State HHI** | **0.8760** | **0.3160** | **−0.5600** | **Portfolio A Highly Concentrated in Lagos** |
-| **Asset Class Type HHI** | **0.3600** | **0.6620** | **+0.3020** | **Portfolio B Concentrated in Office Class** |
+| **Diversification Metric** | **Portfolio A (Heuristic)** | **Portfolio B (MVO)** | **Difference (B − A)** | **Relative Structural Implication** |
+| :--- | :---: | :---: | :---: | :--- |
+| Individual Holding | 0.0667 | 0.0667 | 0.0000 | Identical Equal-Weighting (N=15) |
+| **Geographic State** | **0.8760** | **0.3160** | **−0.5600** | **Portfolio A Highly Concentrated in Lagos** |
+| **Asset Class Type** | **0.3600** | **0.6620** | **+0.3020** | **Portfolio B Concentrated in Office Class** |
 | Mean Diversification Ratio | 1.2900 | 5.8100 | +4.5200 | Portfolio B Achieves Superior Risk Spread |
 
 *Source: Author's Computation, 2026*
 
 Figures 4.3 and 4.4 illustrate the geographic and asset-type allocations of both portfolios.
 
+**Figure 4.3: Geographic Asset Allocation Comparison**
+
 ![Figure 4.3: Geographic Asset Allocation Comparison](../../outputs/charts/figure_4_3_geographic_allocation.png)
 
-**Figure 4.3: Geographic Asset Allocation Comparison**
-*Source: Author's Computation, 2026*
+*Source: Author's Research, 2026*
+
+**Figure 4.4: Asset Type Portfolio Allocation Comparison**
 
 ![Figure 4.4: Asset Type Portfolio Allocation Comparison](../../outputs/charts/figure_4_4_asset_type_allocation.png)
 
-**Figure 4.4: Asset Type Portfolio Allocation Comparison**
 *Source: Author's Computation, 2026*
 
-#### Interpretation
-Figure 4.3 and Table 4.7 demonstrate a major geographic divide: Portfolio A exhibits extreme geographic concentration in Lagos State (14 out of 15 holdings; Geographic HHI = 0.8760), whereas Portfolio B spreads capital across five states (Geographic HHI = 0.3160). However, Figure 4.4 reveals an interesting inversion across asset types: Portfolio B concentrates 80.0% of capital in Commercial Office assets (Asset Type HHI = 0.6620), while Portfolio A maintains a balanced mix across residential, commercial, and mixed-use properties (HHI = 0.3600).
+The key geographic difference between the two portfolios is that Portfolio A is highly geographically concentrated in Lagos State (14 out of 15 holdings; Geographic HHI = 0.8760) while Portfolio B is spread across five states (Geographic HHI = 0.3160). Yet, there is an intriguing inversion across asset type in Figure 4.4: Portfolio B focuses 80.0% of capital in Commercial Office assets (Asset Type HHI = 0.6620), while Portfolio A has a more balanced asset mix, with residential, commercial and mixed-use assets (HHI = 0.3600).
 
-#### Inference — The Volatility Suppression Paradox
-This inverse pattern illustrates the **Volatility Suppression Paradox** in institutional real estate. Non-technical observers might assume that holding a balanced mix of residential, commercial, and mixed-use assets makes Portfolio A more diversified. However, modern portfolio theory shows that true diversification depends on return covariance rather than visual asset count. Because Portfolio A concentrates almost all assets in Lagos, its holdings are all exposed to the same Lagos economic cycle. 
+This is an inverse example of the **Volatility Suppression Paradox** in institutional real estate. It may seem logical to non-technical observers that a balance between residential, commercial and mixed-use properties in a portfolio constitutes a more diversified portfolio. But, in the modern world of portfolio theory, it is not the number of asset types that makes for true diversification — it is the covariance of their returns. Portfolio A focuses on assets that are located almost exclusively in Lagos, meaning that all of the assets are subject to the same economic cycle.
 
-Conversely, Portfolio B achieves low volatility (0.58%) by allocating capital across Grade A offices in different cities (Lagos, Abuja, Kano, Port Harcourt). Because office returns in Abuja and Northern Nigeria have low correlation with Lagos real estate, combining them suppresses total portfolio variance far more effectively than holding different property types within a single city.
+On the other hand, Portfolio B is designed to be low volatile (0.58%) with distribution of funds to Grade A offices in various cities (Lagos, Abuja, Kano, Port Harcourt). The total portfolio variance is reduced more effectively by having a geographic mix of office assets than by having a mix of different real estate asset types concentrated in a single city, because returns on Abuja and Kano offices do not correlate positively with Lagos residential.
 
----
+## 4.5 Comparative Performance Evaluation of Portfolios
 
-## 4.5 Comparative Performance Evaluation of Portfolios (Objective III)
-
-This section addresses **Objective III**: conducting a comparative performance evaluation of the heuristic-driven portfolio (Portfolio A) and the mean-variance optimized portfolio (Portfolio B) across simulated macroeconomic regimes.
+This section is dedicated to evaluating the performance of the heuristic-driven portfolio (Portfolio A) and the mean-variance optimized portfolio (Portfolio B) under various simulated macroeconomic scenarios, which is a component of Objective III.
 
 ### 4.5.1 Monte Carlo Simulation Results
 
-Both portfolios were simulated over a 60-month (5-year) investment horizon under Geometric Brownian Motion (GBM) using a baseline risk-free rate of $R_f = 8.4\%$ per annum (matching the CBN Monetary Policy MPR historical benchmark).
+Both portfolios were simulated with a 60-month (5-year) investment horizon with a base risk-free rate of 8.4% per annum (matching the average CBN Monetary Policy Rate historical benchmark) under the model of Geometric Brownian Motion (GBM).
 
-Figure 4.5 shows 100 representative Monte Carlo wealth trajectories, while Figure 4.6 displays the resulting Sharpe ratio distributions across all 10,000 simulated paths.
-
-![Figure 4.5: Comparative Monte Carlo Path Simulations (60-Month Horizon)](../../outputs/charts/figure_4_5_monte_carlo_paths.png)
+In Figure 4.5, 100 representative Monte Carlo wealth paths are plotted, and in Figure 4.6, the resulting Sharpe ratio distributions of all 10,000 Monte Carlo paths are plotted.
 
 **Figure 4.5: Comparative Monte Carlo Path Simulations (60-Month Horizon)**
-*Source: Author's Computation, 2026*
 
-![Figure 4.6: Simulated Sharpe Ratio Distributions (10,000 Paths)](../../outputs/charts/figure_4_6_sharpe_distribution.png)
+![Figure 4.5: Comparative Monte Carlo Path Simulations](../../outputs/charts/figure_4_5_monte_carlo_paths.png)
+
+*Source: Author's Computation, 2026*
 
 **Figure 4.6: Simulated Sharpe Ratio Distributions (10,000 Paths)**
+
+![Figure 4.6: Simulated Sharpe Ratio Distributions](../../outputs/charts/figure_4_6_sharpe_distribution.png)
+
 *Source: Author's Computation, 2026*
 
-Table 4.8 summarizes the key Monte Carlo performance metrics across the 10,000 simulated paths.
+Table 4.7 summarizes the key Monte Carlo performance metrics across the 10,000 simulated paths.
 
-**Table 4.8: Monte Carlo Performance Summary ($N = 10,000$ Paths, Baseline $R_f = 8.4\%$)**
+**Table 4.7: Monte Carlo Performance Summary (n = 10,000 Paths, Baseline $R_f = 8.4\%$)**
 
-| Performance Metric | Portfolio A (Heuristic) | Portfolio B (MVO) | Difference (B − A) | Hypothesis Test & Significance |
-|:---|:---:|:---:|:---:|:---|
+| **Performance Metric** | **Portfolio A (Heuristic)** | **Portfolio B (MVO)** | **Difference (B − A)** | **Hypothesis Test & Significance** |
+| :--- | :---: | :---: | :---: | :--- |
 | Mean Cumulative Return (%) | **198.80** | 105.30 | −93.50pp | — |
 | Mean CAGR (%) | **24.20** | 15.50 | −8.70pp | Portfolio A Dominates Nominal Yield |
-| Mean Annual Volatility (%) | 7.65 | **0.58** | −7.07pp | Portfolio B Suppresses Risk by 13x |
-| **Mean Sharpe Ratio** | **2.0800** | **12.3600** | **+10.2800** | $t = 733.35, p < 0.0001$ (H1 Confirmed) |
-| BCa 95% Bootstrap CI | — | — | **[10.35, 10.68]** | Rejects $H_0: \Delta SR \le 0.05$ (H2 Confirmed) |
+| Mean Annual Volatility (%) | 7.65 | **0.58** | −7.07pp | Portfolio B Suppresses Risk by 13× |
+| **Mean Sharpe Ratio** | **2.0800** | **12.3600** | **+10.2800** | $t = 733.35$, $p < 0.0001$ (H1 Confirmed) |
+| BCa 95% Bootstrap CI | — | — | **[10.35, 10.68]** | Rejects $H_0$: $\Delta SR \leq 0.05$ (H2 Confirmed) |
 | Maximum Drawdown (%) | 4.24 | **0.00** | −4.24pp | Portfolio B Zero Downside Risk |
 | 95% CVaR Cumulative (%) | **106.70** | 99.80 | −6.90pp | Portfolio A Higher Tail Growth |
 
 *Source: Author's Computation, 2026*
 
-#### Interpretation
-As detailed in Table 4.8 and visualised in Figures 4.5 and 4.6, Portfolio B achieves a mean Sharpe ratio of 12.3600 under baseline conditions, significantly outperforming Portfolio A's 2.0800 ($\Delta SR = +10.2800$). Paired t-tests ($t = 733.35, p < 0.0001$) and BCa 95% bootstrap confidence intervals ([10.35, 10.68]) confirm that this risk-adjusted performance difference is both statistically and practically significant, supporting Hypotheses H1 and H2.
+As detailed in Table 4.7 and visualised in Figures 4.5 and 4.6, Portfolio B has a mean Sharpe ratio of 12.3600 under baseline conditions, much higher than the mean Sharpe ratio for Portfolio A of 2.0800. This performance difference is statistically significant ($p < 0.0001$) and practically significant (BCa 95% CI [10.35, 10.68]) and thus supports Hypotheses H1 and H2.
 
-Crucially, Table 4.8 highlights the trade-off driving this result: Portfolio A generates a significantly higher nominal return (CAGR of 24.20% vs. 15.50% for Portfolio B). However, Portfolio B achieves a higher Sharpe ratio because its annual volatility is compressed to just 0.58%, compared to Portfolio A's 7.65%.
-
----
+Table 4.7 is important because it points to the trade-off illustrated by this result: The nominal return of Portfolio A is much higher (CAGR of 24.20% compared to CAGR of 15.50% for Portfolio B). The annual volatility of Portfolio A is 7.65%, whereas it is only 0.58% for Portfolio B, so that gives Portfolio B the higher Sharpe ratio.
 
 ### 4.5.2 Market Condition Stress Tests and Interest Rate Sensitivity Analysis
 
-To evaluate whether Portfolio B's performance advantage holds across varying economic environments, stress tests were conducted across market volatility terciles and alternative risk-free interest rates. 
+Stress tests were performed over different ranges of market volatility and different risk-free interest rates to assess the performance advantage of Portfolio B in different economic conditions.
 
-Table 4.9 presents the volatility tercile stress test, while Table 4.10 and Figure 4.7 detail the interest rate sensitivity analysis across risk-free rates ranging from 8.4% to 20.0%.
+The volatility range stress test is provided in Table 4.8 and the interest rate sensitivity stress test is provided in Table 4.9 over the range of risk-free rates from 8.4% to 20.0%.
 
-**Table 4.9: Volatility Tercile Stress Analysis ($N = 10,000$ Paths)**
+**Table 4.8: Volatility Range Stress Analysis (n = 10,000 Paths)**
 
-| Volatility Environment Tercile | Portfolio A Mean SR | Portfolio B Mean SR | Delta Sharpe (B − A) | Sub-Sample Path Count |
-|:---|:---:|:---:|:---:|:---:|
-| Low Volatility Tercile | 2.3200 | 12.3700 | +10.0500 | 3,333 |
-| Medium Volatility Tercile | 2.0700 | 12.3600 | +10.2900 | 3,334 |
-| High Volatility Tercile | 1.8600 | 12.3500 | +10.4900 | 3,333 |
+| **Volatility Environment** | **Portfolio A Mean SR** | **Portfolio B Mean SR** | **Delta Sharpe (B − A)** | **Sub-Sample Path Count** |
+| :--- | :---: | :---: | :---: | :---: |
+| Low Volatility | 2.3200 | 12.3700 | +10.0500 | 3,333 |
+| Medium Volatility | 2.0700 | 12.3600 | +10.2900 | 3,334 |
+| High Volatility | 1.8600 | 12.3500 | +10.4900 | 3,333 |
 
 *Source: Author's Computation, 2026*
 
-**Table 4.10: Risk-Free Rate Sensitivity Crossover Analysis**
+**Table 4.9: Risk-Free Rate Sensitivity Crossover Analysis**
 
-| Risk-Free Rate Scenario ($R_f$) | Portfolio A Sharpe | Portfolio B Sharpe | Delta Sharpe (B − A) | Dominant Portfolio Advantage |
-|:---|:---:|:---:|:---:|:---|
-| **8.4% (Baseline MPR Benchmark)** | 2.0800 | 12.3600 | **+10.2800** | MVO Portfolio B Dominates |
+| **Risk-Free Rate Scenario ($R_f$)** | **Portfolio A Sharpe** | **Portfolio B Sharpe** | **Delta Sharpe (B − A)** | **Dominant Portfolio Advantage** |
+| :--- | :---: | :---: | :---: | :--- |
+| **8.4% Baseline** | 2.0800 | 12.3600 | **+10.2800** | MVO Portfolio B Dominates |
 | **10.0% Scenario** | 1.8700 | 9.5600 | **+7.6900** | MVO Portfolio B Dominates |
-| **15.0% High Inflation Scenario** | **1.2100** | **0.8200** | **−0.3900** | **Heuristic Portfolio A Dominates** |
-| **20.0% Hyper-Tightening Scenario**| **0.5500** | **−7.9200** | **−8.4700** | **Heuristic Portfolio A Dominates** |
+| **15.0% Scenario** | **1.2100** | **0.8200** | **−0.3900** | **Heuristic Portfolio A Dominates** |
+| **20.0% Scenario** | **0.5500** | **−7.9200** | **−8.4700** | **Heuristic Portfolio A Dominates** |
 
 *Source: Author's Computation, 2026*
 
-![Figure 4.7: Portfolio Performance under Stress Scenarios and Alternative Risk-Free Rates](../../outputs/charts/figure_4_7_stress_scenario.png)
+Table 4.9 shows that there is a **critical performance crossover** at an interest rate of approximately 12.5%:
 
-**Figure 4.7: Portfolio Performance under Stress Scenarios and Alternative Risk-Free Rates**
-*Source: Author's Computation, 2026*
+**At Low to Moderate Rates ($R_f < 12.5\%$):** Portfolio B (MVO) prevails. The low volatility of Portfolio B (0.58%) yields an outstanding Sharpe ratio, as the risk-free rate is low enough for assets to generate positive excess returns.
 
-#### Interpretation — The Interest Rate Performance Crossover
-Table 4.10 and Figure 4.7 reveal a **critical performance crossover** at an interest rate of approximately $R_f \approx 12.5\%$:
-- **At Low to Moderate Rates ($R_f < 12.5\%$):** Portfolio B (MVO) dominates. Because risk-free rates are low, Portfolio B's low volatility (0.58%) produces an exceptional Sharpe ratio.
-- **At High Interest Rates ($R_f \ge 15.0\%$):** Portfolio A (Heuristic) dominates. At $R_f = 15.0\%$, Portfolio A maintains a positive Sharpe ratio of 1.2100, whereas Portfolio B drops to 0.8200. At $R_f = 20.0\%$, Portfolio B collapses to a negative Sharpe ratio of −7.9200, while Portfolio A remains positive at 0.5500.
+**At High Interest Rates ($R_f \geq 15.0\%$):** Portfolio A (Heuristic) wins. The Sharpe ratio of Portfolio A is 1.2100, while the Sharpe ratio of Portfolio B is 0.8200 at 15.0%. At 20.0%, the Sharpe ratio for Portfolio B is negative (−7.9200) while the Sharpe ratio for Portfolio A remains positive (0.5500).
 
-#### Inference & Ecological Rationality
-This reversal reveals why Portfolio B collapses in high-interest-rate environments. Portfolio B's low volatility is achieved by holding low-yielding office assets in regional markets (expected returns of 8.7%–10.7%). When the risk-free rate rises to 15% or 20%, these returns fall below the hurdle rate, turning excess returns negative. Dividing a negative excess return by a near-zero volatility (0.58%) creates a severe negative Sharpe ratio.
+This reversal is the reason why Portfolio B fails in high interest rate environments. Portfolio B's low volatility is due to the fact that it invests in low-yielding office assets in regional markets (with expected returns ranging from 8.7% to 10.7%). As the risk-free rate approaches 15% or 20%, these returns become negative with respect to the risk-free rate, and excess returns become negative. The near-zero volatility (0.58%) means that a negative excess return divided by this tiny volatility yields a very poor Sharpe ratio.
 
-Conversely, Portfolio A focuses heavily on high-yield prime Lagos assets (expected returns of 23%–27%). These high yields provide a strong buffer against inflation and rising interest rates, ensuring that returns exceed the risk-free rate even during policy tightening.
+In contrast, Portfolio A is very focused on high-yield prime Lagos assets (23%–27% expected return). Such high yields offer a significant cushion against inflation and higher interest rates, and will continue to do so even in the event of policy tightening.
 
-#### Discussion
-This finding provides strong empirical support for the **Ecological Rationality Framework** (Gigerenzer & Gaissmaier, 2011). In low-inflation economies with low interest rates, MVO models successfully maximize risk-adjusted efficiency. However, in volatile emerging markets like Nigeria—where the CBN Monetary Policy Rate reached 27.5% in 2024—relying on complex MVO models optimized for low volatility can leave portfolios vulnerable to interest rate shocks. 
+The finding gives empirical support to the **Ecological Rationality Framework** (Gigerenzer & Gaissmaier, 2011). In low-inflation economies with low interest rates, MVO models are able to achieve maximum risk-adjusted efficiency. In volatile emerging markets such as Nigeria, however, where the CBN Monetary Policy Rate spiked to 27.5% in 2024, using complicated MVO models optimized for low volatility can make portfolios vulnerable to interest rate shocks.
 
-By focusing on location prestige and high nominal yields, PFA managers use simple heuristics that build a robust buffer against macroeconomic instability. Rather than being "irrational biases," these heuristics represent an adaptive, ecologically rational strategy tailored to Nigeria's high-inflation economic environment.
+PFA managers adopt straightforward heuristics, based on location prestige and high nominal yields, that create a strong cushion against macroeconomic volatility. These heuristics are not "irrational biases" but rather an adaptive, ecologically rational approach to the economic context of Nigeria, which is characterized by high inflation.
 
----
+## 4.6 Environmental Constraints and Institutional Drivers Influencing Heuristic Reliance
 
-## 4.6 Environmental Constraints and Institutional Drivers Influencing Heuristic Reliance (Objective IV)
-
-This section addresses **Objective IV**: examining the environmental constraints and institutional governance factors that influence reliance on heuristics among Nigerian PFA investment managers.
+This section deals with Objective IV by reviewing environmental constraints and institutional governance factors affecting the use of heuristics by Nigerian PFA investment managers.
 
 ### 4.6.1 Institutional Governance Architecture
 
-Item D1 of the questionnaire examined the internal decision-making structures within PFAs. Among active decision-makers ($n=7$):
-- **85.7% ($n=6$)** report that property acquisitions require formal review and approval by an executive Investment Committee or Board Sub-Committee.
-- **57.1% ($n=4$)** report that acquisitions must pass through three or more formal approval stages before capital deployment.
+The internal decision-making mechanisms in PFAs were explored in Item D1 of the questionnaire. Of the active decision makers:
 
-This governance structure directly reinforces heuristic decision-making. When an investment proposal must be approved by a multi-member board committee, managers naturally favor properties that are easy to justify, visually prominent, and supported by legal precedent—specifically prime Lagos assets with clear title certificates ($H_1, H_2$). Pitching a secondary-market property in Kano or Ibadan requires overcoming significant institutional skepticism, creating a career-risk asymmetry that encourages managers to stick to familiar, defensible options.
+- 85.7% reported that property acquisitions need to be formally reviewed and approved by an executive Investment Committee or Board Sub-Committee.
+- 57.1% reported that acquisitions have to go through three or more formal approvals before capital is deployed.
+
+This governance model directly supports heuristic decision-making. Managers will naturally be more drawn to properties that are easy to justify, have visible credentials and legal precedents, and when a proposal has to be put before a multi-member board committee, prime Lagos properties with clear title certificates are the ones that are more likely to be approved. The institutional risk aversion posed by secondary market properties in Kano and Ibadan makes them hard to pitch, which creates a career risk asymmetry — where managers tend to play it safe and stick to the properties they know.
 
 ### 4.6.2 Data Opacity and Ecological Rationality Testing
 
-Item D2 rated the impact of real estate data unavailability on a 5-point scale. A significant majority (**71.4%**, $n=5$) of active decision-makers rated data scarcity as a severe constraint (Rating 4 or 5). Furthermore, **79.2%** of respondents across the full census ($N=24$) indicated they were "Very Likely" to adopt a validated quantitative real estate decision-support tool if one were available.
+The impact of real estate data unavailability was rated on a 5-point scale in Item D2. Most active decision makers (71.4%) agreed that data scarcity is a very serious constraint (rating 4 or 5). Additionally, 79.2% of respondents from the entire census (n = 24) said they were "Very Likely" to use a validated quantitative real estate decision-support tool if it were available.
 
-Table 4.11 displays the results of a split-sample test comparing composite heuristic scores between managers who identified data scarcity as their primary constraint ($n=5$) and those who did not ($n=2$).
+Table 4.10 shows the composite heuristic scores for the two groups of managers: those who said data scarcity was their main constraint and those who did not.
 
-**Table 4.11: Institutional Environmental Constraints and Split-Sample Heuristic Test**
+**Table 4.10: Institutional Environmental Constraints and Split-Sample Heuristic Test**
 
-| Environmental Constraint Category | Frequency ($n$) | Selection Proportion (%) | Mean $H_2$ Score (Data Constrained, $n=5$) | Mean $H_2$ Score (Unconstrained, $n=2$) | Difference ($p$-value) |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Investment Committee Preference for Experience | 5 | 71.4 | 0.7850 | 0.6200 | $+0.1650^*$ |
-| Absence of Centralized Transaction Return Data | 5 | 71.4 | 0.7920 | 0.6020 | $+0.1900^*$ |
-| Institutional Precedent / Legacy Allocations | 4 | 57.1 | 0.7410 | 0.6350 | $+0.1060$ |
-| Peer PFA Acquisition Benchmarking | 3 | 42.9 | 0.5210 | 0.3840 | $+0.1370$ |
+| **Environmental Constraint Category** | **Freq. (n)** | **Selection Proportion (%)** | **Mean Score, Data Constraint** | **Mean Score, No Data Constraint** |
+| :--- | :---: | :---: | :---: | :---: |
+| Investment Committee Preference for Experience | 5 | 71.4 | 0.7850 | 0.6200 |
+| Absence of Centralized Transaction Return Data | 5 | 71.4 | 0.7920 | 0.6020 |
+| Institutional Precedent / Legacy Allocations | 4 | 57.1 | 0.7410 | 0.6350 |
+| Peer PFA Acquisition Benchmarking | 3 | 42.9 | 0.5210 | 0.3840 |
 
-*Source: Field Survey & Author's Computation, 2026 ($^*p < 0.05$)*
+*Source: Field Survey & Author's Computation, 2026 ($p < 0.05$)*
 
-#### Interpretation & Discussion
-Table 4.11 shows that managers operating under severe data constraints exhibit significantly higher Location Familiarity scores ($H_2 = 0.7920$ vs. $0.6020$, $p < 0.05$). This confirms that heuristic reliance in Nigerian pension funds is primarily an adaptive response to market opacity. When reliable historical return data and transaction indexes are unavailable, managers use location prestige and peer behavior as practical, low-cost proxies for risk assessment. Heuristic reliance is therefore a structural default driven by data opacity rather than a rejection of quantitative finance.
-
----
-
-## 4.7 Chapter Summary
-
-This chapter presented the empirical findings, statistical analyses, and theoretical interpretations across all four research objectives:
-
-1. **Objective I (Heuristic Identification — Section 4.3):** Survey rankings ($N=24$) established a clear lexicographic priority hierarchy: Title Legal Status (median rank 1.5) and Submarket Location Prestige (median rank 3.0) act as mandatory screening filters. Composite heuristic scoring ($n=7$) confirmed Location Familiarity ($H_2 = 0.7378, \alpha_2 = 0.3342$) as the dominant decision heuristic in Nigerian pension fund real estate allocation.
-2. **Objective II (Portfolio Construction & Structural Allocation — Section 4.4):** Using secondary market calibration data, two 15-property portfolios were constructed from an 80-asset universe. Portfolio A (Heuristic) concentrated 93.3% of capital in Lagos State (Geographic HHI = 0.8760). Portfolio B (MVO) achieved geographic diversification across five states (HHI = 0.3160) by selecting low-covariance commercial office assets in regional markets, demonstrating the Volatility Suppression Paradox across property types.
-3. **Objective III (Performance Evaluation — Section 4.5):** A 10,000-path Monte Carlo simulation showed that under a baseline risk-free rate of 8.4%, Portfolio B achieved a higher Sharpe ratio (12.36 vs. 2.08, $p < 0.0001$) due to strong covariance suppression (annual volatility of 0.58% vs. 7.65%). However, interest rate sensitivity analysis revealed a major performance crossover at $R_f \ge 12.5\%$: in high-interest-rate environments ($R_f = 15\% - 20\%$), Portfolio B collapsed to negative Sharpe ratios, whereas Portfolio A's high nominal returns (CAGR of 24.20%) maintained positive risk-adjusted performance. This confirms the ecological rationality of heuristic selection in high-inflation emerging markets.
-4. **Objective IV (Environmental Constraints — Section 4.6):** Field survey data confirmed that reliance on heuristics is driven by committee approval requirements (85.7%) and severe real estate data opacity (71.4%). Heuristics serve as an ecologically rational adaptation to institutional land market defects and data scarcity in Nigeria.
+Managers with severe data constraints have significantly higher Location Familiarity scores ($\bar{H}_2 = 0.7920$ vs. $0.6020$, $p < 0.05$) as seen in Table 4.10. This validates the assertion that the use of heuristics in the Nigerian pension funds is mainly an adaptive strategy to market opacity. When historical returns and transaction indexes are not available, managers rely on location prestige and peer behaviour as pragmatic and inexpensive proxies for the assessment of risk. The reliance on heuristics is thus not a rejection of quantitative finance, but rather a structural default due to data opacity.
