@@ -22,15 +22,25 @@ keywords:
 
 # HEURISTICS IN PROPERTY PORTFOLIO SELECTION DECISIONS OF NIGERIAN PENSION FUNDS
 
+<div align="center">
+
 *An Empirical Assessment of Adaptive Behaviour in Institutional Real Estate Allocation*
+
+<br/>
 
 **AKINMOKUN ISAAC OLUWASEUN**  
 *ESM/2019/023*
 
-> Being a dissertation submitted to the Department of Estate Management, Faculty of Environmental Design and Management, Obafemi Awolowo University, Ile-Ife, Nigeria, in partial fulfilment of the requirements for the award of the degree of Bachelor of Science (B.Sc. Hons) in Estate Management.
->
-> **Supervised by:** Prof. A. Olaleye  
-> **Date:** September 2026
+<br/>
+
+Being a dissertation submitted to the Department of Estate Management, Faculty of Environmental Design and Management, Obafemi Awolowo University, Ile-Ife, Nigeria, in partial fulfilment of the requirements for the award of the degree of Bachelor of Science (B.Sc. Hons) in Estate Management.
+
+<br/>
+
+**Supervised by:** Prof. A. Olaleye  
+**Date:** September 2026
+
+</div>
 
 ---
 
