@@ -191,37 +191,37 @@ The composite score formulae combine Likert-scale responses (Section B) and scen
 
 **Formula 3.1: Anchoring Composite Score (ACS)**
 
-$$ACS_k = \frac{w_1 \cdot B3_k + w_2 \cdot C1_k}{w_1 + w_2} \tag{3.1}$$
+$$ACS_k = \frac{w_1 \cdot B3_k + w_2 \cdot C1_k}{w_1 + w_2} \qquad (3.1)$$
 
 Where for respondent $k$: $B3_k$ = normalized response to Likert item B3 (title exclusion regardless of yield); $C1_k$ = normalized response to scenario C1 (anchoring scenario).
 
 **Formula 3.2: Availability Composite Score (AVCS)**
 
-$$AVCS_k = \frac{w_1 \cdot B1_{loc,k} + w_2 \cdot B2_k + w_3 \cdot C2_k}{w_1 + w_2 + w_3} \tag{3.2}$$
+$$AVCS_k = \frac{w_1 \cdot B1_{loc,k} + w_2 \cdot B2_k + w_3 \cdot C2_k}{w_1 + w_2 + w_3} \qquad (3.2)$$
 
 Where: $B1_{loc,k}$ = inverted, normalized rank assigned to "location prestige" in item B1 (rank 1 = score 1.0; rank 8 = score 0.0); $B2_k$ = normalized response to Likert item B2 (location as risk proxy); $C2_k$ = normalized response to scenario C2 (geographic preference scenario).
 
 **Formula 3.3: Representativeness Composite Score (RCS)**
 
-$$RCS_k = \frac{w_1 \cdot B1_{sector,k} + w_2 \cdot C3_k}{w_1 + w_2} \tag{3.3}$$
+$$RCS_k = \frac{w_1 \cdot B1_{sector,k} + w_2 \cdot C3_k}{w_1 + w_2} \qquad (3.3)$$
 
 Where: $B1_{sector,k}$ = inverted, normalized rank assigned to a momentum-relevant criterion in B1; $C3_k$ = normalized response to scenario C3 (momentum scenario).
 
 **Formula 3.4: Herding Composite Score (HCS)**
 
-$$HCS_k = \frac{w_1 \cdot B1_{peer,k} + w_2 \cdot B4_k + w_3 \cdot C4_k}{w_1 + w_2 + w_3} \tag{3.4}$$
+$$HCS_k = \frac{w_1 \cdot B1_{peer,k} + w_2 \cdot B4_k + w_3 \cdot C4_k}{w_1 + w_2 + w_3} \qquad (3.4)$$
 
 Where: $B1_{peer,k}$ = inverted, normalized rank assigned to "activity of peer PFAs" in B1; $B4_k$ = normalized response to Likert item B4 (portfolio similarity to peers); $C4_k$ = normalized response to scenario C4 (herding scenario).
 
 **Formula 3.5: Population Prevalence Formula**
 
-$$\bar{H}_j = \frac{1}{N} \sum_{k=1}^{N} H_{j,k} \tag{3.5}$$
+$$\bar{H}_j = \frac{1}{N} \sum_{k=1}^{N} H_{j,k} \qquad (3.5)$$
 
 Where: $\bar{H}_j$ = mean composite score for heuristic $j$ across all $N$ respondents; $H_{j,k}$ = individual composite score for respondent $k$ on heuristic $j$. A score of 0.5 represents a neutral midpoint. Scores above 0.5 indicate net heuristic-consistent responses; scores above 0.7 are classified as prevalent.
 
 **Formula 3.6: Calibration of Portfolio Construction Weights**
 
-$$\alpha_j = \frac{\bar{H}_j}{\sum_{i=1}^{4} \bar{H}_i} \tag{3.6}$$
+$$\alpha_j = \frac{\bar{H}_j}{\sum_{i=1}^{4} \bar{H}_i} \qquad (3.6)$$
 
 Where: $\alpha_j$ = portfolio scoring weight for heuristic $j$ ($j = 1$: anchoring; $j = 2$: availability; $j = 3$: representativeness; $j = 4$: herding), normalized so that $\alpha_1 + \alpha_2 + \alpha_3 + \alpha_4 = 1$. These weights are the direct methodological link between Phase 1 (survey) and Phase 2 (portfolio construction): the empirically observed heuristic weights from the questionnaire calibrate the scoring function used to construct the heuristic portfolio.
 
@@ -231,37 +231,37 @@ To build either of the portfolios, one needs to compute individual financial met
 
 **Formula 3.7: Total Acquisition Cost (TAC)**
 
-$$TAC_i = P_i \times (1 + f_{agency} + f_{legal} + f_{consent,s_i}) \tag{3.7}$$
+$$TAC_i = P_i \times (1 + f_{agency} + f_{legal} + f_{consent,s_i}) \qquad (3.7)$$
 
 Where: $P_i$ = asking price of property $i$ (₦); $f_{agency}$ = 0.05 (agency fee, 5%); $f_{legal}$ = 0.05 (legal fee, 5%); $f_{consent,s_i}$ = Governor's Consent fee applicable to the state of property $i$ (0.10 for Lagos; 0.05 for all other states). All three cost rates are calibrated from standard Nigerian institutional practice.
 
 **Formula 3.8: Net Operating Income (NOI)**
 
-$$NOI_i = (GR_i \times (1 - v_{a_i})) - (GR_i \times m_{a_i}) \tag{3.8}$$
+$$NOI_i = (GR_i \times (1 - v_{a_i})) - (GR_i \times m_{a_i}) \qquad (3.8)$$
 
 Where: $GR_i$ = estimated annual gross rent of property $i$ (₦); $v_{a_i}$ = vacancy rate applicable to asset type $a_i$ (0.05 for office; 0.04 for commercial; 0.05 for industrial; 0.06 for residential and mixed-use); $m_{a_i}$ = maintenance rate applicable to asset type $a_i$ (0.10 for office and commercial; 0.08 for industrial; 0.15 for residential; 0.12 for mixed-use). Rates are calibrated from CBRE Nigeria (2023) and PenCom annual report data.
 
 **Formula 3.9: Capitalization Rate**
 
-$$CR_i = \frac{NOI_i}{TAC_i} \tag{3.9}$$
+$$CR_i = \frac{NOI_i}{TAC_i} \qquad (3.9)$$
 
 The cap rate measures the income yield on total investment cost and is the fundamental measure of current income return for a buy-and-hold investment.
 
 **Formula 3.10: Expected Annual Return**
 
-$$E[R_i] = CR_i + \mu_{idx(i)} \tag{3.10}$$
+$$E[R_i] = CR_i + \mu_{idx(i)} \qquad (3.10)$$
 
 Where: $\mu_{idx(i)}$ = mean annual capital appreciation for the market index to which property $i$ is assigned, estimated as the arithmetic mean of the index's historical capital appreciation observations. This decomposes expected return into its two components: income return (cap rate) and capital return (index mean appreciation).
 
 **Formula 3.11: Total Volatility**
 
-$$\sigma_i = \sigma_{idx(i)} + \delta^{title}_{tl_i} + \delta^{cond}_{cn_i} \tag{3.11}$$
+$$\sigma_i = \sigma_{idx(i)} + \delta^{title}_{tl_i} + \delta^{cond}_{cn_i} \qquad (3.11)$$
 
 Where: $\sigma_{idx(i)}$ = standard deviation of annual total returns for property $i$'s market index, computed from the historical index return series; $\delta^{title}_{tl_i}$ = title risk premium (0.000 for C of O; 0.005 for Governor's Consent; 0.030 for Gazette; 0.050 for Excision; 0.020 for Deed of Assignment); $\delta^{cond}_{cn_i}$ = condition risk premium (0.000 for New; 0.005 for Good; 0.015 for Fair; 0.030 for Needs Renovation). These property-specific premiums are added to the general market volatility to capture the extra risk introduced by the building's physical condition and legal title.
 
 **Formula 3.12: Individual Sharpe Ratio**
 
-$$SR_i = \frac{E[R_i] - R_f}{\sigma_i} \tag{3.12}$$
+$$SR_i = \frac{E[R_i] - R_f}{\sigma_i} \qquad (3.12)$$
 
 Where: $R_f$ = the approximate average Nigerian T-Bill rate over the study period. The study employs the average rate over the backtest period rather than the current spot rate (~27.5% as at Q1 2026) because the performance comparison is set against the backtest market environment.
 
@@ -271,13 +271,13 @@ Two portfolios were constructed from the 80-property universe. Portfolio A uses 
 
 **Formula 3.13: Composite Heuristic Scoring Function**
 
-$$H(p_i) = \alpha_1 \cdot TS(p_i) + \alpha_2 \cdot LS(p_i) + \alpha_3 \cdot MS(p_i) + \alpha_4 \cdot PS(p_i) \tag{3.13}$$
+$$H(p_i) = \alpha_1 \cdot TS(p_i) + \alpha_2 \cdot LS(p_i) + \alpha_3 \cdot MS(p_i) + \alpha_4 \cdot PS(p_i) \qquad (3.13)$$
 
 Where: $H(p_i) \in [0, 1]$ is the composite heuristic score for property $i$; $TS(p_i)$ = Title Score (1.0 if C of O; 0.5 if Governor's Consent; 0.0 otherwise); $LS(p_i)$ = Location Score (1.0 if prime tier; 0.6 if secondary; 0.2 if emerging); $MS(p_i)$ = Momentum Score, normalized recent return of property $i$'s market index: $MS(p_i) = (R_{idx(i),recent} - R_{min}) / (R_{max} - R_{min})$; $PS(p_i)$ = Peer Score (1.0 if property $i$ is in a submarket where $\geq 2$ peer PFAs have reported holdings in the most recent PenCom quarterly data; 0.0 otherwise); $\alpha_1 – \alpha_4$ = calibration weights from Formula 3.6.
 
 **Formula 3.14: Portfolio Expected Return**
 
-$$E[R_P] = \sum_{i=1}^{80} w_i x_i E[R_i] \quad \text{where} \quad w_i = \frac{1}{\sum_{j=1}^{80} x_j} \tag{3.14}$$
+$$E[R_P] = \sum_{i=1}^{80} w_i x_i E[R_i] \quad \text{where} \quad w_i = \frac{1}{\sum_{j=1}^{80} x_j} \qquad (3.14)$$
 
 ### 3.5.4 Performance Metrics Calculation
 
@@ -310,7 +310,7 @@ $$H_2: E[SR_B] - E[SR_A] < 0 \quad \text{(heuristics produces higher Sharpe rati
 
 **Formula 3.15: Paired t-test**
 
-$$t = \frac{\bar{d}}{s_d / \sqrt{n}} \tag{3.15}$$
+$$t = \frac{\bar{d}}{s_d / \sqrt{n}} \qquad (3.15)$$
 
 Where: $d_s = SR_{B,s} - SR_{A,s}$ (difference in Sharpe ratios for simulation $s$); $\bar{d}$ = mean difference across 10,000 simulations; $s_d$ = standard deviation of differences.
 
